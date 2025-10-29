@@ -180,3 +180,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 token.txt
+fuel_api_token.txt
+cairns_fuel_stations_map.html
+*.db
+*.db-info
+*.db-shm
+*.db-wal
+turso_token.txt
