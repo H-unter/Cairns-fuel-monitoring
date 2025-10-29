@@ -8,13 +8,21 @@ import os
 import libsql
 
 
-def load_api_token(file_path: str) -> str:
-    """Load API token from .txt file ignored from version control"""
-    with open(file_path, 'r', encoding='utf-8') as f:
-        return f.read().strip()
+def load_secret(name: str, fallback_file: str | None = None) -> str:
+    """Prefer env var, else read from file, else raise."""
+    v = os.getenv(name, "").strip()
+    if not v and fallback_file:
+        try:
+            with open(fallback_file, "r", encoding="utf-8") as f:
+                v = f.read().strip()
+        except FileNotFoundError:
+            v = ""
+    if not v:
+        raise RuntimeError(f"Missing required secret: {name} (env or {fallback_file})")
+    return v
 
-FUEL_API_TOKEN = load_api_token('fuel_api_token.txt')
-TURSO_TOKEN    = load_api_token('turso_token.txt')
+FUEL_API_TOKEN = load_secret('fuel_api_token.txt')
+TURSO_TOKEN    = load_secret('turso_token.txt')
 TURSO_DB_URL   = "libsql://cairns-fuel-h-unter.aws-ap-northeast-1.turso.io"
 
 COUNTRY_ID = 21           # Australia
