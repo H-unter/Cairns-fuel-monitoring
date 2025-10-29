@@ -39,5 +39,7 @@ jobs:
           echo "${{ secrets.TURSO_AUTH_TOKEN }}" > turso_token.txt
 
       - name: Run updater
-        run: |
-          python query.py
+        env:
+          FUEL_API_TOKEN: ${{ secrets.FUEL_API_TOKEN }}
+          TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
+        run: python query.py
