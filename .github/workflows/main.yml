@@ -1,40 +1,43 @@
-name: Daily Fuel Prices Snapshot
+name: Update Turso Fuel DB
 
 on:
+  # Runs at 09:05 AEST (UTC+10). GitHub cron uses UTC, so that's 23:05 UTC the prior day.
   schedule:
-    # Runs once every day at 09:00 AEST (23:00 UTC previous day)
-    - cron: '0 23 * * *'
-  workflow_dispatch:
+    - cron: "5 23 * * *"
+  # Allow manual trigger
+  workflow_dispatch: {}
 
-permissions:
-  contents: write    # allow writing files back to the repo
+concurrency:
+  group: fuel-db-update
+  cancel-in-progress: false
 
 jobs:
-  fetch-save:
+  run-update:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          fetch-depth: 0
+          python-version: "3.11"
 
-      - name: Fetch fuel price data
-        env:
-          FPD_TOKEN: ${{ secrets.FPD_API_TOKEN }}
+      - name: Install dependencies
         run: |
-          timestamp=$(date -u +"%Y-%m-%dT%H-%M-%SZ")
-          mkdir -p historical_data
-          curl -H "Authorization: FPDAPI SubscriberToken=$FPD_TOKEN" \
-               -H "Content-Type: application/json" \
-               "https://fppdirectapi-prod.fuelpricesqld.com.au/Price/GetSitesPrices?countryId=21&geoRegionLevel=2&geoRegionId=16" \
-               > historical_data/prices-$timestamp.json
-          cp historical_data/prices-$timestamp.json historical_data/latest.json
+          python -m pip install --upgrade pip
+          pip install libsql requests pandas
 
-      - name: Commit and push snapshot files
+      - name: Write secret tokens to files expected by script
+        # Your script reads these files:
+        #   fuel_api_token.txt (for QLD Fuel API)
+        #   turso_token.txt     (for Turso auth)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add historical_data/
-          git commit -m "Add fuel prices snapshot $timestamp" || echo "No changes to commit"
-          git push
+          echo "${{ secrets.FUEL_API_TOKEN }}" > fuel_api_token.txt
+          echo "${{ secrets.TURSO_AUTH_TOKEN }}" > turso_token.txt
+
+      - name: Run updater
+        run: |
+          python query.py
