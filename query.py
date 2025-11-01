@@ -188,7 +188,6 @@ def main():
         "turso_cache.db",
         sync_url=TURSO_DB_URL,
         auth_token=TURSO_TOKEN,
-        # sync_interval=60,  # optional: auto pull every N seconds
     )
     cursor = connection.cursor()
     cursor.execute("PRAGMA foreign_keys=ON;")
@@ -202,6 +201,22 @@ def main():
     connection.sync()     # pull any remote changes (optional for one-off runs)
     print(f"Upserted: brands={len(brands_df)} fuels={len(fuels_df)} "
           f"sites={len(sites_df)} prices={len(prices_df)}")
+    
+    # collect turso database information and save to a file
+    output_dir = "data"
+    os.makedirs(output_dir, exist_ok=True)
+    output_path = os.path.join(output_dir, "latest.json")
+
+    # Merge human-friendly info
+    merged_df = (
+        prices_df
+        .merge(sites_df[["Site_ID", "Name", "Address", "Postcode"]], on="Site_ID", how="left")
+        .merge(fuels_df.rename(columns={"FuelId": "Fuel_ID"})[["Fuel_ID", "Name"]]
+               .rename(columns={"Name": "Fuel_Name"}), on="Fuel_ID", how="left")
+    )
+
+    merged_df.to_json(output_path, orient="records", indent=2)
+    print(f"Saved {len(merged_df)} current records → {output_path}")
 
 if __name__ == "__main__":
     main()

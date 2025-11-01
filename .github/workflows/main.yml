@@ -1,10 +1,17 @@
 name: Update Turso Fuel DB (daily)
 
 on:
+  # Runs at 09:05 AEST (UTC+10). GitHub cron is UTC → 23:05 UTC previous day.
   schedule:
-    # 09:05 AEST (UTC+10) -> 23:05 UTC previous day
     - cron: "5 23 * * *"
   workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fuel-db-update
+  cancel-in-progress: false
 
 jobs:
   run-update:
@@ -25,12 +32,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install libsql requests pandas
 
-      - name: Write token files (fallback)
+      - name: Write token files
         run: |
           printf "%s" "${{ secrets.FUEL_API_TOKEN }}" > fuel_api_token.txt
           printf "%s" "${{ secrets.TURSO_AUTH_TOKEN }}" > turso_token.txt
 
-      - name: Sanity check secrets (no leak)
+      - name: Check tokens are present
         env:
           FUEL_API_TOKEN: ${{ secrets.FUEL_API_TOKEN }}
           TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
@@ -39,8 +46,18 @@ jobs:
           [ -n "$TURSO_AUTH_TOKEN" ] || (echo "Missing TURSO_AUTH_TOKEN secret" && exit 1)
           echo "Secrets present."
 
-      - name: Run updater
+      - name: Conduct API query and update Turso DB
         env:
           FUEL_API_TOKEN: ${{ secrets.FUEL_API_TOKEN }}
           TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
         run: python query.py
+
+      - name: Commit & Push local data/latest.json changes
+        if: ${{ github.event_name != 'pull_request' }}
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          git add data/latest.json
+          git commit -m "Update latest fuel prices [auto]" || echo "No changes to commit"
+          git push
