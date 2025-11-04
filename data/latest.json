@@ -152,7 +152,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-04T06:05:44+10:00",
+    "TransactionDate":"2025-11-05T05:45:51+10:00",
     "Price":1.779,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -202,7 +202,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-04T09:05:40+10:00",
+    "TransactionDate":"2025-11-05T08:10:43+10:00",
     "Price":1.719,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -292,7 +292,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-04T09:15:30+10:00",
+    "TransactionDate":"2025-11-05T09:15:31+10:00",
     "Price":1.749,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -302,8 +302,8 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":2,
-    "TransactionDate":"2025-10-01T11:20:15+10:00",
-    "Price":1.675,
+    "TransactionDate":"2025-11-04T13:19:22+10:00",
+    "Price":1.715,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -322,8 +322,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-03T09:03:49+10:00",
-    "Price":1.655,
+    "TransactionDate":"2025-11-04T10:52:24+10:00",
+    "Price":1.695,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -332,7 +332,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-04T09:15:30+10:00",
+    "TransactionDate":"2025-11-05T09:15:31+10:00",
     "Price":1.819,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -512,7 +512,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-04T04:28:01+10:00",
+    "TransactionDate":"2025-11-05T04:26:01+10:00",
     "Price":1.719,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -522,8 +522,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":2,
-    "TransactionDate":"2025-10-30T15:30:09+10:00",
-    "Price":1.755,
+    "TransactionDate":"2025-11-04T11:50:06+10:00",
+    "Price":1.724,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -612,8 +612,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-04T08:05:05+10:00",
-    "Price":1.839,
+    "TransactionDate":"2025-11-04T13:45:05+10:00",
+    "Price":1.835,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -662,7 +662,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-04T06:05:44+10:00",
+    "TransactionDate":"2025-11-05T05:45:51+10:00",
     "Price":1.879,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -712,7 +712,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-04T09:05:42+10:00",
+    "TransactionDate":"2025-11-05T08:10:45+10:00",
     "Price":1.839,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -802,7 +802,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-04T09:15:30+10:00",
+    "TransactionDate":"2025-11-05T09:15:31+10:00",
     "Price":1.899,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -812,8 +812,8 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":3,
-    "TransactionDate":"2025-10-01T11:20:15+10:00",
-    "Price":1.755,
+    "TransactionDate":"2025-11-04T13:19:22+10:00",
+    "Price":1.835,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-03T09:03:49+10:00",
+    "TransactionDate":"2025-11-04T10:52:24+10:00",
     "Price":1.775,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -842,7 +842,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-04T09:15:30+10:00",
+    "TransactionDate":"2025-11-05T09:15:31+10:00",
     "Price":1.959,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1232,7 +1232,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-04T09:15:30+10:00",
+    "TransactionDate":"2025-11-05T09:15:31+10:00",
     "Price":1.929,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1242,8 +1242,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-03T09:03:49+10:00",
-    "Price":1.795,
+    "TransactionDate":"2025-11-04T10:52:24+10:00",
+    "Price":1.835,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -1252,7 +1252,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-04T09:15:30+10:00",
+    "TransactionDate":"2025-11-05T09:15:31+10:00",
     "Price":1.989,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1412,7 +1412,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-04T05:06:04+10:00",
+    "TransactionDate":"2025-11-05T04:26:01+10:00",
     "Price":1.839,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -1542,7 +1542,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-04T09:05:41+10:00",
+    "TransactionDate":"2025-11-05T08:10:44+10:00",
     "Price":1.949,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -1602,7 +1602,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-04T09:15:30+10:00",
+    "TransactionDate":"2025-11-05T09:15:31+10:00",
     "Price":2.019,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1612,7 +1612,7 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":8,
-    "TransactionDate":"2025-10-01T11:20:15+10:00",
+    "TransactionDate":"2025-11-04T13:19:22+10:00",
     "Price":1.989,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
@@ -1632,7 +1632,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-04T09:15:30+10:00",
+    "TransactionDate":"2025-11-05T09:15:31+10:00",
     "Price":2.079,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-04T04:28:01+10:00",
+    "TransactionDate":"2025-11-05T04:26:01+10:00",
     "Price":1.919,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -1712,8 +1712,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":8,
-    "TransactionDate":"2025-10-30T15:30:09+10:00",
-    "Price":2.079,
+    "TransactionDate":"2025-11-04T11:50:06+10:00",
+    "Price":2.059,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1812,7 +1812,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":12,
-    "TransactionDate":"2025-11-04T06:05:44+10:00",
+    "TransactionDate":"2025-11-05T05:45:51+10:00",
     "Price":1.759,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -1842,7 +1842,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":12,
-    "TransactionDate":"2025-11-04T09:05:41+10:00",
+    "TransactionDate":"2025-11-05T08:10:44+10:00",
     "Price":1.679,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -1922,7 +1922,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":12,
-    "TransactionDate":"2025-11-04T05:14:24+10:00",
+    "TransactionDate":"2025-11-05T04:26:01+10:00",
     "Price":1.699,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -1982,7 +1982,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":14,
-    "TransactionDate":"2025-11-04T09:05:43+10:00",
+    "TransactionDate":"2025-11-05T08:10:45+10:00",
     "Price":1.869,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -2012,7 +2012,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":14,
-    "TransactionDate":"2025-11-04T04:28:01+10:00",
+    "TransactionDate":"2025-11-05T04:26:01+10:00",
     "Price":1.839,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -2022,8 +2022,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":14,
-    "TransactionDate":"2025-10-30T15:30:09+10:00",
-    "Price":1.945,
+    "TransactionDate":"2025-11-04T11:50:06+10:00",
+    "Price":1.895,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
