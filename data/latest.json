@@ -62,8 +62,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":2,
-    "TransactionDate":"2025-10-21T10:35:01+10:00",
-    "Price":1.959,
+    "TransactionDate":"2025-11-05T10:23:35+10:00",
+    "Price":1.899,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -72,8 +72,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":2,
-    "TransactionDate":"2025-10-21T09:59:55+10:00",
-    "Price":1.959,
+    "TransactionDate":"2025-11-06T08:16:38+10:00",
+    "Price":1.899,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -152,7 +152,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-05T05:45:51+10:00",
+    "TransactionDate":"2025-11-06T06:01:02+10:00",
     "Price":1.779,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -252,8 +252,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":2,
-    "TransactionDate":"2025-10-31T16:13:53+10:00",
-    "Price":1.719,
+    "TransactionDate":"2025-11-06T08:20:19+10:00",
+    "Price":1.759,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -292,8 +292,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-05T09:15:31+10:00",
-    "Price":1.749,
+    "TransactionDate":"2025-11-06T09:15:31+10:00",
+    "Price":1.729,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -332,7 +332,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-05T09:15:31+10:00",
+    "TransactionDate":"2025-11-06T09:15:31+10:00",
     "Price":1.819,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -362,8 +362,8 @@
   {
     "Site_ID":61477674,
     "Fuel_ID":2,
-    "TransactionDate":"2025-10-12T13:03:55+10:00",
-    "Price":1.707,
+    "TransactionDate":"2025-11-05T13:55:43+10:00",
+    "Price":1.717,
     "Name":"Edge Hill Servo",
     "Address":"134 Collins Ave",
     "Postcode":"4870",
@@ -392,8 +392,8 @@
   {
     "Site_ID":61477727,
     "Fuel_ID":2,
-    "TransactionDate":"2025-10-12T13:27:14+10:00",
-    "Price":1.707,
+    "TransactionDate":"2025-11-05T14:01:53+10:00",
+    "Price":1.717,
     "Name":"Machans Beach Store and Post Office",
     "Address":"27 Machans Street",
     "Postcode":"4878",
@@ -462,8 +462,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":2,
-    "TransactionDate":"2025-09-15T15:04:20+10:00",
-    "Price":1.789,
+    "TransactionDate":"2025-11-05T13:22:15+10:00",
+    "Price":1.749,
     "Name":"Mossman Raintrees Central Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -512,7 +512,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-05T04:26:01+10:00",
+    "TransactionDate":"2025-11-06T04:28:01+10:00",
     "Price":1.719,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -570,10 +570,20 @@
     "Fuel_Name":"Diesel"
   },
   {
+    "Site_ID":61402067,
+    "Fuel_ID":3,
+    "TransactionDate":"2025-11-05T09:30:20+10:00",
+    "Price":1.839,
+    "Name":"Caltex Woree",
+    "Address":"590 Mulgrave Rd",
+    "Postcode":"4868",
+    "Fuel_Name":"Diesel"
+  },
+  {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-01T08:53:22+10:00",
-    "Price":1.829,
+    "TransactionDate":"2025-11-06T06:55:05+10:00",
+    "Price":1.849,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -662,7 +672,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-05T05:45:51+10:00",
+    "TransactionDate":"2025-11-06T06:01:02+10:00",
     "Price":1.879,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -762,8 +772,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-02T07:25:46+10:00",
-    "Price":1.839,
+    "TransactionDate":"2025-11-06T08:20:19+10:00",
+    "Price":1.879,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -792,8 +802,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":3,
-    "TransactionDate":"2025-10-30T13:10:05+10:00",
-    "Price":1.829,
+    "TransactionDate":"2025-11-05T17:30:09+10:00",
+    "Price":1.854,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -802,7 +812,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-05T09:15:31+10:00",
+    "TransactionDate":"2025-11-06T09:15:31+10:00",
     "Price":1.899,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -842,7 +852,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-05T09:15:31+10:00",
+    "TransactionDate":"2025-11-06T09:15:31+10:00",
     "Price":1.959,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -872,8 +882,8 @@
   {
     "Site_ID":61477674,
     "Fuel_ID":3,
-    "TransactionDate":"2025-10-12T13:03:55+10:00",
-    "Price":1.779,
+    "TransactionDate":"2025-11-05T13:55:43+10:00",
+    "Price":1.839,
     "Name":"Edge Hill Servo",
     "Address":"134 Collins Ave",
     "Postcode":"4870",
@@ -902,8 +912,8 @@
   {
     "Site_ID":61477727,
     "Fuel_ID":3,
-    "TransactionDate":"2025-10-12T13:27:14+10:00",
-    "Price":1.779,
+    "TransactionDate":"2025-11-05T14:01:53+10:00",
+    "Price":1.839,
     "Name":"Machans Beach Store and Post Office",
     "Address":"27 Machans Street",
     "Postcode":"4878",
@@ -972,8 +982,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":3,
-    "TransactionDate":"2025-09-15T15:04:20+10:00",
-    "Price":1.879,
+    "TransactionDate":"2025-11-05T13:22:15+10:00",
+    "Price":1.839,
     "Name":"Mossman Raintrees Central Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -1077,6 +1087,16 @@
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
     "Postcode":"4879",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61402067,
+    "Fuel_ID":5,
+    "TransactionDate":"2025-11-05T09:30:20+10:00",
+    "Price":1.999,
+    "Name":"Caltex Woree",
+    "Address":"590 Mulgrave Rd",
+    "Postcode":"4868",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
@@ -1232,8 +1252,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-05T09:15:31+10:00",
-    "Price":1.929,
+    "TransactionDate":"2025-11-06T09:15:31+10:00",
+    "Price":1.909,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1252,7 +1272,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-05T09:15:31+10:00",
+    "TransactionDate":"2025-11-06T09:15:31+10:00",
     "Price":1.989,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1272,8 +1292,8 @@
   {
     "Site_ID":61477674,
     "Fuel_ID":5,
-    "TransactionDate":"2025-10-12T13:03:55+10:00",
-    "Price":1.857,
+    "TransactionDate":"2025-11-05T13:55:43+10:00",
+    "Price":1.867,
     "Name":"Edge Hill Servo",
     "Address":"134 Collins Ave",
     "Postcode":"4870",
@@ -1302,8 +1322,8 @@
   {
     "Site_ID":61477727,
     "Fuel_ID":5,
-    "TransactionDate":"2025-09-24T08:13:36+10:00",
-    "Price":1.877,
+    "TransactionDate":"2025-11-05T14:01:53+10:00",
+    "Price":1.867,
     "Name":"Machans Beach Store and Post Office",
     "Address":"27 Machans Street",
     "Postcode":"4878",
@@ -1372,8 +1392,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":5,
-    "TransactionDate":"2025-09-15T15:04:20+10:00",
-    "Price":1.929,
+    "TransactionDate":"2025-11-05T13:22:15+10:00",
+    "Price":1.899,
     "Name":"Mossman Raintrees Central Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -1412,7 +1432,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-05T04:26:01+10:00",
+    "TransactionDate":"2025-11-06T04:28:01+10:00",
     "Price":1.839,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -1450,6 +1470,16 @@
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
+    "Site_ID":61402067,
+    "Fuel_ID":8,
+    "TransactionDate":"2025-11-05T09:30:20+10:00",
+    "Price":2.049,
+    "Name":"Caltex Woree",
+    "Address":"590 Mulgrave Rd",
+    "Postcode":"4868",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
     "Site_ID":61402393,
     "Fuel_ID":8,
     "TransactionDate":"2025-10-31T07:48:23+10:00",
@@ -1462,8 +1492,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":8,
-    "TransactionDate":"2025-10-21T10:35:01+10:00",
-    "Price":2.209,
+    "TransactionDate":"2025-11-05T10:23:35+10:00",
+    "Price":2.149,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -1472,8 +1502,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":8,
-    "TransactionDate":"2025-10-21T09:59:55+10:00",
-    "Price":2.209,
+    "TransactionDate":"2025-11-06T08:16:38+10:00",
+    "Price":2.149,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -1572,8 +1602,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":8,
-    "TransactionDate":"2025-10-31T16:13:53+10:00",
-    "Price":1.949,
+    "TransactionDate":"2025-11-06T08:20:19+10:00",
+    "Price":1.989,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -1602,8 +1632,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-05T09:15:31+10:00",
-    "Price":2.019,
+    "TransactionDate":"2025-11-06T09:15:31+10:00",
+    "Price":1.999,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1632,7 +1662,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-05T09:15:31+10:00",
+    "TransactionDate":"2025-11-06T09:15:31+10:00",
     "Price":2.079,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1702,7 +1732,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-05T04:26:01+10:00",
+    "TransactionDate":"2025-11-06T04:28:01+10:00",
     "Price":1.919,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -1742,8 +1772,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":12,
-    "TransactionDate":"2025-10-21T10:35:01+10:00",
-    "Price":1.939,
+    "TransactionDate":"2025-11-05T10:23:35+10:00",
+    "Price":1.879,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -1752,8 +1782,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":12,
-    "TransactionDate":"2025-10-21T09:59:55+10:00",
-    "Price":1.939,
+    "TransactionDate":"2025-11-06T08:16:38+10:00",
+    "Price":1.879,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -1812,7 +1842,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":12,
-    "TransactionDate":"2025-11-05T05:45:51+10:00",
+    "TransactionDate":"2025-11-06T06:01:02+10:00",
     "Price":1.759,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -1862,8 +1892,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":12,
-    "TransactionDate":"2025-10-31T16:13:53+10:00",
-    "Price":1.699,
+    "TransactionDate":"2025-11-06T08:20:19+10:00",
+    "Price":1.739,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -1922,7 +1952,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":12,
-    "TransactionDate":"2025-11-05T04:26:01+10:00",
+    "TransactionDate":"2025-11-06T04:28:01+10:00",
     "Price":1.699,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -1940,6 +1970,16 @@
     "Fuel_Name":"Premium Diesel"
   },
   {
+    "Site_ID":61402067,
+    "Fuel_ID":14,
+    "TransactionDate":"2025-11-05T09:30:20+10:00",
+    "Price":1.869,
+    "Name":"Caltex Woree",
+    "Address":"590 Mulgrave Rd",
+    "Postcode":"4868",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
     "Site_ID":61402357,
     "Fuel_ID":14,
     "TransactionDate":"2025-10-31T14:28:02+10:00",
@@ -1952,8 +1992,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":14,
-    "TransactionDate":"2025-10-28T04:33:04+10:00",
-    "Price":1.939,
+    "TransactionDate":"2025-11-06T08:43:56+10:00",
+    "Price":1.959,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -2012,7 +2052,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":14,
-    "TransactionDate":"2025-11-05T04:26:01+10:00",
+    "TransactionDate":"2025-11-06T04:28:01+10:00",
     "Price":1.839,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
