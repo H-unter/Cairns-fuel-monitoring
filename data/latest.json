@@ -212,8 +212,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-03T08:39:23+10:00",
-    "Price":1.809,
+    "TransactionDate":"2025-11-07T13:43:16+10:00",
+    "Price":1.789,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -292,8 +292,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-07T09:15:31+10:00",
-    "Price":1.729,
+    "TransactionDate":"2025-11-08T09:15:30+10:00",
+    "Price":1.739,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-04T10:52:24+10:00",
+    "TransactionDate":"2025-11-08T05:35:52+10:00",
     "Price":1.695,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -332,8 +332,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-07T09:15:31+10:00",
-    "Price":1.819,
+    "TransactionDate":"2025-11-08T09:15:30+10:00",
+    "Price":1.799,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -510,16 +510,6 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61478205,
-    "Fuel_ID":2,
-    "TransactionDate":"2025-11-07T05:10:18+10:00",
-    "Price":1.719,
-    "Name":"7-Eleven North Cairns",
-    "Address":"334-336 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
     "Site_ID":61478243,
     "Fuel_ID":2,
     "TransactionDate":"2025-11-04T11:50:06+10:00",
@@ -592,8 +582,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-06T09:47:04+10:00",
-    "Price":1.799,
+    "TransactionDate":"2025-11-07T12:32:09+10:00",
+    "Price":1.809,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -682,8 +672,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":3,
-    "TransactionDate":"2025-09-10T07:59:22+10:00",
-    "Price":1.839,
+    "TransactionDate":"2025-11-07T13:02:12+10:00",
+    "Price":1.859,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -732,7 +722,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-03T08:39:23+10:00",
+    "TransactionDate":"2025-11-07T13:43:16+10:00",
     "Price":1.949,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -812,7 +802,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-07T09:15:31+10:00",
+    "TransactionDate":"2025-11-08T09:15:30+10:00",
     "Price":1.879,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -842,8 +832,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-04T10:52:24+10:00",
-    "Price":1.775,
+    "TransactionDate":"2025-11-08T05:35:52+10:00",
+    "Price":1.785,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -852,7 +842,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-07T09:15:31+10:00",
+    "TransactionDate":"2025-11-08T09:15:30+10:00",
     "Price":1.959,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1042,8 +1032,8 @@
   {
     "Site_ID":61478266,
     "Fuel_ID":3,
-    "TransactionDate":"2025-10-31T15:14:06+10:00",
-    "Price":1.799,
+    "TransactionDate":"2025-11-07T14:54:31+10:00",
+    "Price":1.829,
     "Name":"Woodham Petroleum Cairns",
     "Address":"104 Aumuller St",
     "Postcode":"4870",
@@ -1192,8 +1182,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-03T08:39:23+10:00",
-    "Price":1.959,
+    "TransactionDate":"2025-11-07T13:43:16+10:00",
+    "Price":1.939,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1252,8 +1242,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-07T09:15:31+10:00",
-    "Price":1.909,
+    "TransactionDate":"2025-11-08T09:15:30+10:00",
+    "Price":1.919,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1262,7 +1252,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-04T10:52:24+10:00",
+    "TransactionDate":"2025-11-08T05:35:52+10:00",
     "Price":1.835,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -1272,8 +1262,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-07T09:15:31+10:00",
-    "Price":1.989,
+    "TransactionDate":"2025-11-08T09:15:30+10:00",
+    "Price":1.969,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1427,16 +1417,6 @@
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
     "Postcode":"4869",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61478205,
-    "Fuel_ID":5,
-    "TransactionDate":"2025-11-07T05:10:18+10:00",
-    "Price":1.839,
-    "Name":"7-Eleven North Cairns",
-    "Address":"334-336 Sheridan St",
-    "Postcode":"4870",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
@@ -1632,7 +1612,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-07T09:15:31+10:00",
+    "TransactionDate":"2025-11-08T09:15:30+10:00",
     "Price":1.999,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1662,8 +1642,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-07T09:15:31+10:00",
-    "Price":2.079,
+    "TransactionDate":"2025-11-08T09:15:30+10:00",
+    "Price":2.059,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1872,8 +1852,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2025-11-03T08:39:23+10:00",
-    "Price":1.789,
+    "TransactionDate":"2025-11-07T13:43:16+10:00",
+    "Price":1.769,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1940,16 +1920,6 @@
     "Fuel_Name":"e10"
   },
   {
-    "Site_ID":61478205,
-    "Fuel_ID":12,
-    "TransactionDate":"2025-11-07T05:10:18+10:00",
-    "Price":1.699,
-    "Name":"7-Eleven North Cairns",
-    "Address":"334-336 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"e10"
-  },
-  {
     "Site_ID":61402015,
     "Fuel_ID":14,
     "TransactionDate":"2025-11-06T11:52:04+10:00",
@@ -1972,8 +1942,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2025-11-06T09:47:04+10:00",
-    "Price":1.829,
+    "TransactionDate":"2025-11-07T12:32:09+10:00",
+    "Price":1.839,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2042,7 +2012,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":14,
-    "TransactionDate":"2025-11-07T04:26:02+10:00",
+    "TransactionDate":"2025-11-08T04:28:04+10:00",
     "Price":1.839,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
