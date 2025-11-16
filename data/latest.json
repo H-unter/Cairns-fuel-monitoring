@@ -12,8 +12,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-10T10:21:32+10:00",
-    "Price":1.759,
+    "TransactionDate":"2025-11-17T07:32:00+10:00",
+    "Price":1.779,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -42,8 +42,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-15T06:42:03+10:00",
-    "Price":1.729,
+    "TransactionDate":"2025-11-17T06:00:27+10:00",
+    "Price":1.719,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -302,7 +302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-16T09:15:31+10:00",
+    "TransactionDate":"2025-11-17T09:15:30+10:00",
     "Price":1.729,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -332,8 +332,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-12T05:15:09+10:00",
-    "Price":1.675,
+    "TransactionDate":"2025-11-17T05:48:10+10:00",
+    "Price":1.645,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -342,7 +342,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-16T09:15:31+10:00",
+    "TransactionDate":"2025-11-17T09:15:30+10:00",
     "Price":1.819,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -522,7 +522,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-16T04:26:01+10:00",
+    "TransactionDate":"2025-11-17T04:26:02+10:00",
     "Price":1.739,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -552,8 +552,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-10T10:18:48+10:00",
-    "Price":1.879,
+    "TransactionDate":"2025-11-17T07:32:00+10:00",
+    "Price":1.939,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -582,8 +582,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-15T06:42:03+10:00",
-    "Price":1.839,
+    "TransactionDate":"2025-11-17T06:00:27+10:00",
+    "Price":1.819,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -822,7 +822,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-16T09:15:31+10:00",
+    "TransactionDate":"2025-11-17T09:15:30+10:00",
     "Price":1.899,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-12T05:15:09+10:00",
+    "TransactionDate":"2025-11-17T05:48:10+10:00",
     "Price":1.795,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-16T09:15:31+10:00",
+    "TransactionDate":"2025-11-17T09:15:30+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1072,8 +1072,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-10T10:18:48+10:00",
-    "Price":1.919,
+    "TransactionDate":"2025-11-17T07:32:00+10:00",
+    "Price":1.909,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -1262,7 +1262,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-16T09:15:31+10:00",
+    "TransactionDate":"2025-11-17T09:15:30+10:00",
     "Price":1.909,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1272,8 +1272,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-12T05:15:09+10:00",
-    "Price":1.815,
+    "TransactionDate":"2025-11-17T05:48:10+10:00",
+    "Price":1.785,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-16T09:15:31+10:00",
+    "TransactionDate":"2025-11-17T09:15:30+10:00",
     "Price":1.989,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1442,7 +1442,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-16T04:26:01+10:00",
+    "TransactionDate":"2025-11-17T04:26:02+10:00",
     "Price":1.859,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -1642,7 +1642,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-16T09:15:31+10:00",
+    "TransactionDate":"2025-11-17T09:15:30+10:00",
     "Price":1.999,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1672,7 +1672,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-16T09:15:31+10:00",
+    "TransactionDate":"2025-11-17T09:15:30+10:00",
     "Price":2.079,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1742,7 +1742,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-16T04:26:01+10:00",
+    "TransactionDate":"2025-11-17T04:26:02+10:00",
     "Price":1.939,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -1962,7 +1962,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":12,
-    "TransactionDate":"2025-11-16T04:26:01+10:00",
+    "TransactionDate":"2025-11-17T04:26:02+10:00",
     "Price":1.719,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
@@ -1982,8 +1982,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":14,
-    "TransactionDate":"2025-11-15T06:42:03+10:00",
-    "Price":1.869,
+    "TransactionDate":"2025-11-17T06:00:27+10:00",
+    "Price":1.849,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -2062,7 +2062,7 @@
   {
     "Site_ID":61478205,
     "Fuel_ID":14,
-    "TransactionDate":"2025-11-16T04:26:01+10:00",
+    "TransactionDate":"2025-11-17T04:26:02+10:00",
     "Price":1.835,
     "Name":"7-Eleven North Cairns",
     "Address":"334-336 Sheridan St",
