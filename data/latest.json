@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-29T09:15:31+10:00",
+    "TransactionDate":"2025-11-30T09:15:31+10:00",
     "Price":1.739,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-29T09:15:31+10:00",
+    "TransactionDate":"2025-11-30T09:15:31+10:00",
     "Price":1.799,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-29T09:15:31+10:00",
+    "TransactionDate":"2025-11-30T09:15:31+10:00",
     "Price":1.939,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-29T09:15:31+10:00",
+    "TransactionDate":"2025-11-30T09:15:31+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-29T09:15:31+10:00",
+    "TransactionDate":"2025-11-30T09:15:31+10:00",
     "Price":1.919,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-29T09:15:31+10:00",
+    "TransactionDate":"2025-11-30T09:15:31+10:00",
     "Price":1.969,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1682,7 +1682,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-29T09:15:31+10:00",
+    "TransactionDate":"2025-11-30T09:15:31+10:00",
     "Price":2.059,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1966,16 +1966,6 @@
     "Price":1.679,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
-    "Postcode":"4870",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61478205,
-    "Fuel_ID":12,
-    "TransactionDate":"2025-11-28T13:07:43+10:00",
-    "Price":9.999,
-    "Name":"7-Eleven North Cairns",
-    "Address":"334-336 Sheridan St",
     "Postcode":"4870",
     "Fuel_Name":"e10"
   },
