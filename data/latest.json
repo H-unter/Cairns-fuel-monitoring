@@ -312,8 +312,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-01T09:15:31+10:00",
-    "Price":1.739,
+    "TransactionDate":"2025-12-02T09:15:31+10:00",
+    "Price":1.719,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -342,8 +342,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-25T18:10:11+10:00",
-    "Price":1.739,
+    "TransactionDate":"2025-12-02T08:50:11+10:00",
+    "Price":1.719,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-01T09:15:31+10:00",
+    "TransactionDate":"2025-12-02T09:15:31+10:00",
     "Price":1.799,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -822,8 +822,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-24T14:00:03+10:00",
-    "Price":1.919,
+    "TransactionDate":"2025-12-01T09:25:05+10:00",
+    "Price":1.939,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-01T09:15:31+10:00",
+    "TransactionDate":"2025-12-02T09:15:31+10:00",
     "Price":1.939,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-01T09:15:31+10:00",
+    "TransactionDate":"2025-12-02T09:15:31+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1282,8 +1282,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-01T09:15:31+10:00",
-    "Price":1.919,
+    "TransactionDate":"2025-12-02T09:15:31+10:00",
+    "Price":1.899,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-01T09:15:31+10:00",
+    "TransactionDate":"2025-12-02T09:15:31+10:00",
     "Price":1.969,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1672,8 +1672,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-25T18:10:11+10:00",
-    "Price":1.989,
+    "TransactionDate":"2025-12-02T08:50:11+10:00",
+    "Price":1.969,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -1682,7 +1682,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-01T09:15:31+10:00",
+    "TransactionDate":"2025-12-02T09:15:31+10:00",
     "Price":2.059,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -2082,8 +2082,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":14,
-    "TransactionDate":"2025-11-24T14:10:04+10:00",
-    "Price":1.959,
+    "TransactionDate":"2025-12-01T11:10:08+10:00",
+    "Price":1.999,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
