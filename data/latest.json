@@ -92,8 +92,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-06T08:16:38+10:00",
-    "Price":1.899,
+    "TransactionDate":"2025-12-02T10:46:28+10:00",
+    "Price":1.839,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -102,8 +102,8 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":2,
-    "TransactionDate":"2025-07-25T15:20:42+10:00",
-    "Price":1.77,
+    "TransactionDate":"2025-12-03T08:22:35+10:00",
+    "Price":1.75,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
     "Postcode":"4861",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-02T09:15:31+10:00",
+    "TransactionDate":"2025-12-03T09:15:31+10:00",
     "Price":1.719,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -352,7 +352,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-21T09:41:32+10:00",
+    "TransactionDate":"2025-12-03T08:22:57+10:00",
     "Price":1.655,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-02T09:15:31+10:00",
+    "TransactionDate":"2025-12-03T09:15:31+10:00",
     "Price":1.799,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -520,6 +520,16 @@
     "Fuel_Name":"Unleaded"
   },
   {
+    "Site_ID":61477860,
+    "Fuel_ID":2,
+    "TransactionDate":"2025-12-03T05:29:50+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven Westcourt",
+    "Address":"246-250 Mulgrave Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
     "Site_ID":61477987,
     "Fuel_ID":2,
     "TransactionDate":"2025-12-01T07:21:31+10:00",
@@ -612,8 +622,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-27T12:35:43+10:00",
-    "Price":1.799,
+    "TransactionDate":"2025-12-02T09:47:20+10:00",
+    "Price":1.789,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -622,7 +632,7 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":3,
-    "TransactionDate":"2025-07-25T15:20:42+10:00",
+    "TransactionDate":"2025-12-03T08:22:35+10:00",
     "Price":1.85,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
@@ -832,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-02T09:15:31+10:00",
+    "TransactionDate":"2025-12-03T09:15:31+10:00",
     "Price":1.939,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,8 +872,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-21T09:41:32+10:00",
-    "Price":1.795,
+    "TransactionDate":"2025-12-03T08:22:57+10:00",
+    "Price":1.775,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -872,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-02T09:15:31+10:00",
+    "TransactionDate":"2025-12-03T09:15:31+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1282,7 +1292,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-02T09:15:31+10:00",
+    "TransactionDate":"2025-12-03T09:15:31+10:00",
     "Price":1.899,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1292,7 +1302,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-21T09:41:32+10:00",
+    "TransactionDate":"2025-12-03T08:22:57+10:00",
     "Price":1.795,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -1302,7 +1312,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-02T09:15:31+10:00",
+    "TransactionDate":"2025-12-03T09:15:31+10:00",
     "Price":1.969,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1522,8 +1532,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-06T08:16:38+10:00",
-    "Price":2.149,
+    "TransactionDate":"2025-12-02T10:46:28+10:00",
+    "Price":2.089,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -1682,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-02T09:15:31+10:00",
+    "TransactionDate":"2025-12-03T09:15:31+10:00",
     "Price":2.059,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1727,6 +1737,16 @@
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61477860,
+    "Fuel_ID":8,
+    "TransactionDate":"2025-12-03T05:29:50+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven Westcourt",
+    "Address":"246-250 Mulgrave Rd",
+    "Postcode":"4870",
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
@@ -1802,8 +1822,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":12,
-    "TransactionDate":"2025-11-06T08:16:38+10:00",
-    "Price":1.879,
+    "TransactionDate":"2025-12-02T10:46:28+10:00",
+    "Price":1.819,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -1960,6 +1980,16 @@
     "Fuel_Name":"e10"
   },
   {
+    "Site_ID":61477860,
+    "Fuel_ID":12,
+    "TransactionDate":"2025-12-03T05:29:50+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven Westcourt",
+    "Address":"246-250 Mulgrave Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"e10"
+  },
+  {
     "Site_ID":61477987,
     "Fuel_ID":12,
     "TransactionDate":"2025-12-01T07:21:31+10:00",
@@ -2002,8 +2032,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2025-11-27T12:35:43+10:00",
-    "Price":1.829,
+    "TransactionDate":"2025-12-02T09:47:20+10:00",
+    "Price":1.819,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2032,8 +2062,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":14,
-    "TransactionDate":"2025-11-14T03:59:56+10:00",
-    "Price":1.999,
+    "TransactionDate":"2025-12-02T10:46:28+10:00",
+    "Price":1.939,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -2077,6 +2107,16 @@
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61477860,
+    "Fuel_ID":14,
+    "TransactionDate":"2025-12-03T05:29:50+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven Westcourt",
+    "Address":"246-250 Mulgrave Rd",
+    "Postcode":"4870",
     "Fuel_Name":"Premium Diesel"
   },
   {
