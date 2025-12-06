@@ -182,7 +182,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-04T08:03:54+10:00",
+    "TransactionDate":"2025-12-07T06:38:31+10:00",
     "Price":1.749,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-06T09:15:31+10:00",
+    "TransactionDate":"2025-12-07T09:15:31+10:00",
     "Price":1.729,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-06T09:15:31+10:00",
+    "TransactionDate":"2025-12-07T09:15:31+10:00",
     "Price":1.799,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -552,8 +552,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-19T07:55:05+10:00",
-    "Price":1.899,
+    "TransactionDate":"2025-12-07T06:55:05+10:00",
+    "Price":1.889,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -682,8 +682,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2025-11-19T07:55:05+10:00",
-    "Price":1.899,
+    "TransactionDate":"2025-12-07T07:25:05+10:00",
+    "Price":1.889,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -702,8 +702,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-04T08:03:54+10:00",
-    "Price":1.909,
+    "TransactionDate":"2025-12-07T06:38:31+10:00",
+    "Price":1.889,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-06T09:15:31+10:00",
+    "TransactionDate":"2025-12-07T09:15:31+10:00",
     "Price":1.949,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-06T09:15:31+10:00",
+    "TransactionDate":"2025-12-07T09:15:31+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1192,7 +1192,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-04T08:03:54+10:00",
+    "TransactionDate":"2025-12-07T06:38:31+10:00",
     "Price":1.899,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-06T09:15:31+10:00",
+    "TransactionDate":"2025-12-07T09:15:31+10:00",
     "Price":1.909,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-06T09:15:31+10:00",
+    "TransactionDate":"2025-12-07T09:15:31+10:00",
     "Price":1.969,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1682,7 +1682,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-06T09:15:31+10:00",
+    "TransactionDate":"2025-12-07T09:15:31+10:00",
     "Price":2.059,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
