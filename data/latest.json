@@ -2,8 +2,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-01T08:15:05+10:00",
-    "Price":1.739,
+    "TransactionDate":"2025-12-17T06:10:06+10:00",
+    "Price":1.719,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -12,8 +12,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-12T12:42:54+10:00",
-    "Price":1.749,
+    "TransactionDate":"2025-12-17T04:56:10+10:00",
+    "Price":1.719,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -72,8 +72,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-03T20:27:22+10:00",
-    "Price":1.799,
+    "TransactionDate":"2025-12-17T04:35:52+10:00",
+    "Price":1.779,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -162,8 +162,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-01T08:10:10+10:00",
-    "Price":1.739,
+    "TransactionDate":"2025-12-17T06:20:08+10:00",
+    "Price":1.719,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -192,8 +192,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-11T15:15:47+10:00",
-    "Price":1.719,
+    "TransactionDate":"2025-12-17T08:45:50+10:00",
+    "Price":1.749,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -212,8 +212,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-21T08:50:47+10:00",
-    "Price":1.799,
+    "TransactionDate":"2025-12-17T09:00:59+10:00",
+    "Price":1.779,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -232,8 +232,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-21T16:13:52+10:00",
-    "Price":1.789,
+    "TransactionDate":"2025-12-16T15:07:50+10:00",
+    "Price":1.769,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-16T09:15:30+10:00",
+    "TransactionDate":"2025-12-17T09:15:31+10:00",
     "Price":1.699,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,8 +362,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-16T09:15:30+10:00",
-    "Price":1.799,
+    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "Price":1.779,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -372,8 +372,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":2,
-    "TransactionDate":"2025-11-23T16:30:57+10:00",
-    "Price":1.679,
+    "TransactionDate":"2025-12-17T08:45:50+10:00",
+    "Price":1.689,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -550,10 +550,20 @@
     "Fuel_Name":"Unleaded"
   },
   {
+    "Site_ID":61478295,
+    "Fuel_ID":2,
+    "TransactionDate":"2025-12-16T12:39:42+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven Smithfield",
+    "Address":"117 McGregor Rd",
+    "Postcode":"4878",
+    "Fuel_Name":"Unleaded"
+  },
+  {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-09T08:30:06+10:00",
-    "Price":1.865,
+    "TransactionDate":"2025-12-16T10:00:10+10:00",
+    "Price":1.835,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -562,8 +572,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-12T12:42:54+10:00",
-    "Price":1.869,
+    "TransactionDate":"2025-12-17T04:56:10+10:00",
+    "Price":1.839,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -682,8 +692,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-09T08:25:05+10:00",
-    "Price":1.865,
+    "TransactionDate":"2025-12-16T09:25:05+10:00",
+    "Price":1.835,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -732,7 +742,7 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-11T15:00:51+10:00",
+    "TransactionDate":"2025-12-17T09:00:59+10:00",
     "Price":2.019,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
@@ -832,8 +842,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-16T09:15:30+10:00",
-    "Price":1.949,
+    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "Price":1.939,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -872,8 +882,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-16T09:15:30+10:00",
-    "Price":1.999,
+    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "Price":1.969,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1082,8 +1092,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-12T12:42:54+10:00",
-    "Price":1.899,
+    "TransactionDate":"2025-12-17T04:56:10+10:00",
+    "Price":1.849,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -1212,8 +1222,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":5,
-    "TransactionDate":"2025-10-29T09:35:55+10:00",
-    "Price":1.989,
+    "TransactionDate":"2025-12-17T09:05:39+10:00",
+    "Price":1.935,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -1222,8 +1232,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2025-11-21T16:13:52+10:00",
-    "Price":1.939,
+    "TransactionDate":"2025-12-16T15:07:50+10:00",
+    "Price":1.919,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1282,7 +1292,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-16T09:15:30+10:00",
+    "TransactionDate":"2025-12-17T09:15:31+10:00",
     "Price":1.879,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,8 +1312,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-16T09:15:30+10:00",
-    "Price":1.969,
+    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "Price":1.949,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1470,10 +1480,20 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
+    "Site_ID":61478295,
+    "Fuel_ID":5,
+    "TransactionDate":"2025-12-16T12:39:42+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven Smithfield",
+    "Address":"117 McGregor Rd",
+    "Postcode":"4878",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
     "Site_ID":61401973,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-01T08:15:05+10:00",
-    "Price":1.979,
+    "TransactionDate":"2025-12-17T06:10:06+10:00",
+    "Price":1.959,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -1502,8 +1522,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-03T20:27:22+10:00",
-    "Price":2.009,
+    "TransactionDate":"2025-12-17T04:35:52+10:00",
+    "Price":1.989,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -1552,8 +1572,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-01T08:10:10+10:00",
-    "Price":1.979,
+    "TransactionDate":"2025-12-17T06:20:08+10:00",
+    "Price":1.959,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -1562,8 +1582,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-11T15:15:47+10:00",
-    "Price":1.979,
+    "TransactionDate":"2025-12-17T08:45:50+10:00",
+    "Price":2.009,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -1582,8 +1602,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":8,
-    "TransactionDate":"2025-10-29T10:00:55+10:00",
-    "Price":2.049,
+    "TransactionDate":"2025-12-17T09:05:39+10:00",
+    "Price":2.025,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -1682,8 +1702,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-16T09:15:30+10:00",
-    "Price":2.059,
+    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "Price":2.039,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1692,8 +1712,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":8,
-    "TransactionDate":"2025-11-23T16:30:57+10:00",
-    "Price":1.949,
+    "TransactionDate":"2025-12-17T08:45:50+10:00",
+    "Price":1.959,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -1760,6 +1780,16 @@
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
+    "Site_ID":61478295,
+    "Fuel_ID":8,
+    "TransactionDate":"2025-12-16T12:39:42+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven Smithfield",
+    "Address":"117 McGregor Rd",
+    "Postcode":"4878",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
     "Site_ID":61402073,
     "Fuel_ID":12,
     "TransactionDate":"2025-12-08T14:45:10+10:00",
@@ -1782,8 +1812,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-03T20:27:22+10:00",
-    "Price":1.779,
+    "TransactionDate":"2025-12-17T04:35:52+10:00",
+    "Price":1.759,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -1852,8 +1882,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-01T08:10:10+10:00",
-    "Price":1.719,
+    "TransactionDate":"2025-12-17T06:20:08+10:00",
+    "Price":1.699,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -1882,8 +1912,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":12,
-    "TransactionDate":"2025-10-29T09:35:55+10:00",
-    "Price":1.779,
+    "TransactionDate":"2025-12-17T09:05:39+10:00",
+    "Price":1.759,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -1902,8 +1932,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2025-11-21T16:13:52+10:00",
-    "Price":1.769,
+    "TransactionDate":"2025-12-16T15:07:50+10:00",
+    "Price":1.749,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1932,8 +1962,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":12,
-    "TransactionDate":"2025-11-23T16:30:57+10:00",
-    "Price":1.659,
+    "TransactionDate":"2025-12-17T08:45:50+10:00",
+    "Price":1.669,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -1967,6 +1997,16 @@
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61478295,
+    "Fuel_ID":12,
+    "TransactionDate":"2025-12-16T12:39:42+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven Smithfield",
+    "Address":"117 McGregor Rd",
+    "Postcode":"4878",
     "Fuel_Name":"e10"
   },
   {
@@ -2012,8 +2052,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":14,
-    "TransactionDate":"2025-12-15T07:54:54+10:00",
-    "Price":2.019,
+    "TransactionDate":"2025-12-16T11:08:35+10:00",
+    "Price":1.999,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -2087,6 +2127,16 @@
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61478295,
+    "Fuel_ID":14,
+    "TransactionDate":"2025-12-16T12:39:42+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven Smithfield",
+    "Address":"117 McGregor Rd",
+    "Postcode":"4878",
     "Fuel_Name":"Premium Diesel"
   }
 ]
