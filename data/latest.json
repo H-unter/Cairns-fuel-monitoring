@@ -52,8 +52,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-08T14:45:10+10:00",
-    "Price":1.679,
+    "TransactionDate":"2025-12-18T08:15:11+10:00",
+    "Price":1.659,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -142,8 +142,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-15T11:30:05+10:00",
-    "Price":1.625,
+    "TransactionDate":"2025-12-17T15:30:09+10:00",
+    "Price":1.595,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -152,8 +152,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-11T13:00:05+10:00",
-    "Price":1.625,
+    "TransactionDate":"2025-12-17T15:05:07+10:00",
+    "Price":1.595,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -222,8 +222,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-12T10:25:15+10:00",
-    "Price":1.625,
+    "TransactionDate":"2025-12-17T14:35:48+10:00",
+    "Price":1.595,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -282,8 +282,8 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-07T18:55:56+10:00",
-    "Price":1.776,
+    "TransactionDate":"2025-12-17T12:45:18+10:00",
+    "Price":1.746,
     "Name":"Port Douglas Servo",
     "Address":"13 Warner St",
     "Postcode":"4871",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "TransactionDate":"2025-12-18T09:15:30+10:00",
     "Price":1.699,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -332,8 +332,8 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-15T10:35:45+10:00",
-    "Price":1.625,
+    "TransactionDate":"2025-12-17T14:50:49+10:00",
+    "Price":1.595,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
     "Postcode":"4870",
@@ -352,8 +352,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-16T05:18:13+10:00",
-    "Price":1.605,
+    "TransactionDate":"2025-12-18T05:25:49+10:00",
+    "Price":1.575,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "TransactionDate":"2025-12-18T09:15:30+10:00",
     "Price":1.779,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -372,8 +372,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-17T08:45:50+10:00",
-    "Price":1.689,
+    "TransactionDate":"2025-12-17T14:45:48+10:00",
+    "Price":1.719,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -402,8 +402,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-16T06:15:43+10:00",
-    "Price":1.609,
+    "TransactionDate":"2025-12-18T06:15:44+10:00",
+    "Price":1.579,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -550,16 +550,6 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61478295,
-    "Fuel_ID":2,
-    "TransactionDate":"2025-12-16T12:39:42+10:00",
-    "Price":9.999,
-    "Name":"7-Eleven Smithfield",
-    "Address":"117 McGregor Rd",
-    "Postcode":"4878",
-    "Fuel_Name":"Unleaded"
-  },
-  {
     "Site_ID":61401973,
     "Fuel_ID":3,
     "TransactionDate":"2025-12-16T10:00:10+10:00",
@@ -622,8 +612,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-16T09:01:25+10:00",
-    "Price":1.749,
+    "TransactionDate":"2025-12-18T08:35:47+10:00",
+    "Price":1.739,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -752,7 +742,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-12T10:25:17+10:00",
+    "TransactionDate":"2025-12-17T14:35:49+10:00",
     "Price":1.779,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -812,8 +802,8 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-07T18:55:56+10:00",
-    "Price":1.895,
+    "TransactionDate":"2025-12-17T12:45:18+10:00",
+    "Price":1.865,
     "Name":"Port Douglas Servo",
     "Address":"13 Warner St",
     "Postcode":"4871",
@@ -842,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "TransactionDate":"2025-12-18T09:15:30+10:00",
     "Price":1.939,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,7 +852,7 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-15T10:35:48+10:00",
+    "TransactionDate":"2025-12-17T14:50:49+10:00",
     "Price":1.779,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
@@ -872,8 +862,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-16T05:18:13+10:00",
-    "Price":1.745,
+    "TransactionDate":"2025-12-18T05:25:49+10:00",
+    "Price":1.735,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -882,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "TransactionDate":"2025-12-18T09:15:30+10:00",
     "Price":1.969,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1132,8 +1122,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-08T14:45:10+10:00",
-    "Price":1.839,
+    "TransactionDate":"2025-12-18T08:15:11+10:00",
+    "Price":1.819,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -1182,8 +1172,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-15T11:30:05+10:00",
-    "Price":1.765,
+    "TransactionDate":"2025-12-17T15:30:09+10:00",
+    "Price":1.735,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1192,8 +1182,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-11T13:00:05+10:00",
-    "Price":1.765,
+    "TransactionDate":"2025-12-17T15:05:07+10:00",
+    "Price":1.735,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -1272,8 +1262,8 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-07T18:55:56+10:00",
-    "Price":1.926,
+    "TransactionDate":"2025-12-17T12:45:18+10:00",
+    "Price":1.896,
     "Name":"Port Douglas Servo",
     "Address":"13 Warner St",
     "Postcode":"4871",
@@ -1292,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "TransactionDate":"2025-12-18T09:15:30+10:00",
     "Price":1.879,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,8 +1292,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-16T05:18:13+10:00",
-    "Price":1.755,
+    "TransactionDate":"2025-12-18T05:25:49+10:00",
+    "Price":1.715,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -1312,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "TransactionDate":"2025-12-18T09:15:30+10:00",
     "Price":1.949,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1342,8 +1332,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-16T06:15:43+10:00",
-    "Price":1.782,
+    "TransactionDate":"2025-12-18T06:15:44+10:00",
+    "Price":1.752,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1480,16 +1470,6 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61478295,
-    "Fuel_ID":5,
-    "TransactionDate":"2025-12-16T12:39:42+10:00",
-    "Price":9.999,
-    "Name":"7-Eleven Smithfield",
-    "Address":"117 McGregor Rd",
-    "Postcode":"4878",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
     "Site_ID":61401973,
     "Fuel_ID":8,
     "TransactionDate":"2025-12-17T06:10:06+10:00",
@@ -1552,8 +1532,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-15T11:30:05+10:00",
-    "Price":1.855,
+    "TransactionDate":"2025-12-17T15:30:09+10:00",
+    "Price":1.825,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1562,8 +1542,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-11T13:00:05+10:00",
-    "Price":1.855,
+    "TransactionDate":"2025-12-17T15:05:07+10:00",
+    "Price":1.825,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -1612,8 +1592,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-12T10:25:16+10:00",
-    "Price":1.855,
+    "TransactionDate":"2025-12-17T14:35:49+10:00",
+    "Price":1.825,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -1682,8 +1662,8 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-15T10:35:46+10:00",
-    "Price":1.855,
+    "TransactionDate":"2025-12-17T14:50:48+10:00",
+    "Price":1.825,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
     "Postcode":"4870",
@@ -1702,7 +1682,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-17T09:15:31+10:00",
+    "TransactionDate":"2025-12-18T09:15:30+10:00",
     "Price":2.039,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1712,8 +1692,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-17T08:45:50+10:00",
-    "Price":1.959,
+    "TransactionDate":"2025-12-17T14:45:48+10:00",
+    "Price":1.989,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -1722,8 +1702,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-16T06:15:43+10:00",
-    "Price":1.872,
+    "TransactionDate":"2025-12-18T06:15:44+10:00",
+    "Price":1.842,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1780,20 +1760,10 @@
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
-    "Site_ID":61478295,
-    "Fuel_ID":8,
-    "TransactionDate":"2025-12-16T12:39:42+10:00",
-    "Price":9.999,
-    "Name":"7-Eleven Smithfield",
-    "Address":"117 McGregor Rd",
-    "Postcode":"4878",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
     "Site_ID":61402073,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-08T14:45:10+10:00",
-    "Price":1.679,
+    "TransactionDate":"2025-12-18T08:15:11+10:00",
+    "Price":1.659,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -1862,8 +1832,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-15T11:30:05+10:00",
-    "Price":1.605,
+    "TransactionDate":"2025-12-17T15:30:09+10:00",
+    "Price":1.575,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1872,8 +1842,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-11T13:00:05+10:00",
-    "Price":1.605,
+    "TransactionDate":"2025-12-17T15:05:07+10:00",
+    "Price":1.575,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -1922,8 +1892,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-12T10:25:16+10:00",
-    "Price":1.585,
+    "TransactionDate":"2025-12-17T14:35:47+10:00",
+    "Price":1.555,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -1952,8 +1922,8 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-15T10:35:47+10:00",
-    "Price":1.585,
+    "TransactionDate":"2025-12-17T14:50:50+10:00",
+    "Price":1.555,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
     "Postcode":"4870",
@@ -1962,8 +1932,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-17T08:45:50+10:00",
-    "Price":1.669,
+    "TransactionDate":"2025-12-17T14:45:48+10:00",
+    "Price":1.699,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -1972,8 +1942,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-16T06:15:43+10:00",
-    "Price":1.589,
+    "TransactionDate":"2025-12-18T06:15:44+10:00",
+    "Price":1.559,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1997,16 +1967,6 @@
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61478295,
-    "Fuel_ID":12,
-    "TransactionDate":"2025-12-16T12:39:42+10:00",
-    "Price":9.999,
-    "Name":"7-Eleven Smithfield",
-    "Address":"117 McGregor Rd",
-    "Postcode":"4878",
     "Fuel_Name":"e10"
   },
   {
@@ -2042,8 +2002,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2025-12-16T09:01:25+10:00",
-    "Price":1.779,
+    "TransactionDate":"2025-12-18T08:35:47+10:00",
+    "Price":1.769,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2082,7 +2042,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":14,
-    "TransactionDate":"2025-12-12T10:25:18+10:00",
+    "TransactionDate":"2025-12-17T14:35:48+10:00",
     "Price":1.809,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -2092,7 +2052,7 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":14,
-    "TransactionDate":"2025-12-15T10:35:48+10:00",
+    "TransactionDate":"2025-12-17T14:50:47+10:00",
     "Price":1.809,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
@@ -2102,8 +2062,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":14,
-    "TransactionDate":"2025-12-11T10:45:11+10:00",
-    "Price":1.869,
+    "TransactionDate":"2025-12-17T15:25:09+10:00",
+    "Price":1.809,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -2127,16 +2087,6 @@
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
-    "Site_ID":61478295,
-    "Fuel_ID":14,
-    "TransactionDate":"2025-12-16T12:39:42+10:00",
-    "Price":9.999,
-    "Name":"7-Eleven Smithfield",
-    "Address":"117 McGregor Rd",
-    "Postcode":"4878",
     "Fuel_Name":"Premium Diesel"
   }
 ]
