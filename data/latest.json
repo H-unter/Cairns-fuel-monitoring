@@ -52,8 +52,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-18T08:15:11+10:00",
-    "Price":1.659,
+    "TransactionDate":"2025-12-24T07:25:10+10:00",
+    "Price":1.619,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -182,7 +182,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-19T07:21:06+10:00",
+    "TransactionDate":"2025-12-24T07:19:51+10:00",
     "Price":1.719,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -192,7 +192,7 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-23T09:15:48+10:00",
+    "TransactionDate":"2025-12-23T09:30:49+10:00",
     "Price":1.749,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-23T09:15:30+10:00",
+    "TransactionDate":"2025-12-24T09:15:39+10:00",
     "Price":1.659,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-23T09:15:30+10:00",
+    "TransactionDate":"2025-12-24T09:15:39+10:00",
     "Price":1.739,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -552,8 +552,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-23T08:05:05+10:00",
-    "Price":1.799,
+    "TransactionDate":"2025-12-24T07:30:10+10:00",
+    "Price":1.795,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -612,8 +612,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-18T08:35:47+10:00",
-    "Price":1.739,
+    "TransactionDate":"2025-12-23T09:22:55+10:00",
+    "Price":1.719,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -682,8 +682,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-23T07:55:05+10:00",
-    "Price":1.799,
+    "TransactionDate":"2025-12-24T07:45:04+10:00",
+    "Price":1.795,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -702,8 +702,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-16T09:03:57+10:00",
-    "Price":1.835,
+    "TransactionDate":"2025-12-24T07:19:51+10:00",
+    "Price":1.795,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -712,8 +712,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-23T09:15:48+10:00",
-    "Price":1.879,
+    "TransactionDate":"2025-12-23T10:15:48+10:00",
+    "Price":1.859,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-23T09:15:30+10:00",
+    "TransactionDate":"2025-12-24T09:15:39+10:00",
     "Price":1.899,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-23T09:15:30+10:00",
+    "TransactionDate":"2025-12-24T09:15:39+10:00",
     "Price":1.939,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -962,8 +962,8 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-19T07:41:25+10:00",
-    "Price":1.835,
+    "TransactionDate":"2025-12-24T06:51:37+10:00",
+    "Price":1.795,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
     "Postcode":"4869",
@@ -1122,8 +1122,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-18T08:15:11+10:00",
-    "Price":1.819,
+    "TransactionDate":"2025-12-24T07:20:09+10:00",
+    "Price":1.779,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -1192,7 +1192,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-19T07:21:06+10:00",
+    "TransactionDate":"2025-12-24T07:19:51+10:00",
     "Price":1.869,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-23T09:15:30+10:00",
+    "TransactionDate":"2025-12-24T09:15:39+10:00",
     "Price":1.839,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-23T09:15:30+10:00",
+    "TransactionDate":"2025-12-24T09:15:39+10:00",
     "Price":1.909,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-23T09:15:30+10:00",
+    "TransactionDate":"2025-12-24T09:15:39+10:00",
     "Price":1.929,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-23T09:15:30+10:00",
+    "TransactionDate":"2025-12-24T09:15:39+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1772,8 +1772,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-18T08:15:11+10:00",
-    "Price":1.659,
+    "TransactionDate":"2025-12-24T07:25:10+10:00",
+    "Price":1.619,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -2012,8 +2012,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2025-12-18T08:35:47+10:00",
-    "Price":1.769,
+    "TransactionDate":"2025-12-23T09:22:55+10:00",
+    "Price":1.749,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
