@@ -82,8 +82,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-09T16:11:17+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-01-02T12:20:46+10:00",
+    "Price":1.719,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -252,7 +252,7 @@
   {
     "Site_ID":61451734,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-27T09:20:39+10:00",
+    "TransactionDate":"2026-01-02T09:50:39+10:00",
     "Price":1.759,
     "Name":"Shell Reddy Express Port Douglas",
     "Address":"10 Captain Cook Hwy",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-02T09:15:31+10:00",
+    "TransactionDate":"2026-01-03T09:15:31+10:00",
     "Price":1.639,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-02T09:15:31+10:00",
+    "TransactionDate":"2026-01-03T09:15:31+10:00",
     "Price":1.729,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -402,7 +402,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-27T09:20:39+10:00",
+    "TransactionDate":"2026-01-02T09:50:39+10:00",
     "Price":1.619,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
@@ -692,8 +692,8 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-27T09:15:43+10:00",
-    "Price":1.879,
+    "TransactionDate":"2026-01-02T09:45:44+10:00",
+    "Price":1.859,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
     "Postcode":"4869",
@@ -712,8 +712,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-27T09:15:43+10:00",
-    "Price":1.839,
+    "TransactionDate":"2026-01-02T09:45:44+10:00",
+    "Price":1.819,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -722,8 +722,8 @@
   {
     "Site_ID":61451567,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-27T09:15:43+10:00",
-    "Price":1.879,
+    "TransactionDate":"2026-01-02T09:45:44+10:00",
+    "Price":1.859,
     "Name":"Shell Reddy Express Cairns Sheridan St",
     "Address":"291-293 Sheridan St",
     "Postcode":"4870",
@@ -732,8 +732,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-27T09:15:43+10:00",
-    "Price":1.959,
+    "TransactionDate":"2026-01-02T09:45:44+10:00",
+    "Price":1.939,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -772,8 +772,8 @@
   {
     "Site_ID":61451734,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-27T09:20:39+10:00",
-    "Price":1.919,
+    "TransactionDate":"2026-01-02T10:00:43+10:00",
+    "Price":1.899,
     "Name":"Shell Reddy Express Port Douglas",
     "Address":"10 Captain Cook Hwy",
     "Postcode":"4877",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-02T09:15:31+10:00",
+    "TransactionDate":"2026-01-03T09:15:31+10:00",
     "Price":1.899,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-02T09:15:31+10:00",
+    "TransactionDate":"2026-01-03T09:15:31+10:00",
     "Price":1.929,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -882,8 +882,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-27T09:15:43+10:00",
-    "Price":1.879,
+    "TransactionDate":"2026-01-02T09:45:44+10:00",
+    "Price":1.859,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -912,8 +912,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-27T13:30:44+10:00",
-    "Price":1.839,
+    "TransactionDate":"2026-01-02T10:00:43+10:00",
+    "Price":1.819,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1242,7 +1242,7 @@
   {
     "Site_ID":61451734,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-27T09:20:39+10:00",
+    "TransactionDate":"2026-01-02T09:50:39+10:00",
     "Price":1.935,
     "Name":"Shell Reddy Express Port Douglas",
     "Address":"10 Captain Cook Hwy",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-02T09:15:31+10:00",
+    "TransactionDate":"2026-01-03T09:15:31+10:00",
     "Price":1.819,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-02T09:15:31+10:00",
+    "TransactionDate":"2026-01-03T09:15:31+10:00",
     "Price":1.899,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-27T09:20:39+10:00",
+    "TransactionDate":"2026-01-02T09:50:39+10:00",
     "Price":1.792,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
@@ -1512,8 +1512,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-09T16:11:17+10:00",
-    "Price":2.049,
+    "TransactionDate":"2026-01-02T12:20:46+10:00",
+    "Price":1.969,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -1612,7 +1612,7 @@
   {
     "Site_ID":61451734,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-27T09:20:39+10:00",
+    "TransactionDate":"2026-01-02T09:50:39+10:00",
     "Price":2.025,
     "Name":"Shell Reddy Express Port Douglas",
     "Address":"10 Captain Cook Hwy",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-02T09:15:31+10:00",
+    "TransactionDate":"2026-01-03T09:15:31+10:00",
     "Price":1.909,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-02T09:15:31+10:00",
+    "TransactionDate":"2026-01-03T09:15:31+10:00",
     "Price":1.989,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1712,7 +1712,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-27T09:20:39+10:00",
+    "TransactionDate":"2026-01-02T09:50:39+10:00",
     "Price":1.882,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
@@ -1802,8 +1802,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-09T16:11:17+10:00",
-    "Price":1.779,
+    "TransactionDate":"2026-01-02T12:20:46+10:00",
+    "Price":1.699,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -1952,7 +1952,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-27T09:20:39+10:00",
+    "TransactionDate":"2026-01-02T09:50:39+10:00",
     "Price":1.599,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
@@ -2002,8 +2002,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":14,
-    "TransactionDate":"2025-12-29T14:00:13+10:00",
-    "Price":1.849,
+    "TransactionDate":"2026-01-02T11:15:09+10:00",
+    "Price":1.829,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
