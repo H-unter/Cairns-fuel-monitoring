@@ -92,8 +92,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-15T11:43:15+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-01-07T11:39:27+10:00",
+    "Price":1.699,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -102,8 +102,8 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-26T14:34:15+10:00",
-    "Price":1.7,
+    "TransactionDate":"2026-01-07T14:31:11+10:00",
+    "Price":1.68,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
     "Postcode":"4861",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-07T09:15:30+10:00",
+    "TransactionDate":"2026-01-08T09:15:31+10:00",
     "Price":1.639,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -352,7 +352,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-05T13:28:24+10:00",
+    "TransactionDate":"2026-01-07T12:03:49+10:00",
     "Price":1.575,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-07T09:15:30+10:00",
+    "TransactionDate":"2026-01-08T09:15:31+10:00",
     "Price":1.729,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -592,8 +592,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-22T17:20:14+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-01-07T10:19:36+10:00",
+    "Price":1.699,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -602,8 +602,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-04T06:35:44+10:00",
-    "Price":1.814,
+    "TransactionDate":"2026-01-08T06:31:34+10:00",
+    "Price":1.795,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -612,8 +612,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-31T09:38:01+10:00",
-    "Price":1.699,
+    "TransactionDate":"2026-01-07T11:28:08+10:00",
+    "Price":1.659,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -622,8 +622,8 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-26T14:34:15+10:00",
-    "Price":1.8,
+    "TransactionDate":"2026-01-07T14:31:11+10:00",
+    "Price":1.77,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
     "Postcode":"4861",
@@ -662,8 +662,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-06T08:50:05+10:00",
-    "Price":1.643,
+    "TransactionDate":"2026-01-08T07:05:08+10:00",
+    "Price":1.645,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-07T09:15:30+10:00",
+    "TransactionDate":"2026-01-08T09:15:31+10:00",
     "Price":1.899,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -842,8 +842,8 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-05T12:19:09+10:00",
-    "Price":1.81,
+    "TransactionDate":"2026-01-07T13:10:39+10:00",
+    "Price":1.799,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -862,8 +862,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-05T13:28:24+10:00",
-    "Price":1.675,
+    "TransactionDate":"2026-01-07T12:03:49+10:00",
+    "Price":1.625,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-07T09:15:30+10:00",
+    "TransactionDate":"2026-01-08T09:15:31+10:00",
     "Price":1.929,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-07T09:15:30+10:00",
+    "TransactionDate":"2026-01-08T09:15:31+10:00",
     "Price":1.819,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1292,7 +1292,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-05T13:28:24+10:00",
+    "TransactionDate":"2026-01-07T12:03:49+10:00",
     "Price":1.725,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-07T09:15:30+10:00",
+    "TransactionDate":"2026-01-08T09:15:31+10:00",
     "Price":1.899,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1522,8 +1522,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":8,
-    "TransactionDate":"2025-12-15T11:43:15+10:00",
-    "Price":2.049,
+    "TransactionDate":"2026-01-07T11:39:27+10:00",
+    "Price":1.949,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-07T09:15:30+10:00",
+    "TransactionDate":"2026-01-08T09:15:31+10:00",
     "Price":1.909,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-07T09:15:30+10:00",
+    "TransactionDate":"2026-01-08T09:15:31+10:00",
     "Price":1.989,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1812,8 +1812,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":12,
-    "TransactionDate":"2025-12-15T11:43:15+10:00",
-    "Price":1.779,
+    "TransactionDate":"2026-01-07T11:39:27+10:00",
+    "Price":1.679,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -1992,8 +1992,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":14,
-    "TransactionDate":"2025-12-22T17:20:14+10:00",
-    "Price":1.829,
+    "TransactionDate":"2026-01-07T10:19:36+10:00",
+    "Price":1.729,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -2012,8 +2012,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2025-12-31T09:38:01+10:00",
-    "Price":1.729,
+    "TransactionDate":"2026-01-07T11:28:08+10:00",
+    "Price":1.689,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2042,8 +2042,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":14,
-    "TransactionDate":"2025-12-22T08:39:08+10:00",
-    "Price":1.839,
+    "TransactionDate":"2026-01-07T11:39:27+10:00",
+    "Price":1.799,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
