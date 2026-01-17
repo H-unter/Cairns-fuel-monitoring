@@ -59,7 +59,7 @@ jobs:
           # This script uses env vars, not the text files
           TURSO_DATABASE_URL: ${{ secrets.TURSO_DATABASE_URL }}
           TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
-        run: python plot_generator.py
+        run: python plots/plot_generator.py
 
       # 3. Commit JSON and SVG
       - name: Commit & Push changes
