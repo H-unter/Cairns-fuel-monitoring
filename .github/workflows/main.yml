@@ -1,9 +1,14 @@
-name: Update Turso Fuel DB (daily)
+name: Update Turso Fuel DB (3 times a day)
 
 on:
-  # Runs at 09:05 AEST (UTC+10). GitHub cron is UTC → 23:05 UTC previous day.
   schedule:
-    - cron: "5 23 * * *"
+    # Runs at minutes: 5
+    # Hours (UTC): 4, 9, 23
+    # AEST Conversion:
+    #   4 UTC  = 14:00 (2 PM) AEST
+    #   9 UTC  = 19:00 (7 PM) AEST
+    #   23 UTC = 09:00 (9 AM) AEST 
+    - cron: "5 4,9,23 * * *"
   workflow_dispatch: {}
 
 permissions:
