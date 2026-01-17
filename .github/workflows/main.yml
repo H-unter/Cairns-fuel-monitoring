@@ -2,12 +2,7 @@ name: Update Turso Fuel DB (3 times a day)
 
 on:
   schedule:
-    # Runs at minutes: 5
-    # Hours (UTC): 4, 9, 23
-    # AEST Conversion:
-    #   4 UTC  = 14:00 (2 PM) AEST
-    #   9 UTC  = 19:00 (7 PM) AEST
-    #   23 UTC = 09:00 (9 AM) AEST 
+    # Runs at 9am, 2pm, 7pm AEST
     - cron: "5 4,9,23 * * *"
   workflow_dispatch: {}
 
@@ -35,8 +30,8 @@ jobs:
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install libsql requests pandas
-
+          # Added matplotlib and seaborn here
+          pip install libsql requests pandas matplotlib seaborn
       - name: Write token files
         run: |
           printf "%s" "${{ secrets.FUEL_API_TOKEN }}" > fuel_api_token.txt
@@ -51,18 +46,31 @@ jobs:
           [ -n "$TURSO_AUTH_TOKEN" ] || (echo "Missing TURSO_AUTH_TOKEN secret" && exit 1)
           echo "Secrets present."
 
+      # 1. Run the Data Update
       - name: Conduct API query and update Turso DB
         env:
           FUEL_API_TOKEN: ${{ secrets.FUEL_API_TOKEN }}
           TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
         run: python query.py
 
-      - name: Commit & Push local data/latest.json changes
+      # 2. Run the Plot Generator (New Step)
+      - name: Generate Plot
+        env:
+          # This script uses env vars, not the text files
+          TURSO_DATABASE_URL: ${{ secrets.TURSO_DATABASE_URL }}
+          TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
+        run: python plot_generator.py
+
+      # 3. Commit JSON and SVG
+      - name: Commit & Push changes
         if: ${{ github.event_name != 'pull_request' }}
         run: |
           git config --global user.name  "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
-          git add data/latest.json
-          git commit -m "Update latest fuel prices [auto]" || echo "No changes to commit"
+          
+          # Add the data JSON and the new SVG image
+          git add data/latest.json cheapest_fuel_30_days.svg
+          
+          git commit -m "Update fuel prices and plot [auto]" || echo "No changes to commit"
           git push
