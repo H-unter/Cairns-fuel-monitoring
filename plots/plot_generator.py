@@ -49,6 +49,8 @@ def plot_fuel_price_trends():
     min_prices = df.groupby(['transaction_date', 'fuel_name'])['price'].transform('min')
     cheapest_df = df[df['price'] == min_prices].copy()
     cheapest_df = cheapest_df[cheapest_df['price'] < 4.0]
+    cheapest_df = cheapest_df.sort_values(by=['transaction_date', 'fuel_name'])
+
     
 
 
@@ -75,7 +77,7 @@ def plot_fuel_price_trends():
             title_fontsize=text_size,fontsize=text_size, frameon=False)
     ax.grid(True, axis='y', alpha=0.5)
     plt.tight_layout()
-    plt.savefig('cheapest_fuel_30_days.svg', format='svg', bbox_inches='tight')
+    plt.savefig('plots/cheapest_fuel_30_days.svg', format='svg', bbox_inches='tight')
 
 
 
