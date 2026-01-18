@@ -70,7 +70,7 @@ jobs:
           git config --global --add safe.directory "$GITHUB_WORKSPACE"
           
           # Add the data JSON and the new SVG image
-          git add data/latest.json cheapest_fuel_30_days.svg
+          git add data/latest.json plots/cheapest_fuel_30_days.svg
           
           git commit -m "Update fuel prices and plot [auto]" || echo "No changes to commit"
           git push
