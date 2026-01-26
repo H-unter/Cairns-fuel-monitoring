@@ -12,6 +12,6 @@ A personal playground for experimenting with database deployments and automating
 ## 📊 Live Price Trends (past 30 Days)
 This chart is automatically generated every day at **9am, 2pm, and 7pm AEST**.
 
-![Cairns Fuel Prices](plots/cheapest_fuel_30_days.svg)
+![Cairns Fuel Prices](plots/fuel_price_distribution.svg)
 
 ---
