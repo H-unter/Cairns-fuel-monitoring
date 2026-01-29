@@ -232,7 +232,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-14T08:14:07+10:00",
+    "TransactionDate":"2026-01-30T06:39:32+10:00",
     "Price":1.725,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -272,8 +272,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-29T07:03:44+10:00",
-    "Price":1.655,
+    "TransactionDate":"2026-01-30T06:32:09+10:00",
+    "Price":1.635,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-29T19:45:31+10:00",
+    "TransactionDate":"2026-01-30T09:30:32+10:00",
     "Price":1.609,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-29T19:45:31+10:00",
+    "TransactionDate":"2026-01-30T09:30:32+10:00",
     "Price":1.729,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -752,8 +752,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-14T08:14:07+10:00",
-    "Price":1.915,
+    "TransactionDate":"2026-01-30T06:39:32+10:00",
+    "Price":1.895,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-29T19:45:31+10:00",
+    "TransactionDate":"2026-01-30T09:30:32+10:00",
     "Price":1.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,8 +872,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-29T19:45:31+10:00",
-    "Price":1.899,
+    "TransactionDate":"2026-01-30T09:30:32+10:00",
+    "Price":1.869,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1222,8 +1222,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-14T08:14:07+10:00",
-    "Price":1.875,
+    "TransactionDate":"2026-01-30T06:39:32+10:00",
+    "Price":1.825,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-29T19:45:31+10:00",
+    "TransactionDate":"2026-01-30T09:30:32+10:00",
     "Price":1.789,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-29T19:45:31+10:00",
+    "TransactionDate":"2026-01-30T09:30:32+10:00",
     "Price":1.899,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1622,8 +1622,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-29T07:03:44+10:00",
-    "Price":1.855,
+    "TransactionDate":"2026-01-30T06:32:09+10:00",
+    "Price":1.835,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-29T19:45:31+10:00",
+    "TransactionDate":"2026-01-30T09:30:32+10:00",
     "Price":1.879,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-29T19:45:31+10:00",
+    "TransactionDate":"2026-01-30T09:30:32+10:00",
     "Price":1.989,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1912,7 +1912,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-01-14T08:14:07+10:00",
+    "TransactionDate":"2026-01-30T06:39:32+10:00",
     "Price":1.705,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -1922,8 +1922,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":12,
-    "TransactionDate":"2026-01-29T07:03:44+10:00",
-    "Price":1.635,
+    "TransactionDate":"2026-01-30T06:32:09+10:00",
+    "Price":1.615,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
