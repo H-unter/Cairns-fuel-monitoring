@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-30T09:30:32+10:00",
+    "TransactionDate":"2026-01-30T15:00:38+10:00",
     "Price":1.609,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-30T09:30:32+10:00",
+    "TransactionDate":"2026-01-30T15:00:38+10:00",
     "Price":1.729,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -402,7 +402,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-09T09:15:44+10:00",
+    "TransactionDate":"2026-01-30T12:50:41+10:00",
     "Price":1.609,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
@@ -552,8 +552,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-24T07:30:10+10:00",
-    "Price":1.795,
+    "TransactionDate":"2026-01-30T13:45:07+10:00",
+    "Price":1.779,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -682,8 +682,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-24T07:45:04+10:00",
-    "Price":1.795,
+    "TransactionDate":"2026-01-30T14:00:11+10:00",
+    "Price":1.779,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -692,8 +692,8 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-21T09:30:45+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-01-30T12:45:46+10:00",
+    "Price":1.779,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
     "Postcode":"4869",
@@ -712,8 +712,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-09T09:00:48+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-01-30T12:45:46+10:00",
+    "Price":1.779,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -722,8 +722,8 @@
   {
     "Site_ID":61451567,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-09T09:00:48+10:00",
-    "Price":1.839,
+    "TransactionDate":"2026-01-30T12:45:46+10:00",
+    "Price":1.819,
     "Name":"Shell Reddy Express Cairns Sheridan St",
     "Address":"291-293 Sheridan St",
     "Postcode":"4870",
@@ -732,8 +732,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-21T09:15:45+10:00",
-    "Price":1.919,
+    "TransactionDate":"2026-01-30T12:45:46+10:00",
+    "Price":1.899,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -772,8 +772,8 @@
   {
     "Site_ID":61451734,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-21T09:30:45+10:00",
-    "Price":1.849,
+    "TransactionDate":"2026-01-30T12:45:46+10:00",
+    "Price":1.829,
     "Name":"Shell Reddy Express Port Douglas",
     "Address":"10 Captain Cook Hwy",
     "Postcode":"4877",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-30T09:30:32+10:00",
+    "TransactionDate":"2026-01-30T15:00:38+10:00",
     "Price":1.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-30T09:30:32+10:00",
+    "TransactionDate":"2026-01-30T15:00:38+10:00",
     "Price":1.869,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -882,8 +882,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-29T13:00:48+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-01-30T12:45:46+10:00",
+    "Price":1.779,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -912,8 +912,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-09T09:15:44+10:00",
-    "Price":1.819,
+    "TransactionDate":"2026-01-30T13:00:46+10:00",
+    "Price":1.799,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-30T09:30:32+10:00",
+    "TransactionDate":"2026-01-30T15:00:38+10:00",
     "Price":1.789,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-30T09:30:32+10:00",
+    "TransactionDate":"2026-01-30T15:00:38+10:00",
     "Price":1.899,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-09T09:15:44+10:00",
+    "TransactionDate":"2026-01-30T12:50:41+10:00",
     "Price":1.782,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-30T09:30:32+10:00",
+    "TransactionDate":"2026-01-30T15:00:38+10:00",
     "Price":1.879,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-30T09:30:32+10:00",
+    "TransactionDate":"2026-01-30T15:00:38+10:00",
     "Price":1.989,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1712,7 +1712,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-09T09:15:44+10:00",
+    "TransactionDate":"2026-01-30T12:50:41+10:00",
     "Price":1.872,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
@@ -1952,7 +1952,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":12,
-    "TransactionDate":"2026-01-09T09:15:44+10:00",
+    "TransactionDate":"2026-01-30T12:50:41+10:00",
     "Price":1.589,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
