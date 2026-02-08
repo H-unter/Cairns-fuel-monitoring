@@ -42,8 +42,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-25T12:16:39+10:00",
-    "Price":1.599,
+    "TransactionDate":"2026-02-09T07:43:43+10:00",
+    "Price":1.595,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -52,8 +52,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-05T09:35:13+10:00",
-    "Price":1.609,
+    "TransactionDate":"2026-02-09T08:15:13+10:00",
+    "Price":1.619,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-08T19:30:31+10:00",
+    "TransactionDate":"2026-02-09T09:30:31+10:00",
     "Price":1.619,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-08T19:30:31+10:00",
+    "TransactionDate":"2026-02-09T09:30:31+10:00",
     "Price":1.699,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -592,8 +592,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-07T10:19:36+10:00",
-    "Price":1.699,
+    "TransactionDate":"2026-02-09T07:43:43+10:00",
+    "Price":1.755,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -662,8 +662,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-14T06:10:07+10:00",
-    "Price":1.675,
+    "TransactionDate":"2026-02-09T07:45:04+10:00",
+    "Price":1.749,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -672,8 +672,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-27T09:00:09+10:00",
-    "Price":1.675,
+    "TransactionDate":"2026-02-09T08:25:05+10:00",
+    "Price":1.749,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-08T19:30:31+10:00",
+    "TransactionDate":"2026-02-09T09:30:31+10:00",
     "Price":1.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-08T19:30:31+10:00",
+    "TransactionDate":"2026-02-09T09:30:31+10:00",
     "Price":1.869,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1112,7 +1112,7 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-07T07:54:28+10:00",
+    "TransactionDate":"2026-02-09T07:43:43+10:00",
     "Price":1.885,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
@@ -1122,8 +1122,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-05T09:35:13+10:00",
-    "Price":1.769,
+    "TransactionDate":"2026-02-09T08:15:13+10:00",
+    "Price":1.779,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-08T19:30:31+10:00",
+    "TransactionDate":"2026-02-09T09:30:31+10:00",
     "Price":1.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-08T19:30:31+10:00",
+    "TransactionDate":"2026-02-09T09:30:31+10:00",
     "Price":1.869,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1492,7 +1492,7 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-07T07:54:28+10:00",
+    "TransactionDate":"2026-02-09T07:43:43+10:00",
     "Price":1.955,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-02-08T19:30:31+10:00",
+    "TransactionDate":"2026-02-09T09:30:31+10:00",
     "Price":1.889,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-02-08T19:30:31+10:00",
+    "TransactionDate":"2026-02-09T09:30:31+10:00",
     "Price":1.959,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1772,8 +1772,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":12,
-    "TransactionDate":"2026-02-05T09:35:13+10:00",
-    "Price":1.609,
+    "TransactionDate":"2026-02-09T08:15:13+10:00",
+    "Price":1.619,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -1992,8 +1992,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":14,
-    "TransactionDate":"2026-01-07T10:19:36+10:00",
-    "Price":1.729,
+    "TransactionDate":"2026-02-09T07:43:43+10:00",
+    "Price":1.785,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
