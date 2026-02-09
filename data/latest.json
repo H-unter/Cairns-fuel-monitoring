@@ -52,8 +52,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-09T08:15:13+10:00",
-    "Price":1.619,
+    "TransactionDate":"2026-02-10T07:15:09+10:00",
+    "Price":1.629,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-09T20:00:30+10:00",
+    "TransactionDate":"2026-02-10T09:45:30+10:00",
     "Price":1.619,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-09T20:00:30+10:00",
+    "TransactionDate":"2026-02-10T09:45:30+10:00",
     "Price":1.699,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -812,8 +812,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":3,
-    "TransactionDate":"2026-01-28T18:55:05+10:00",
-    "Price":1.879,
+    "TransactionDate":"2026-02-09T21:10:06+10:00",
+    "Price":1.859,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-09T20:00:30+10:00",
+    "TransactionDate":"2026-02-10T09:45:30+10:00",
     "Price":1.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-09T20:00:30+10:00",
+    "TransactionDate":"2026-02-10T09:45:30+10:00",
     "Price":1.869,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1122,8 +1122,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-09T08:15:13+10:00",
-    "Price":1.779,
+    "TransactionDate":"2026-02-10T07:15:09+10:00",
+    "Price":1.789,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -1272,8 +1272,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":5,
-    "TransactionDate":"2026-01-28T18:55:05+10:00",
-    "Price":1.874,
+    "TransactionDate":"2026-02-09T21:10:06+10:00",
+    "Price":1.859,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-09T20:00:30+10:00",
+    "TransactionDate":"2026-02-10T09:45:30+10:00",
     "Price":1.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-09T20:00:30+10:00",
+    "TransactionDate":"2026-02-10T09:45:30+10:00",
     "Price":1.869,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1632,8 +1632,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-28T18:55:05+10:00",
-    "Price":1.995,
+    "TransactionDate":"2026-02-09T21:10:06+10:00",
+    "Price":1.955,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-02-09T20:00:30+10:00",
+    "TransactionDate":"2026-02-10T09:45:30+10:00",
     "Price":1.889,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-02-09T20:00:30+10:00",
+    "TransactionDate":"2026-02-10T09:45:30+10:00",
     "Price":1.959,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1772,8 +1772,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":12,
-    "TransactionDate":"2026-02-09T08:15:13+10:00",
-    "Price":1.619,
+    "TransactionDate":"2026-02-10T07:15:09+10:00",
+    "Price":1.629,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
