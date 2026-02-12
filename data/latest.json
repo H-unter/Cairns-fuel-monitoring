@@ -72,8 +72,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":2,
-    "TransactionDate":"2026-01-26T09:15:04+10:00",
-    "Price":1.739,
+    "TransactionDate":"2026-02-13T04:40:08+10:00",
+    "Price":1.759,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -310,6 +310,16 @@
     "Fuel_Name":"Unleaded"
   },
   {
+    "Site_ID":61470573,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-02-13T09:30:32+10:00",
+    "Price":1.619,
+    "Name":"BP Earlville",
+    "Address":"395 Mulgrave Rd & Mccoombe Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
     "Site_ID":61470699,
     "Fuel_ID":2,
     "TransactionDate":"2026-02-10T14:05:54+10:00",
@@ -347,6 +357,16 @@
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477062,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-02-13T09:30:32+10:00",
+    "Price":1.699,
+    "Name":"BP Smithfield Cairns",
+    "Address":"Captain Cook Hwy",
+    "Postcode":"4878",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -810,6 +830,16 @@
     "Fuel_Name":"Diesel"
   },
   {
+    "Site_ID":61470573,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-02-13T09:30:32+10:00",
+    "Price":1.799,
+    "Name":"BP Earlville",
+    "Address":"395 Mulgrave Rd & Mccoombe Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
     "Site_ID":61470699,
     "Fuel_ID":3,
     "TransactionDate":"2026-02-10T14:05:54+10:00",
@@ -837,6 +867,16 @@
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477062,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-02-13T09:30:32+10:00",
+    "Price":1.879,
+    "Name":"BP Smithfield Cairns",
+    "Address":"Captain Cook Hwy",
+    "Postcode":"4878",
     "Fuel_Name":"Diesel"
   },
   {
@@ -1240,6 +1280,16 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
+    "Site_ID":61470573,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-02-13T09:30:32+10:00",
+    "Price":1.799,
+    "Name":"BP Earlville",
+    "Address":"395 Mulgrave Rd & Mccoombe Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
     "Site_ID":61477041,
     "Fuel_ID":5,
     "TransactionDate":"2026-02-10T10:26:59+10:00",
@@ -1247,6 +1297,16 @@
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61477062,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-02-13T09:30:32+10:00",
+    "Price":1.869,
+    "Name":"BP Smithfield Cairns",
+    "Address":"Captain Cook Hwy",
+    "Postcode":"4878",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
@@ -1442,8 +1502,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":8,
-    "TransactionDate":"2026-01-26T09:15:04+10:00",
-    "Price":1.949,
+    "TransactionDate":"2026-02-13T04:40:08+10:00",
+    "Price":1.969,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -1590,6 +1650,16 @@
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
+    "Site_ID":61470573,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-02-13T09:30:32+10:00",
+    "Price":1.889,
+    "Name":"BP Earlville",
+    "Address":"395 Mulgrave Rd & Mccoombe Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
     "Site_ID":61470699,
     "Fuel_ID":8,
     "TransactionDate":"2026-02-10T14:05:54+10:00",
@@ -1617,6 +1687,16 @@
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61477062,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-02-13T09:30:32+10:00",
+    "Price":1.959,
+    "Name":"BP Smithfield Cairns",
+    "Address":"Captain Cook Hwy",
+    "Postcode":"4878",
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
@@ -1712,8 +1792,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":12,
-    "TransactionDate":"2026-01-26T09:15:04+10:00",
-    "Price":1.719,
+    "TransactionDate":"2026-02-13T04:40:08+10:00",
+    "Price":1.739,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -1942,8 +2022,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":14,
-    "TransactionDate":"2026-01-26T09:15:04+10:00",
-    "Price":1.919,
+    "TransactionDate":"2026-02-13T04:40:08+10:00",
+    "Price":1.939,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
