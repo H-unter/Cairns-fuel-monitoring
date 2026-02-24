@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-24T09:30:31+10:00",
+    "TransactionDate":"2026-02-24T15:15:31+10:00",
     "Price":1.639,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -352,7 +352,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-10T10:26:59+10:00",
+    "TransactionDate":"2026-02-24T10:33:43+10:00",
     "Price":1.575,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-24T09:30:31+10:00",
+    "TransactionDate":"2026-02-24T15:15:31+10:00",
     "Price":1.699,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -492,8 +492,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":2,
-    "TransactionDate":"2025-12-19T13:58:38+10:00",
-    "Price":1.729,
+    "TransactionDate":"2026-02-24T10:39:39+10:00",
+    "Price":1.709,
     "Name":"Mossman Raintrees Central Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -612,8 +612,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-19T10:01:39+10:00",
-    "Price":1.699,
+    "TransactionDate":"2026-02-24T09:50:14+10:00",
+    "Price":1.719,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -672,8 +672,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-09T11:30:08+10:00",
-    "Price":1.735,
+    "TransactionDate":"2026-02-24T12:20:05+10:00",
+    "Price":1.755,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-24T09:30:31+10:00",
+    "TransactionDate":"2026-02-24T15:15:31+10:00",
     "Price":1.829,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,8 +862,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-10T10:26:59+10:00",
-    "Price":1.679,
+    "TransactionDate":"2026-02-24T10:33:43+10:00",
+    "Price":1.695,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -872,8 +872,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-24T09:30:31+10:00",
-    "Price":1.879,
+    "TransactionDate":"2026-02-24T15:15:31+10:00",
+    "Price":1.889,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1002,8 +1002,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":3,
-    "TransactionDate":"2025-12-19T13:58:38+10:00",
-    "Price":1.849,
+    "TransactionDate":"2026-02-24T10:39:39+10:00",
+    "Price":1.829,
     "Name":"Mossman Raintrees Central Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-24T09:30:31+10:00",
+    "TransactionDate":"2026-02-24T15:15:31+10:00",
     "Price":1.819,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1292,7 +1292,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-10T10:26:59+10:00",
+    "TransactionDate":"2026-02-24T10:33:43+10:00",
     "Price":1.725,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-24T09:30:31+10:00",
+    "TransactionDate":"2026-02-24T15:15:31+10:00",
     "Price":1.869,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1422,8 +1422,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":5,
-    "TransactionDate":"2025-12-19T13:58:38+10:00",
-    "Price":1.869,
+    "TransactionDate":"2026-02-24T10:39:39+10:00",
+    "Price":1.849,
     "Name":"Mossman Raintrees Central Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-02-24T09:30:31+10:00",
+    "TransactionDate":"2026-02-24T15:15:31+10:00",
     "Price":1.909,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-02-24T09:30:31+10:00",
+    "TransactionDate":"2026-02-24T15:15:31+10:00",
     "Price":1.959,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -2012,8 +2012,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2026-02-19T10:01:39+10:00",
-    "Price":1.729,
+    "TransactionDate":"2026-02-24T09:50:14+10:00",
+    "Price":1.749,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2022,8 +2022,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":14,
-    "TransactionDate":"2026-02-19T11:33:39+10:00",
-    "Price":1.859,
+    "TransactionDate":"2026-02-24T14:38:34+10:00",
+    "Price":1.879,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
