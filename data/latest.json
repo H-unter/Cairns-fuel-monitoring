@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-25T09:30:33+10:00",
+    "TransactionDate":"2026-02-25T15:15:31+10:00",
     "Price":1.639,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-25T09:30:33+10:00",
+    "TransactionDate":"2026-02-25T15:15:31+10:00",
     "Price":1.699,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -612,8 +612,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-24T09:50:14+10:00",
-    "Price":1.719,
+    "TransactionDate":"2026-02-25T11:47:25+10:00",
+    "Price":1.729,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -832,8 +832,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-25T09:30:33+10:00",
-    "Price":1.829,
+    "TransactionDate":"2026-02-25T15:15:31+10:00",
+    "Price":1.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-25T09:30:33+10:00",
+    "TransactionDate":"2026-02-25T15:15:31+10:00",
     "Price":1.889,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-25T09:30:33+10:00",
+    "TransactionDate":"2026-02-25T15:15:31+10:00",
     "Price":1.819,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-25T09:30:33+10:00",
+    "TransactionDate":"2026-02-25T15:15:31+10:00",
     "Price":1.869,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-02-25T09:30:33+10:00",
+    "TransactionDate":"2026-02-25T15:15:31+10:00",
     "Price":1.909,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-02-25T09:30:33+10:00",
+    "TransactionDate":"2026-02-25T15:15:31+10:00",
     "Price":1.959,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -2012,8 +2012,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2026-02-24T09:50:14+10:00",
-    "Price":1.749,
+    "TransactionDate":"2026-02-25T11:47:25+10:00",
+    "Price":1.759,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
