@@ -172,7 +172,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-23T16:00:49+10:00",
+    "TransactionDate":"2026-03-01T17:15:45+10:00",
     "Price":1.689,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-01T15:15:31+10:00",
+    "TransactionDate":"2026-03-01T19:30:32+10:00",
     "Price":1.649,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-01T15:15:31+10:00",
+    "TransactionDate":"2026-03-01T19:30:32+10:00",
     "Price":1.699,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -402,7 +402,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":2,
-    "TransactionDate":"2026-02-17T14:45:47+10:00",
+    "TransactionDate":"2026-03-01T17:15:45+10:00",
     "Price":1.599,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
@@ -692,8 +692,8 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-23T16:00:49+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-03-01T17:20:42+10:00",
+    "Price":1.819,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
     "Postcode":"4869",
@@ -712,8 +712,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-23T16:00:49+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-03-01T17:00:52+10:00",
+    "Price":1.819,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -722,8 +722,8 @@
   {
     "Site_ID":61451567,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-23T16:00:49+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-03-01T17:05:38+10:00",
+    "Price":1.819,
     "Name":"Shell Reddy Express Cairns Sheridan St",
     "Address":"291-293 Sheridan St",
     "Postcode":"4870",
@@ -732,8 +732,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-23T16:00:49+10:00",
-    "Price":1.879,
+    "TransactionDate":"2026-03-01T17:00:52+10:00",
+    "Price":1.899,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -772,8 +772,8 @@
   {
     "Site_ID":61451734,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-23T16:00:49+10:00",
-    "Price":1.849,
+    "TransactionDate":"2026-03-01T17:05:38+10:00",
+    "Price":1.869,
     "Name":"Shell Reddy Express Port Douglas",
     "Address":"10 Captain Cook Hwy",
     "Postcode":"4877",
@@ -832,8 +832,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-01T15:15:31+10:00",
-    "Price":1.829,
+    "TransactionDate":"2026-03-01T19:30:32+10:00",
+    "Price":1.839,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -872,8 +872,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-01T15:15:31+10:00",
-    "Price":1.889,
+    "TransactionDate":"2026-03-01T19:30:32+10:00",
+    "Price":1.899,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -882,8 +882,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-23T15:50:41+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-03-01T17:05:38+10:00",
+    "Price":1.819,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -912,8 +912,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":3,
-    "TransactionDate":"2026-02-23T16:00:49+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-03-01T17:15:45+10:00",
+    "Price":1.819,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-01T15:15:31+10:00",
+    "TransactionDate":"2026-03-01T19:30:32+10:00",
     "Price":1.829,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-01T15:15:31+10:00",
+    "TransactionDate":"2026-03-01T19:30:32+10:00",
     "Price":1.869,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":5,
-    "TransactionDate":"2026-02-17T14:45:47+10:00",
+    "TransactionDate":"2026-03-01T17:15:45+10:00",
     "Price":1.772,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-01T15:15:31+10:00",
+    "TransactionDate":"2026-03-01T19:30:32+10:00",
     "Price":1.919,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-01T15:15:31+10:00",
+    "TransactionDate":"2026-03-01T19:30:32+10:00",
     "Price":1.959,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1712,7 +1712,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":8,
-    "TransactionDate":"2026-02-17T14:45:47+10:00",
+    "TransactionDate":"2026-03-01T17:15:45+10:00",
     "Price":1.862,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
@@ -1872,7 +1872,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":12,
-    "TransactionDate":"2026-02-23T16:00:49+10:00",
+    "TransactionDate":"2026-03-01T17:15:45+10:00",
     "Price":1.669,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -1952,7 +1952,7 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":12,
-    "TransactionDate":"2026-02-17T14:45:47+10:00",
+    "TransactionDate":"2026-03-01T17:15:45+10:00",
     "Price":1.579,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
