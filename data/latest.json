@@ -62,8 +62,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-15T07:25:26+10:00",
-    "Price":2.245,
+    "TransactionDate":"2026-03-16T17:14:11+10:00",
+    "Price":2.295,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -282,8 +282,8 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-14T07:26:37+10:00",
-    "Price":2.287,
+    "TransactionDate":"2026-03-16T18:01:14+10:00",
+    "Price":2.319,
     "Name":"Port Douglas Servo",
     "Address":"13 Warner St",
     "Postcode":"4871",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-16T15:45:30+10:00",
+    "TransactionDate":"2026-03-16T20:00:30+10:00",
     "Price":2.299,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-16T15:45:30+10:00",
+    "TransactionDate":"2026-03-16T20:00:30+10:00",
     "Price":2.299,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -542,8 +542,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-14T12:10:04+10:00",
-    "Price":2.299,
+    "TransactionDate":"2026-03-16T17:25:02+10:00",
+    "Price":2.349,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -602,8 +602,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-15T07:25:26+10:00",
-    "Price":2.645,
+    "TransactionDate":"2026-03-16T17:14:11+10:00",
+    "Price":2.695,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -792,8 +792,8 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-14T07:26:37+10:00",
-    "Price":2.647,
+    "TransactionDate":"2026-03-16T18:01:14+10:00",
+    "Price":2.709,
     "Name":"Port Douglas Servo",
     "Address":"13 Warner St",
     "Postcode":"4871",
@@ -822,7 +822,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-16T15:45:30+10:00",
+    "TransactionDate":"2026-03-16T20:00:30+10:00",
     "Price":2.719,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-16T15:45:30+10:00",
+    "TransactionDate":"2026-03-16T20:00:30+10:00",
     "Price":2.719,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1042,20 +1042,10 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-14T12:10:04+10:00",
-    "Price":2.699,
+    "TransactionDate":"2026-03-16T17:25:02+10:00",
+    "Price":2.789,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61478266,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-03-13T15:09:52+10:00",
-    "Price":2.629,
-    "Name":"Woodham Petroleum Cairns",
-    "Address":"104 Aumuller St",
     "Postcode":"4870",
     "Fuel_Name":"Diesel"
   },
@@ -1122,8 +1112,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-15T07:25:26+10:00",
-    "Price":2.345,
+    "TransactionDate":"2026-03-16T17:14:11+10:00",
+    "Price":2.395,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -1252,8 +1242,8 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-14T07:26:37+10:00",
-    "Price":2.437,
+    "TransactionDate":"2026-03-16T18:01:14+10:00",
+    "Price":2.489,
     "Name":"Port Douglas Servo",
     "Address":"13 Warner St",
     "Postcode":"4871",
@@ -1272,7 +1262,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-16T15:45:30+10:00",
+    "TransactionDate":"2026-03-16T20:00:30+10:00",
     "Price":2.479,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1292,7 +1282,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-16T15:45:30+10:00",
+    "TransactionDate":"2026-03-16T20:00:30+10:00",
     "Price":2.469,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1452,8 +1442,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-14T12:10:04+10:00",
-    "Price":2.479,
+    "TransactionDate":"2026-03-16T17:25:02+10:00",
+    "Price":2.599,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1642,7 +1632,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-16T15:45:30+10:00",
+    "TransactionDate":"2026-03-16T20:00:30+10:00",
     "Price":2.569,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1682,7 +1672,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-16T15:45:30+10:00",
+    "TransactionDate":"2026-03-16T20:00:30+10:00",
     "Price":2.559,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1752,8 +1742,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-14T12:10:04+10:00",
-    "Price":2.619,
+    "TransactionDate":"2026-03-16T17:25:02+10:00",
+    "Price":2.699,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1772,8 +1762,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":12,
-    "TransactionDate":"2026-03-15T07:25:26+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-03-16T17:14:11+10:00",
+    "Price":2.275,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -2082,8 +2072,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":14,
-    "TransactionDate":"2026-03-14T12:10:04+10:00",
-    "Price":2.749,
+    "TransactionDate":"2026-03-16T17:25:02+10:00",
+    "Price":2.839,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
