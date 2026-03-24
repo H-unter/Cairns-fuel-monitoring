@@ -2,6 +2,7 @@ import libsql
 
 import os
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import matplotlib.ticker as ticker  
@@ -150,7 +151,7 @@ def draw_box_plot(ax, prices, dates, colour, text_size):
         fontsize=text_size
     )
 
-def plot_main(plot_data, is_boxplot=True, is_violinplot=False):
+def plot_timeseries_boxplots(plot_data, is_boxplot=True, is_violinplot=False):
     fuels_to_plot = sorted(plot_data.keys())
     n_plots = len(fuels_to_plot)
 
@@ -197,12 +198,64 @@ def plot_main(plot_data, is_boxplot=True, is_violinplot=False):
         plt.setp(a.get_xticklabels(), rotation=35, ha='right', fontsize=text_size)
 
     plt.tight_layout(rect=[0, 0, 1, 0.97])
-    plt.savefig('plots/fuel_price_distribution.svg', format='svg')
+    plt.savefig('plots/fuel_price_distribution_timeline.svg', format='svg')
+
+def plot_todays_price_distributions(todays_plot_data):
+    fuels_to_plot = sorted(todays_plot_data.keys())
+    
+    # 1. Gather all prices into one list to find global min/max
+    all_prices = []
+    for fuel in fuels_to_plot:
+        all_prices.extend(todays_plot_data[fuel]['prices'][0])
+
+    # 2. Define shared bin edges
+    # We use linspace to ensure every histogram uses the exact same 'buckets'
+    global_min = min(all_prices)
+    global_max = max(all_prices)
+    shared_bins = np.linspace(global_min, global_max, 50) 
+
+    plt.figure(figsize=(6, 3))
+    colours = plt.rcParams['axes.prop_cycle'].by_key()['color']
+
+    # 3. Overlay histograms using the shared_bins
+    for fuel in fuels_to_plot:
+        prices = todays_plot_data[fuel]['prices'][0]
+        colour = colours[fuels_to_plot.index(fuel) % len(colours)]
+        
+        # Calculate the mean price FIRST so we can add it to the legend label
+        mean_price = np.mean(prices)
+        
+        # Create the label using an f-string and Matplotlib's math text for mu
+        # Formatting to 2 decimal places (:.2f) since it's a price
+        legend_label = rf"{fuel} ($\mu=\${mean_price:.2f}$)"
+        
+        sns.histplot(
+            prices, 
+            bins=shared_bins,  
+            kde=True, 
+            label=legend_label, # Pass the new formatted label here
+            alpha=0.4,
+            element="step"     
+        )
+        
+        # put a vertical line at the mean price for this fuel
+        plt.axvline(mean_price, color=colour, linestyle='--', alpha=1)
+
+    plt.title("Today's Fuel Price Distributions", fontsize=14)
+    plt.xlabel('Price ($/L)', fontsize=12)
+    plt.ylabel('Frequency', fontsize=12)
+    plt.legend(title="Fuel Type", loc='best')
+    plt.grid(True, alpha=0.3)
+    plt.tight_layout()
+    plt.savefig('plots/fuel_price_distribution_today.svg', format='svg')
+
 
 def main():
     df = retrieve_prices_df()
-    plot_data = get_plot_data(plot_days=60, max_price=5.0, df=df)
-    plot_main(plot_data, is_boxplot=True, is_violinplot=False)
+    timeseries_plot_data = get_plot_data(plot_days=60, max_price=5.0, df=df)
+    todays_plot_data = get_plot_data(plot_days=1, max_price=5.0, df=df)
+    plot_timeseries_boxplots(timeseries_plot_data, is_boxplot=True, is_violinplot=False)
+    plot_todays_price_distributions(todays_plot_data)
 
 if __name__ == "__main__":
     main()
