@@ -222,7 +222,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-25T14:15:36+10:00",
+    "TransactionDate":"2026-03-25T16:40:45+10:00",
     "Price":2.479,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -322,8 +322,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-25T15:15:31+10:00",
-    "Price":2.519,
+    "TransactionDate":"2026-03-25T19:45:31+10:00",
+    "Price":2.549,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-25T15:15:31+10:00",
+    "TransactionDate":"2026-03-25T19:45:31+10:00",
     "Price":2.549,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -572,8 +572,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-24T13:35:06+10:00",
-    "Price":2.995,
+    "TransactionDate":"2026-03-25T16:40:14+10:00",
+    "Price":3.055,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -692,8 +692,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-25T14:25:10+10:00",
-    "Price":2.999,
+    "TransactionDate":"2026-03-25T16:55:09+10:00",
+    "Price":2.995,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -702,8 +702,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-24T13:20:08+10:00",
-    "Price":2.995,
+    "TransactionDate":"2026-03-25T16:50:14+10:00",
+    "Price":3.055,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -752,8 +752,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-25T14:15:39+10:00",
-    "Price":3.055,
+    "TransactionDate":"2026-03-25T16:40:49+10:00",
+    "Price":2.995,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -792,8 +792,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-25T10:08:21+10:00",
-    "Price":9.999,
+    "TransactionDate":"2026-03-25T16:27:47+10:00",
+    "Price":3.055,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -830,16 +830,6 @@
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61470301,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-03-25T07:29:20+10:00",
-    "Price":3.109,
-    "Name":"NightOwl BP Clifton Beach",
-    "Address":"55-57 Endeavour Road",
-    "Postcode":"4879",
-    "Fuel_Name":"Diesel"
-  },
-  {
     "Site_ID":61470507,
     "Fuel_ID":3,
     "TransactionDate":"2026-03-25T08:45:05+10:00",
@@ -852,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-25T15:15:31+10:00",
+    "TransactionDate":"2026-03-25T19:45:31+10:00",
     "Price":3.099,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-25T15:15:31+10:00",
+    "TransactionDate":"2026-03-25T19:45:31+10:00",
     "Price":3.099,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -972,8 +962,8 @@
   {
     "Site_ID":61477804,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-24T18:02:34+10:00",
-    "Price":3.097,
+    "TransactionDate":"2026-03-25T18:17:26+10:00",
+    "Price":3.197,
     "Name":"Stratford Driveway Discount Fuels",
     "Address":"2-4 Rinks Close",
     "Postcode":"4870",
@@ -1312,8 +1302,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-25T15:15:31+10:00",
-    "Price":2.699,
+    "TransactionDate":"2026-03-25T19:45:31+10:00",
+    "Price":2.729,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1332,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-25T15:15:31+10:00",
+    "TransactionDate":"2026-03-25T19:45:31+10:00",
     "Price":2.719,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1622,7 +1612,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-25T14:15:37+10:00",
+    "TransactionDate":"2026-03-25T16:40:46+10:00",
     "Price":2.709,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -1672,8 +1662,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-25T08:45:05+10:00",
-    "Price":2.999,
+    "TransactionDate":"2026-03-25T15:30:08+10:00",
+    "Price":2.959,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -1682,8 +1672,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-25T15:15:31+10:00",
-    "Price":2.789,
+    "TransactionDate":"2026-03-25T19:45:31+10:00",
+    "Price":2.819,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1722,7 +1712,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-25T15:15:31+10:00",
+    "TransactionDate":"2026-03-25T19:45:31+10:00",
     "Price":2.809,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1932,7 +1922,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":12,
-    "TransactionDate":"2026-03-25T14:15:38+10:00",
+    "TransactionDate":"2026-03-25T16:40:47+10:00",
     "Price":2.439,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -2082,8 +2072,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":14,
-    "TransactionDate":"2026-03-25T14:15:40+10:00",
-    "Price":3.085,
+    "TransactionDate":"2026-03-25T16:40:50+10:00",
+    "Price":3.025,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
