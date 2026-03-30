@@ -22,7 +22,7 @@
   {
     "Site_ID":61402009,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-27T11:07:28+10:00",
+    "TransactionDate":"2026-03-31T08:52:35+10:00",
     "Price":2.649,
     "Name":"Ampol Mossman",
     "Address":"67 Alchera",
@@ -32,7 +32,7 @@
   {
     "Site_ID":61402015,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-27T10:11:55+10:00",
+    "TransactionDate":"2026-03-31T08:57:36+10:00",
     "Price":2.589,
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
@@ -142,8 +142,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-28T09:05:10+10:00",
-    "Price":2.585,
+    "TransactionDate":"2026-03-31T08:25:14+10:00",
+    "Price":2.519,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -232,7 +232,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-29T05:53:16+10:00",
+    "TransactionDate":"2026-03-31T06:39:46+10:00",
     "Price":2.595,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -242,7 +242,7 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-27T10:06:55+10:00",
+    "TransactionDate":"2026-03-31T08:47:31+10:00",
     "Price":2.589,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-30T10:20:09+10:00",
+    "TransactionDate":"2026-03-31T05:05:06+10:00",
     "Price":2.619,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-30T20:15:31+10:00",
+    "TransactionDate":"2026-03-31T09:30:32+10:00",
     "Price":2.619,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-30T20:15:31+10:00",
+    "TransactionDate":"2026-03-31T09:30:32+10:00",
     "Price":2.599,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -392,7 +392,7 @@
   {
     "Site_ID":61477106,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-27T10:12:01+10:00",
+    "TransactionDate":"2026-03-31T08:47:37+10:00",
     "Price":2.649,
     "Name":"Marano\u2019s Fuel Wonga",
     "Address":"3 Oleander Drive",
@@ -472,7 +472,7 @@
   {
     "Site_ID":61477814,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-27T10:12:07+10:00",
+    "TransactionDate":"2026-03-31T08:37:27+10:00",
     "Price":2.649,
     "Name":"Miallo Fuel Station",
     "Address":"735 Daintree Road",
@@ -482,7 +482,7 @@
   {
     "Site_ID":61477816,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-27T10:16:59+10:00",
+    "TransactionDate":"2026-03-31T09:21:52+10:00",
     "Price":2.649,
     "Name":"Roadhouse Service Station",
     "Address":"129 Alchera Drive",
@@ -490,19 +490,9 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61477819,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-03-27T10:12:15+10:00",
-    "Price":2.649,
-    "Name":"Port Douglas Service Station",
-    "Address":" Port Street",
-    "Postcode":"4871",
-    "Fuel_Name":"Unleaded"
-  },
-  {
     "Site_ID":61477822,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-26T12:37:05+10:00",
+    "TransactionDate":"2026-03-31T09:40:06+10:00",
     "Price":2.649,
     "Name":"Raintrees Cafe and Servo",
     "Address":"2 Foxton Avenue",
@@ -542,7 +532,7 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-27T10:37:09+10:00",
+    "TransactionDate":"2026-03-31T08:52:47+10:00",
     "Price":2.589,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
@@ -582,8 +572,8 @@
   {
     "Site_ID":61402009,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-27T11:07:27+10:00",
-    "Price":3.249,
+    "TransactionDate":"2026-03-31T08:52:35+10:00",
+    "Price":3.289,
     "Name":"Ampol Mossman",
     "Address":"67 Alchera",
     "Postcode":"4873",
@@ -592,8 +582,8 @@
   {
     "Site_ID":61402015,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-27T10:11:55+10:00",
-    "Price":3.199,
+    "TransactionDate":"2026-03-31T08:57:37+10:00",
+    "Price":3.239,
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
     "Postcode":"4879",
@@ -642,8 +632,8 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-28T15:15:19+10:00",
-    "Price":3.199,
+    "TransactionDate":"2026-03-31T05:37:08+10:00",
+    "Price":3.219,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
     "Postcode":"4871",
@@ -672,8 +662,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-28T09:05:10+10:00",
-    "Price":3.195,
+    "TransactionDate":"2026-03-31T08:25:14+10:00",
+    "Price":3.159,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -762,8 +752,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-29T05:53:16+10:00",
-    "Price":3.195,
+    "TransactionDate":"2026-03-31T06:39:46+10:00",
+    "Price":3.215,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -772,8 +762,8 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-27T10:06:56+10:00",
-    "Price":3.199,
+    "TransactionDate":"2026-03-31T08:47:32+10:00",
+    "Price":3.239,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -842,8 +832,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-30T10:20:09+10:00",
-    "Price":3.229,
+    "TransactionDate":"2026-03-31T05:05:06+10:00",
+    "Price":3.259,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -852,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-30T20:15:31+10:00",
+    "TransactionDate":"2026-03-31T09:30:32+10:00",
     "Price":3.229,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-30T20:15:31+10:00",
+    "TransactionDate":"2026-03-31T09:30:32+10:00",
     "Price":3.239,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -912,8 +902,8 @@
   {
     "Site_ID":61477106,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-27T10:12:00+10:00",
-    "Price":3.249,
+    "TransactionDate":"2026-03-31T08:47:36+10:00",
+    "Price":3.289,
     "Name":"Marano\u2019s Fuel Wonga",
     "Address":"3 Oleander Drive",
     "Postcode":"4873",
@@ -992,8 +982,8 @@
   {
     "Site_ID":61477814,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-27T10:12:05+10:00",
-    "Price":3.249,
+    "TransactionDate":"2026-03-31T08:37:27+10:00",
+    "Price":3.289,
     "Name":"Miallo Fuel Station",
     "Address":"735 Daintree Road",
     "Postcode":"4873",
@@ -1002,8 +992,8 @@
   {
     "Site_ID":61477816,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-27T10:16:58+10:00",
-    "Price":3.249,
+    "TransactionDate":"2026-03-31T09:21:51+10:00",
+    "Price":3.289,
     "Name":"Roadhouse Service Station",
     "Address":"129 Alchera Drive",
     "Postcode":"4873",
@@ -1012,8 +1002,8 @@
   {
     "Site_ID":61477819,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-27T10:12:14+10:00",
-    "Price":3.249,
+    "TransactionDate":"2026-03-31T08:47:44+10:00",
+    "Price":3.289,
     "Name":"Port Douglas Service Station",
     "Address":" Port Street",
     "Postcode":"4871",
@@ -1022,8 +1012,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-26T12:37:05+10:00",
-    "Price":3.219,
+    "TransactionDate":"2026-03-31T09:40:06+10:00",
+    "Price":3.289,
     "Name":"Raintrees Cafe and Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -1062,8 +1052,8 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-27T10:37:09+10:00",
-    "Price":3.199,
+    "TransactionDate":"2026-03-31T08:52:48+10:00",
+    "Price":3.239,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
     "Postcode":"4869",
@@ -1112,7 +1102,7 @@
   {
     "Site_ID":61402009,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-27T11:07:28+10:00",
+    "TransactionDate":"2026-03-31T08:52:36+10:00",
     "Price":2.789,
     "Name":"Ampol Mossman",
     "Address":"67 Alchera",
@@ -1122,7 +1112,7 @@
   {
     "Site_ID":61402015,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-27T10:11:56+10:00",
+    "TransactionDate":"2026-03-31T08:57:38+10:00",
     "Price":2.719,
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
@@ -1192,8 +1182,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-28T09:05:10+10:00",
-    "Price":2.725,
+    "TransactionDate":"2026-03-31T08:25:14+10:00",
+    "Price":2.659,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1242,7 +1232,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-29T05:53:16+10:00",
+    "TransactionDate":"2026-03-31T06:39:46+10:00",
     "Price":2.695,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -1252,7 +1242,7 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-27T10:06:57+10:00",
+    "TransactionDate":"2026-03-31T08:47:33+10:00",
     "Price":2.719,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
@@ -1312,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-30T20:15:31+10:00",
+    "TransactionDate":"2026-03-31T09:30:32+10:00",
     "Price":2.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1332,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-30T20:15:31+10:00",
+    "TransactionDate":"2026-03-31T09:30:32+10:00",
     "Price":2.769,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1342,7 +1332,7 @@
   {
     "Site_ID":61477106,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-27T10:12:03+10:00",
+    "TransactionDate":"2026-03-31T08:47:38+10:00",
     "Price":2.789,
     "Name":"Marano\u2019s Fuel Wonga",
     "Address":"3 Oleander Drive",
@@ -1422,7 +1412,7 @@
   {
     "Site_ID":61477814,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-27T10:12:08+10:00",
+    "TransactionDate":"2026-03-31T08:37:28+10:00",
     "Price":2.789,
     "Name":"Miallo Fuel Station",
     "Address":"735 Daintree Road",
@@ -1432,7 +1422,7 @@
   {
     "Site_ID":61477816,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-27T10:17:00+10:00",
+    "TransactionDate":"2026-03-31T09:21:53+10:00",
     "Price":2.789,
     "Name":"Roadhouse Service Station",
     "Address":"129 Alchera Drive",
@@ -1442,7 +1432,7 @@
   {
     "Site_ID":61477819,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-27T10:12:16+10:00",
+    "TransactionDate":"2026-03-31T08:47:46+10:00",
     "Price":2.789,
     "Name":"Port Douglas Service Station",
     "Address":" Port Street",
@@ -1452,7 +1442,7 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-26T12:37:05+10:00",
+    "TransactionDate":"2026-03-31T09:40:06+10:00",
     "Price":2.789,
     "Name":"Raintrees Cafe and Servo",
     "Address":"2 Foxton Avenue",
@@ -1482,7 +1472,7 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-27T10:37:10+10:00",
+    "TransactionDate":"2026-03-31T08:52:49+10:00",
     "Price":2.719,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
@@ -1512,7 +1502,7 @@
   {
     "Site_ID":61402015,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-27T10:11:57+10:00",
+    "TransactionDate":"2026-03-31T08:57:38+10:00",
     "Price":2.879,
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
@@ -1562,8 +1552,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-28T09:05:10+10:00",
-    "Price":2.815,
+    "TransactionDate":"2026-03-31T08:25:14+10:00",
+    "Price":2.749,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1632,7 +1622,7 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-27T10:06:58+10:00",
+    "TransactionDate":"2026-03-31T08:47:34+10:00",
     "Price":2.879,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
@@ -1672,7 +1662,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-30T10:20:09+10:00",
+    "TransactionDate":"2026-03-31T05:05:06+10:00",
     "Price":2.959,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -1682,7 +1672,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-30T20:15:31+10:00",
+    "TransactionDate":"2026-03-31T09:30:32+10:00",
     "Price":2.889,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1722,7 +1712,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-30T20:15:31+10:00",
+    "TransactionDate":"2026-03-31T09:30:32+10:00",
     "Price":2.859,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1782,7 +1772,7 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-27T10:37:11+10:00",
+    "TransactionDate":"2026-03-31T08:52:49+10:00",
     "Price":2.879,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
@@ -1872,8 +1862,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":12,
-    "TransactionDate":"2026-03-28T09:05:10+10:00",
-    "Price":2.565,
+    "TransactionDate":"2026-03-31T08:25:14+10:00",
+    "Price":2.499,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1942,7 +1932,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-03-29T05:53:16+10:00",
+    "TransactionDate":"2026-03-31T06:39:46+10:00",
     "Price":2.575,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -2012,8 +2002,8 @@
   {
     "Site_ID":61402015,
     "Fuel_ID":14,
-    "TransactionDate":"2026-03-27T10:11:58+10:00",
-    "Price":3.309,
+    "TransactionDate":"2026-03-31T08:57:39+10:00",
+    "Price":3.349,
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
     "Postcode":"4879",
@@ -2032,8 +2022,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":14,
-    "TransactionDate":"2026-03-28T11:15:10+10:00",
-    "Price":3.214,
+    "TransactionDate":"2026-03-31T05:55:13+10:00",
+    "Price":3.254,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -2102,8 +2092,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":14,
-    "TransactionDate":"2026-03-28T11:25:12+10:00",
-    "Price":3.204,
+    "TransactionDate":"2026-03-31T05:55:13+10:00",
+    "Price":3.244,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
