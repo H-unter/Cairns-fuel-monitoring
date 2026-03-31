@@ -12,7 +12,7 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-26T10:03:28+10:00",
+    "TransactionDate":"2026-03-31T12:05:08+10:00",
     "Price":2.589,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
@@ -102,7 +102,7 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-29T07:26:55+10:00",
+    "TransactionDate":"2026-03-31T14:15:08+10:00",
     "Price":9.999,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
@@ -132,7 +132,7 @@
   {
     "Site_ID":61402795,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-30T10:50:07+10:00",
+    "TransactionDate":"2026-03-31T11:25:07+10:00",
     "Price":2.609,
     "Name":"BP Mossman",
     "Address":"68 Pringle St",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-31T09:30:32+10:00",
+    "TransactionDate":"2026-03-31T15:45:30+10:00",
     "Price":2.619,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-03-31T09:30:32+10:00",
+    "TransactionDate":"2026-03-31T15:45:30+10:00",
     "Price":2.599,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -562,8 +562,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-27T13:39:49+10:00",
-    "Price":3.199,
+    "TransactionDate":"2026-03-31T12:05:08+10:00",
+    "Price":3.239,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -622,8 +622,8 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-26T21:40:11+10:00",
-    "Price":3.5,
+    "TransactionDate":"2026-03-31T14:15:08+10:00",
+    "Price":3.35,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
     "Postcode":"4861",
@@ -652,8 +652,8 @@
   {
     "Site_ID":61402795,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-30T10:50:07+10:00",
-    "Price":3.209,
+    "TransactionDate":"2026-03-31T11:25:07+10:00",
+    "Price":3.249,
     "Name":"BP Mossman",
     "Address":"68 Pringle St",
     "Postcode":"4873",
@@ -842,8 +842,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-31T09:30:32+10:00",
-    "Price":3.229,
+    "TransactionDate":"2026-03-31T15:45:30+10:00",
+    "Price":3.259,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-03-31T09:30:32+10:00",
+    "TransactionDate":"2026-03-31T15:45:30+10:00",
     "Price":3.239,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1092,7 +1092,7 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-26T10:03:28+10:00",
+    "TransactionDate":"2026-03-31T12:05:08+10:00",
     "Price":2.719,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
@@ -1172,7 +1172,7 @@
   {
     "Site_ID":61402795,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-30T10:50:07+10:00",
+    "TransactionDate":"2026-03-31T11:25:07+10:00",
     "Price":2.739,
     "Name":"BP Mossman",
     "Address":"68 Pringle St",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-31T09:30:32+10:00",
+    "TransactionDate":"2026-03-31T15:45:30+10:00",
     "Price":2.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-03-31T09:30:32+10:00",
+    "TransactionDate":"2026-03-31T15:45:30+10:00",
     "Price":2.769,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1672,7 +1672,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-31T09:30:32+10:00",
+    "TransactionDate":"2026-03-31T15:45:30+10:00",
     "Price":2.889,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1712,7 +1712,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-03-31T09:30:32+10:00",
+    "TransactionDate":"2026-03-31T15:45:30+10:00",
     "Price":2.859,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -2042,8 +2042,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":14,
-    "TransactionDate":"2026-03-30T13:45:18+10:00",
-    "Price":3.259,
+    "TransactionDate":"2026-03-31T11:44:45+10:00",
+    "Price":3.299,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -2052,8 +2052,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":14,
-    "TransactionDate":"2026-03-30T11:34:52+10:00",
-    "Price":3.259,
+    "TransactionDate":"2026-03-31T10:53:33+10:00",
+    "Price":3.299,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
