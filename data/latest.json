@@ -62,7 +62,7 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-03T08:03:26+10:00",
+    "TransactionDate":"2026-04-03T16:05:00+10:00",
     "Price":2.235,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
@@ -142,8 +142,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-02T10:45:10+10:00",
-    "Price":2.295,
+    "TransactionDate":"2026-04-03T17:45:10+10:00",
+    "Price":2.235,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -302,7 +302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-03T15:30:32+10:00",
+    "TransactionDate":"2026-04-03T19:45:31+10:00",
     "Price":2.259,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -352,7 +352,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-03T15:30:32+10:00",
+    "TransactionDate":"2026-04-03T19:45:31+10:00",
     "Price":2.239,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -562,8 +562,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-01T16:13:58+10:00",
-    "Price":2.989,
+    "TransactionDate":"2026-04-03T15:51:28+10:00",
+    "Price":3.039,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -602,7 +602,7 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T08:03:26+10:00",
+    "TransactionDate":"2026-04-03T16:15:45+10:00",
     "Price":2.975,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
@@ -712,8 +712,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T05:15:51+10:00",
-    "Price":2.975,
+    "TransactionDate":"2026-04-03T16:00:46+10:00",
+    "Price":3.049,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -722,8 +722,8 @@
   {
     "Site_ID":61451567,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T05:01:02+10:00",
-    "Price":2.975,
+    "TransactionDate":"2026-04-03T16:05:37+10:00",
+    "Price":3.049,
     "Name":"Shell Reddy Express Cairns Sheridan St",
     "Address":"291-293 Sheridan St",
     "Postcode":"4870",
@@ -732,8 +732,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T05:01:02+10:00",
-    "Price":2.975,
+    "TransactionDate":"2026-04-03T16:00:46+10:00",
+    "Price":3.049,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -772,8 +772,8 @@
   {
     "Site_ID":61451734,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T06:05:38+10:00",
-    "Price":2.985,
+    "TransactionDate":"2026-04-03T16:00:46+10:00",
+    "Price":3.059,
     "Name":"Shell Reddy Express Port Douglas",
     "Address":"10 Captain Cook Hwy",
     "Postcode":"4877",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T15:30:32+10:00",
+    "TransactionDate":"2026-04-03T19:45:31+10:00",
     "Price":2.979,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T15:30:32+10:00",
+    "TransactionDate":"2026-04-03T19:45:31+10:00",
     "Price":2.959,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T10:35:40+10:00",
+    "TransactionDate":"2026-04-03T16:15:46+10:00",
     "Price":9.999,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
@@ -912,8 +912,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T05:45:52+10:00",
-    "Price":2.975,
+    "TransactionDate":"2026-04-03T16:00:46+10:00",
+    "Price":3.049,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1132,7 +1132,7 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-03T08:03:26+10:00",
+    "TransactionDate":"2026-04-03T16:05:00+10:00",
     "Price":2.335,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
@@ -1172,8 +1172,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-02T10:45:10+10:00",
-    "Price":2.435,
+    "TransactionDate":"2026-04-03T17:45:10+10:00",
+    "Price":2.375,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1292,7 +1292,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-03T15:30:32+10:00",
+    "TransactionDate":"2026-04-03T19:45:31+10:00",
     "Price":2.439,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-03T15:30:32+10:00",
+    "TransactionDate":"2026-04-03T19:45:31+10:00",
     "Price":2.409,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1542,8 +1542,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-02T10:45:10+10:00",
-    "Price":2.525,
+    "TransactionDate":"2026-04-03T17:45:10+10:00",
+    "Price":2.465,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-03T15:30:32+10:00",
+    "TransactionDate":"2026-04-03T19:45:31+10:00",
     "Price":2.529,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-03T15:30:32+10:00",
+    "TransactionDate":"2026-04-03T19:45:31+10:00",
     "Price":2.499,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1792,7 +1792,7 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-03T08:03:26+10:00",
+    "TransactionDate":"2026-04-03T16:05:00+10:00",
     "Price":2.215,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
@@ -1852,8 +1852,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-02T10:45:10+10:00",
-    "Price":2.275,
+    "TransactionDate":"2026-04-03T17:45:10+10:00",
+    "Price":2.215,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
