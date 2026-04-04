@@ -62,7 +62,7 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-03T16:05:00+10:00",
+    "TransactionDate":"2026-04-04T11:13:57+10:00",
     "Price":2.235,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
@@ -82,8 +82,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-01T10:02:21+10:00",
-    "Price":2.299,
+    "TransactionDate":"2026-04-04T10:41:55+10:00",
+    "Price":2.279,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -302,7 +302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-04T09:30:33+10:00",
+    "TransactionDate":"2026-04-04T15:15:31+10:00",
     "Price":2.259,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -352,7 +352,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-04T09:30:33+10:00",
+    "TransactionDate":"2026-04-04T15:15:31+10:00",
     "Price":2.239,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -532,8 +532,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-02T10:30:10+10:00",
-    "Price":2.339,
+    "TransactionDate":"2026-04-04T11:30:06+10:00",
+    "Price":2.294,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -542,8 +542,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-01T07:45:17+10:00",
-    "Price":2.985,
+    "TransactionDate":"2026-04-04T11:30:14+10:00",
+    "Price":3.039,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -592,8 +592,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T16:15:45+10:00",
-    "Price":2.975,
+    "TransactionDate":"2026-04-04T11:13:57+10:00",
+    "Price":2.965,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -652,8 +652,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T08:50:07+10:00",
-    "Price":2.999,
+    "TransactionDate":"2026-04-04T10:40:14+10:00",
+    "Price":3.049,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -672,8 +672,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T11:00:13+10:00",
-    "Price":2.985,
+    "TransactionDate":"2026-04-04T11:40:09+10:00",
+    "Price":3.039,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T09:30:33+10:00",
+    "TransactionDate":"2026-04-04T15:15:31+10:00",
     "Price":3.049,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T09:30:33+10:00",
+    "TransactionDate":"2026-04-04T15:15:31+10:00",
     "Price":3.049,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -962,8 +962,8 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-03T09:40:36+10:00",
-    "Price":2.975,
+    "TransactionDate":"2026-04-04T10:50:30+10:00",
+    "Price":2.965,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
     "Postcode":"4869",
@@ -1052,7 +1052,7 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-02T10:30:10+10:00",
+    "TransactionDate":"2026-04-04T11:30:06+10:00",
     "Price":3.069,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
@@ -1132,7 +1132,7 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-03T16:05:00+10:00",
+    "TransactionDate":"2026-04-04T11:13:57+10:00",
     "Price":2.335,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
@@ -1292,7 +1292,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-04T09:30:33+10:00",
+    "TransactionDate":"2026-04-04T15:15:31+10:00",
     "Price":2.439,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-04T09:30:33+10:00",
+    "TransactionDate":"2026-04-04T15:15:31+10:00",
     "Price":2.409,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1472,8 +1472,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-02T06:15:07+10:00",
-    "Price":2.479,
+    "TransactionDate":"2026-04-04T11:30:06+10:00",
+    "Price":2.449,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1522,8 +1522,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-01T10:02:21+10:00",
-    "Price":2.579,
+    "TransactionDate":"2026-04-04T10:41:55+10:00",
+    "Price":2.559,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-04T09:30:33+10:00",
+    "TransactionDate":"2026-04-04T15:15:31+10:00",
     "Price":2.529,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-04T09:30:33+10:00",
+    "TransactionDate":"2026-04-04T15:15:31+10:00",
     "Price":2.499,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1762,8 +1762,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-02T06:15:07+10:00",
-    "Price":2.569,
+    "TransactionDate":"2026-04-04T11:30:06+10:00",
+    "Price":2.524,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1782,7 +1782,7 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-03T16:05:00+10:00",
+    "TransactionDate":"2026-04-04T11:13:57+10:00",
     "Price":2.215,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
@@ -1802,8 +1802,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-01T10:02:21+10:00",
-    "Price":2.279,
+    "TransactionDate":"2026-04-04T10:41:55+10:00",
+    "Price":2.259,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -1992,8 +1992,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-02T16:05:15+10:00",
-    "Price":2.994,
+    "TransactionDate":"2026-04-04T14:50:20+10:00",
+    "Price":3.084,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -2022,7 +2022,7 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-02T15:21:23+10:00",
+    "TransactionDate":"2026-04-04T10:41:55+10:00",
     "Price":3.039,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
@@ -2062,8 +2062,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-02T16:10:13+10:00",
-    "Price":2.984,
+    "TransactionDate":"2026-04-04T14:45:15+10:00",
+    "Price":3.074,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -2082,7 +2082,7 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-02T10:30:10+10:00",
+    "TransactionDate":"2026-04-04T11:30:06+10:00",
     "Price":3.099,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
