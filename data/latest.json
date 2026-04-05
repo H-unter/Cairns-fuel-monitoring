@@ -112,8 +112,8 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-01T10:46:32+10:00",
-    "Price":2.299,
+    "TransactionDate":"2026-04-06T07:40:22+10:00",
+    "Price":2.239,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
     "Postcode":"4871",
@@ -222,7 +222,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-04T09:20:12+10:00",
+    "TransactionDate":"2026-04-06T09:35:30+10:00",
     "Price":2.195,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -232,7 +232,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-04T07:08:24+10:00",
+    "TransactionDate":"2026-04-06T06:44:15+10:00",
     "Price":2.235,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -257,6 +257,16 @@
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61470086,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-04-06T07:06:56+10:00",
+    "Price":2.235,
+    "Name":"Mobil on Spence",
+    "Address":"142A-146 Spence Street",
+    "Postcode":"4870",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -302,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-05T19:45:30+10:00",
+    "TransactionDate":"2026-04-06T09:30:32+10:00",
     "Price":2.259,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -322,7 +332,7 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-04T09:30:14+10:00",
+    "TransactionDate":"2026-04-06T09:35:37+10:00",
     "Price":2.195,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
@@ -352,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-05T19:45:30+10:00",
+    "TransactionDate":"2026-04-06T09:30:32+10:00",
     "Price":2.239,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -542,8 +552,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T11:30:14+10:00",
-    "Price":3.039,
+    "TransactionDate":"2026-04-06T08:20:09+10:00",
+    "Price":2.995,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -592,8 +602,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T11:13:57+10:00",
-    "Price":2.965,
+    "TransactionDate":"2026-04-06T07:37:30+10:00",
+    "Price":2.995,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -672,8 +682,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T11:40:09+10:00",
-    "Price":3.039,
+    "TransactionDate":"2026-04-06T09:05:20+10:00",
+    "Price":2.995,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -692,8 +702,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T06:59:07+10:00",
-    "Price":2.965,
+    "TransactionDate":"2026-04-06T07:01:47+10:00",
+    "Price":2.995,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -732,8 +742,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T09:20:14+10:00",
-    "Price":2.965,
+    "TransactionDate":"2026-04-06T09:35:32+10:00",
+    "Price":2.995,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -742,8 +752,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-05T13:41:02+10:00",
-    "Price":9.999,
+    "TransactionDate":"2026-04-06T06:44:15+10:00",
+    "Price":2.995,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -772,8 +782,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T07:27:10+10:00",
-    "Price":2.965,
+    "TransactionDate":"2026-04-06T08:47:36+10:00",
+    "Price":2.995,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -782,8 +792,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T08:04:03+10:00",
-    "Price":2.965,
+    "TransactionDate":"2026-04-06T07:06:56+10:00",
+    "Price":2.995,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -832,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-05T19:45:30+10:00",
+    "TransactionDate":"2026-04-06T09:30:32+10:00",
     "Price":3.059,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -852,8 +862,8 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T09:30:25+10:00",
-    "Price":2.965,
+    "TransactionDate":"2026-04-06T09:35:40+10:00",
+    "Price":2.995,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
     "Postcode":"4870",
@@ -872,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-05T19:45:30+10:00",
+    "TransactionDate":"2026-04-06T09:30:32+10:00",
     "Price":3.069,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -962,8 +972,8 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T10:50:30+10:00",
-    "Price":2.965,
+    "TransactionDate":"2026-04-06T06:33:00+10:00",
+    "Price":2.995,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
     "Postcode":"4869",
@@ -1032,8 +1042,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-04T07:07:14+10:00",
-    "Price":2.965,
+    "TransactionDate":"2026-04-06T06:33:58+10:00",
+    "Price":2.995,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -1072,7 +1082,7 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":4,
-    "TransactionDate":"2026-04-01T09:01:16+10:00",
+    "TransactionDate":"2026-04-06T07:06:56+10:00",
     "Price":1.599,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
@@ -1222,7 +1232,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-04T07:08:24+10:00",
+    "TransactionDate":"2026-04-06T06:44:15+10:00",
     "Price":2.335,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -1292,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-05T19:45:30+10:00",
+    "TransactionDate":"2026-04-06T09:30:32+10:00",
     "Price":2.439,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1312,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-05T19:45:30+10:00",
+    "TransactionDate":"2026-04-06T09:30:32+10:00",
     "Price":2.409,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1602,7 +1612,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-04T09:20:13+10:00",
+    "TransactionDate":"2026-04-06T09:35:30+10:00",
     "Price":2.425,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -1630,6 +1640,16 @@
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
+    "Site_ID":61470086,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-04-06T07:06:56+10:00",
+    "Price":2.435,
+    "Name":"Mobil on Spence",
+    "Address":"142A-146 Spence Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
     "Site_ID":61470301,
     "Fuel_ID":8,
     "TransactionDate":"2026-04-02T08:10:06+10:00",
@@ -1652,7 +1672,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-05T19:45:30+10:00",
+    "TransactionDate":"2026-04-06T09:30:32+10:00",
     "Price":2.529,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1672,7 +1692,7 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-04T09:30:17+10:00",
+    "TransactionDate":"2026-04-06T09:35:39+10:00",
     "Price":2.425,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
@@ -1692,7 +1712,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-05T19:45:30+10:00",
+    "TransactionDate":"2026-04-06T09:30:32+10:00",
     "Price":2.499,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1822,8 +1842,8 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-01T10:26:16+10:00",
-    "Price":2.289,
+    "TransactionDate":"2026-04-06T07:40:22+10:00",
+    "Price":2.229,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
     "Postcode":"4871",
@@ -1902,7 +1922,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-04T09:20:13+10:00",
+    "TransactionDate":"2026-04-06T09:35:31+10:00",
     "Price":2.155,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -1912,7 +1932,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-04T07:08:24+10:00",
+    "TransactionDate":"2026-04-06T06:44:15+10:00",
     "Price":2.215,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -1920,9 +1940,19 @@
     "Fuel_Name":"e10"
   },
   {
+    "Site_ID":61470086,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-04-06T07:06:56+10:00",
+    "Price":2.215,
+    "Name":"Mobil on Spence",
+    "Address":"142A-146 Spence Street",
+    "Postcode":"4870",
+    "Fuel_Name":"e10"
+  },
+  {
     "Site_ID":61477011,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-04T09:30:22+10:00",
+    "TransactionDate":"2026-04-06T09:35:39+10:00",
     "Price":2.155,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
@@ -2042,8 +2072,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-04T09:20:15+10:00",
-    "Price":2.995,
+    "TransactionDate":"2026-04-06T09:35:33+10:00",
+    "Price":3.025,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -2052,8 +2082,8 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-04T09:30:30+10:00",
-    "Price":2.995,
+    "TransactionDate":"2026-04-06T09:35:41+10:00",
+    "Price":3.025,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
     "Postcode":"4870",
