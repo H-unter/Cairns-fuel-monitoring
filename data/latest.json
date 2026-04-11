@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-11T15:30:31+10:00",
+    "TransactionDate":"2026-04-11T19:45:30+10:00",
     "Price":2.199,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-11T15:30:31+10:00",
+    "TransactionDate":"2026-04-11T19:45:30+10:00",
     "Price":2.199,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-11T15:30:31+10:00",
+    "TransactionDate":"2026-04-11T19:45:30+10:00",
     "Price":3.169,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-11T15:30:31+10:00",
+    "TransactionDate":"2026-04-11T19:45:30+10:00",
     "Price":3.159,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-11T15:30:31+10:00",
+    "TransactionDate":"2026-04-11T19:45:30+10:00",
     "Price":2.379,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-11T15:30:31+10:00",
+    "TransactionDate":"2026-04-11T19:45:30+10:00",
     "Price":2.369,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1472,8 +1472,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-10T06:16:42+10:00",
-    "Price":2.295,
+    "TransactionDate":"2026-04-11T16:14:17+10:00",
+    "Price":9.999,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -1682,7 +1682,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-11T15:30:31+10:00",
+    "TransactionDate":"2026-04-11T19:45:30+10:00",
     "Price":2.469,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1722,7 +1722,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-11T15:30:31+10:00",
+    "TransactionDate":"2026-04-11T19:45:30+10:00",
     "Price":2.459,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
