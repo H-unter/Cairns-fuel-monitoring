@@ -102,8 +102,8 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-12T08:45:09+10:00",
-    "Price":2.2,
+    "TransactionDate":"2026-04-15T12:52:21+10:00",
+    "Price":2.15,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
     "Postcode":"4861",
@@ -122,8 +122,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-15T08:55:13+10:00",
-    "Price":2.129,
+    "TransactionDate":"2026-04-15T12:45:09+10:00",
+    "Price":2.115,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -142,8 +142,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-14T16:05:08+10:00",
-    "Price":2.129,
+    "TransactionDate":"2026-04-15T09:55:12+10:00",
+    "Price":2.115,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -222,8 +222,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-15T09:11:00+10:00",
-    "Price":2.115,
+    "TransactionDate":"2026-04-15T15:46:03+10:00",
+    "Price":2.109,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -320,20 +320,10 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61470573,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-04-15T09:45:30+10:00",
-    "Price":2.169,
-    "Name":"BP Earlville",
-    "Address":"395 Mulgrave Rd & Mccoombe Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
     "Site_ID":61470699,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-14T11:25:42+10:00",
-    "Price":2.199,
+    "TransactionDate":"2026-04-15T12:08:49+10:00",
+    "Price":2.129,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -362,21 +352,11 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-13T16:03:48+10:00",
-    "Price":2.135,
+    "TransactionDate":"2026-04-15T12:18:19+10:00",
+    "Price":2.109,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477062,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-04-15T09:45:30+10:00",
-    "Price":2.179,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4878",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -512,8 +492,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-13T12:28:57+10:00",
-    "Price":2.199,
+    "TransactionDate":"2026-04-15T10:48:01+10:00",
+    "Price":2.159,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
@@ -632,8 +612,8 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-12T08:45:09+10:00",
-    "Price":3.19,
+    "TransactionDate":"2026-04-15T12:52:21+10:00",
+    "Price":3.15,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
     "Postcode":"4861",
@@ -652,8 +632,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-15T08:55:13+10:00",
-    "Price":3.134,
+    "TransactionDate":"2026-04-15T12:45:09+10:00",
+    "Price":3.115,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -672,8 +652,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-15T07:10:18+10:00",
-    "Price":3.134,
+    "TransactionDate":"2026-04-15T09:55:12+10:00",
+    "Price":3.115,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -752,7 +732,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-15T09:11:03+10:00",
+    "TransactionDate":"2026-04-15T15:46:05+10:00",
     "Price":3.115,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -850,20 +830,10 @@
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61470573,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-04-15T09:45:30+10:00",
-    "Price":3.149,
-    "Name":"BP Earlville",
-    "Address":"395 Mulgrave Rd & Mccoombe Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
     "Site_ID":61470699,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-14T11:25:42+10:00",
-    "Price":3.159,
+    "TransactionDate":"2026-04-15T12:08:49+10:00",
+    "Price":3.134,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -882,21 +852,11 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-14T12:59:01+10:00",
-    "Price":3.125,
+    "TransactionDate":"2026-04-15T12:18:19+10:00",
+    "Price":3.109,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477062,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-04-15T09:45:30+10:00",
-    "Price":3.139,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4878",
     "Fuel_Name":"Diesel"
   },
   {
@@ -972,8 +932,8 @@
   {
     "Site_ID":61477804,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-14T07:53:47+10:00",
-    "Price":3.137,
+    "TransactionDate":"2026-04-15T11:02:37+10:00",
+    "Price":3.077,
     "Name":"Stratford Driveway Discount Fuels",
     "Address":"2-4 Rinks Close",
     "Postcode":"4870",
@@ -1032,8 +992,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-13T12:28:57+10:00",
-    "Price":3.219,
+    "TransactionDate":"2026-04-15T10:48:01+10:00",
+    "Price":3.169,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
@@ -1172,8 +1132,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-15T08:55:13+10:00",
-    "Price":2.269,
+    "TransactionDate":"2026-04-15T12:45:09+10:00",
+    "Price":2.255,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -1192,8 +1152,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-14T16:05:08+10:00",
-    "Price":2.269,
+    "TransactionDate":"2026-04-15T09:55:12+10:00",
+    "Price":2.255,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1310,33 +1270,13 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61470573,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-04-15T09:45:30+10:00",
-    "Price":2.349,
-    "Name":"BP Earlville",
-    "Address":"395 Mulgrave Rd & Mccoombe Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-14T12:59:01+10:00",
-    "Price":2.235,
+    "TransactionDate":"2026-04-15T12:18:19+10:00",
+    "Price":2.229,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477062,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-04-15T09:45:30+10:00",
-    "Price":2.349,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4878",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
@@ -1362,8 +1302,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-15T06:00:50+10:00",
-    "Price":9.999,
+    "TransactionDate":"2026-04-15T10:31:00+10:00",
+    "Price":2.344,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1562,8 +1502,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-14T16:05:08+10:00",
-    "Price":2.359,
+    "TransactionDate":"2026-04-15T09:55:12+10:00",
+    "Price":2.345,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1622,8 +1562,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-15T09:11:01+10:00",
-    "Price":2.345,
+    "TransactionDate":"2026-04-15T15:46:04+10:00",
+    "Price":2.339,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -1680,20 +1620,10 @@
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
-    "Site_ID":61470573,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-04-15T09:45:30+10:00",
-    "Price":2.439,
-    "Name":"BP Earlville",
-    "Address":"395 Mulgrave Rd & Mccoombe Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
     "Site_ID":61470699,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-14T11:25:42+10:00",
-    "Price":2.445,
+    "TransactionDate":"2026-04-15T12:08:49+10:00",
+    "Price":2.415,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -1717,16 +1647,6 @@
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61477062,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-04-15T09:45:30+10:00",
-    "Price":2.439,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4878",
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
@@ -1762,8 +1682,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-13T12:28:57+10:00",
-    "Price":2.489,
+    "TransactionDate":"2026-04-15T10:48:01+10:00",
+    "Price":2.449,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
@@ -1862,8 +1782,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-15T08:55:13+10:00",
-    "Price":2.109,
+    "TransactionDate":"2026-04-15T12:45:09+10:00",
+    "Price":2.095,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -1872,8 +1792,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-14T16:05:08+10:00",
-    "Price":2.109,
+    "TransactionDate":"2026-04-15T09:55:12+10:00",
+    "Price":2.095,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1932,8 +1852,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-15T09:11:02+10:00",
-    "Price":2.075,
+    "TransactionDate":"2026-04-15T15:46:04+10:00",
+    "Price":2.069,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -2032,8 +1952,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-10T06:00:14+10:00",
-    "Price":3.164,
+    "TransactionDate":"2026-04-15T11:07:10+10:00",
+    "Price":3.149,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -2082,7 +2002,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-15T09:11:04+10:00",
+    "TransactionDate":"2026-04-15T15:46:06+10:00",
     "Price":3.145,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -2102,8 +2022,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-10T06:05:12+10:00",
-    "Price":3.154,
+    "TransactionDate":"2026-04-15T11:07:10+10:00",
+    "Price":3.149,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -2112,8 +2032,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-13T12:28:57+10:00",
-    "Price":3.279,
+    "TransactionDate":"2026-04-15T10:48:01+10:00",
+    "Price":3.229,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
