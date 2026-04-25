@@ -182,7 +182,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-24T11:14:31+10:00",
+    "TransactionDate":"2026-04-26T07:59:23+10:00",
     "Price":1.845,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -232,7 +232,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-24T11:58:50+10:00",
+    "TransactionDate":"2026-04-26T08:50:02+10:00",
     "Price":1.845,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-25T19:45:31+10:00",
+    "TransactionDate":"2026-04-26T09:45:31+10:00",
     "Price":1.849,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-25T19:45:31+10:00",
+    "TransactionDate":"2026-04-26T09:45:31+10:00",
     "Price":1.839,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -562,8 +562,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T11:40:08+10:00",
-    "Price":2.545,
+    "TransactionDate":"2026-04-26T08:10:09+10:00",
+    "Price":2.475,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -612,8 +612,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T11:05:59+10:00",
-    "Price":2.545,
+    "TransactionDate":"2026-04-26T07:39:22+10:00",
+    "Price":2.475,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -692,8 +692,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T11:35:07+10:00",
-    "Price":2.545,
+    "TransactionDate":"2026-04-26T08:10:09+10:00",
+    "Price":2.475,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -712,8 +712,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T11:14:31+10:00",
-    "Price":2.545,
+    "TransactionDate":"2026-04-26T07:59:23+10:00",
+    "Price":2.475,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -762,8 +762,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T11:58:50+10:00",
-    "Price":2.545,
+    "TransactionDate":"2026-04-26T08:50:02+10:00",
+    "Price":2.475,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -792,8 +792,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T12:19:52+10:00",
-    "Price":2.565,
+    "TransactionDate":"2026-04-26T07:20:21+10:00",
+    "Price":2.545,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -802,8 +802,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T11:11:41+10:00",
-    "Price":2.545,
+    "TransactionDate":"2026-04-26T08:00:03+10:00",
+    "Price":2.475,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-25T19:45:31+10:00",
+    "TransactionDate":"2026-04-26T09:45:31+10:00",
     "Price":2.599,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-25T19:45:31+10:00",
+    "TransactionDate":"2026-04-26T09:45:31+10:00",
     "Price":2.559,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -982,8 +982,8 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T12:20:32+10:00",
-    "Price":2.545,
+    "TransactionDate":"2026-04-26T08:48:15+10:00",
+    "Price":2.475,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
     "Postcode":"4869",
@@ -1052,8 +1052,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T11:11:33+10:00",
-    "Price":2.545,
+    "TransactionDate":"2026-04-26T09:15:46+10:00",
+    "Price":2.475,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -1212,7 +1212,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-24T11:14:31+10:00",
+    "TransactionDate":"2026-04-26T07:59:23+10:00",
     "Price":1.945,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -1242,7 +1242,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-24T11:58:50+10:00",
+    "TransactionDate":"2026-04-26T08:50:02+10:00",
     "Price":1.945,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-25T19:45:31+10:00",
+    "TransactionDate":"2026-04-26T09:45:31+10:00",
     "Price":2.029,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-25T19:45:31+10:00",
+    "TransactionDate":"2026-04-26T09:45:31+10:00",
     "Price":2.009,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1682,7 +1682,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-25T19:45:31+10:00",
+    "TransactionDate":"2026-04-26T09:45:31+10:00",
     "Price":2.119,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1722,7 +1722,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-25T19:45:31+10:00",
+    "TransactionDate":"2026-04-26T09:45:31+10:00",
     "Price":2.099,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1942,7 +1942,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-04-24T11:58:50+10:00",
+    "TransactionDate":"2026-04-26T08:50:02+10:00",
     "Price":1.825,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
