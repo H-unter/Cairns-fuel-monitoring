@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-29T09:45:31+10:00",
+    "TransactionDate":"2026-04-29T16:15:31+10:00",
     "Price":1.829,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -352,8 +352,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-28T07:17:09+10:00",
-    "Price":1.819,
+    "TransactionDate":"2026-04-29T12:17:09+10:00",
+    "Price":1.849,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-29T09:45:31+10:00",
+    "TransactionDate":"2026-04-29T16:15:31+10:00",
     "Price":1.839,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -512,7 +512,7 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-24T10:29:29+10:00",
+    "TransactionDate":"2026-04-29T13:05:29+10:00",
     "Price":1.879,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
@@ -652,8 +652,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T11:50:10+10:00",
-    "Price":2.545,
+    "TransactionDate":"2026-04-29T11:15:08+10:00",
+    "Price":2.515,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-29T09:45:31+10:00",
+    "TransactionDate":"2026-04-29T16:15:31+10:00",
     "Price":2.499,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -882,8 +882,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-29T09:45:31+10:00",
-    "Price":2.519,
+    "TransactionDate":"2026-04-29T16:15:31+10:00",
+    "Price":2.499,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1022,8 +1022,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T10:29:29+10:00",
-    "Price":2.569,
+    "TransactionDate":"2026-04-29T13:05:29+10:00",
+    "Price":2.549,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-29T09:45:31+10:00",
+    "TransactionDate":"2026-04-29T16:15:31+10:00",
     "Price":2.009,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1312,8 +1312,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-25T05:40:08+10:00",
-    "Price":1.939,
+    "TransactionDate":"2026-04-29T11:11:38+10:00",
+    "Price":1.935,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-29T09:45:31+10:00",
+    "TransactionDate":"2026-04-29T16:15:31+10:00",
     "Price":2.009,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1672,7 +1672,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-29T09:45:31+10:00",
+    "TransactionDate":"2026-04-29T16:15:31+10:00",
     "Price":2.099,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1702,8 +1702,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-28T07:17:09+10:00",
-    "Price":2.069,
+    "TransactionDate":"2026-04-29T12:17:09+10:00",
+    "Price":2.099,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -1712,7 +1712,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-29T09:45:31+10:00",
+    "TransactionDate":"2026-04-29T16:15:31+10:00",
     "Price":2.099,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1752,7 +1752,7 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-24T10:29:29+10:00",
+    "TransactionDate":"2026-04-29T13:05:29+10:00",
     "Price":2.169,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
@@ -2042,8 +2042,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-27T11:01:20+10:00",
-    "Price":2.564,
+    "TransactionDate":"2026-04-29T11:58:25+10:00",
+    "Price":2.499,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -2102,8 +2102,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":14,
-    "TransactionDate":"2026-04-24T10:29:29+10:00",
-    "Price":2.629,
+    "TransactionDate":"2026-04-29T13:05:29+10:00",
+    "Price":2.609,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
