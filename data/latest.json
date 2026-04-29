@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-28T21:00:31+10:00",
+    "TransactionDate":"2026-04-29T09:45:31+10:00",
     "Price":1.829,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-28T21:00:31+10:00",
+    "TransactionDate":"2026-04-29T09:45:31+10:00",
     "Price":1.839,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -422,7 +422,7 @@
   {
     "Site_ID":61477726,
     "Fuel_ID":2,
-    "TransactionDate":"2026-04-28T08:53:39+10:00",
+    "TransactionDate":"2026-04-29T07:38:34+10:00",
     "Price":1.899,
     "Name":"White Rock General Store",
     "Address":"150 Progress Road",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-28T21:00:31+10:00",
+    "TransactionDate":"2026-04-29T09:45:31+10:00",
     "Price":2.499,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,8 +862,8 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-24T16:06:56+10:00",
-    "Price":2.545,
+    "TransactionDate":"2026-04-29T09:51:33+10:00",
+    "Price":2.515,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-28T21:00:31+10:00",
+    "TransactionDate":"2026-04-29T09:45:31+10:00",
     "Price":2.519,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -932,7 +932,7 @@
   {
     "Site_ID":61477726,
     "Fuel_ID":3,
-    "TransactionDate":"2026-04-28T08:53:39+10:00",
+    "TransactionDate":"2026-04-29T07:38:34+10:00",
     "Price":2.479,
     "Name":"White Rock General Store",
     "Address":"150 Progress Road",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-28T21:00:31+10:00",
+    "TransactionDate":"2026-04-29T09:45:31+10:00",
     "Price":2.009,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-28T21:00:31+10:00",
+    "TransactionDate":"2026-04-29T09:45:31+10:00",
     "Price":2.009,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1362,8 +1362,8 @@
   {
     "Site_ID":61477726,
     "Fuel_ID":5,
-    "TransactionDate":"2026-04-28T08:53:39+10:00",
-    "Price":1.999,
+    "TransactionDate":"2026-04-29T07:38:34+10:00",
+    "Price":9.999,
     "Name":"White Rock General Store",
     "Address":"150 Progress Road",
     "Postcode":"4868",
@@ -1672,7 +1672,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-28T21:00:31+10:00",
+    "TransactionDate":"2026-04-29T09:45:31+10:00",
     "Price":2.099,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1682,8 +1682,8 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-24T16:06:56+10:00",
-    "Price":2.155,
+    "TransactionDate":"2026-04-29T09:51:33+10:00",
+    "Price":2.119,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -1712,7 +1712,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-04-28T21:00:31+10:00",
+    "TransactionDate":"2026-04-29T09:45:31+10:00",
     "Price":2.099,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
