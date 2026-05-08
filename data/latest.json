@@ -232,7 +232,7 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-06T09:52:18+10:00",
+    "TransactionDate":"2026-05-08T10:17:10+10:00",
     "Price":1.849,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-08T09:45:32+10:00",
+    "TransactionDate":"2026-05-08T16:00:32+10:00",
     "Price":1.819,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-08T09:45:32+10:00",
+    "TransactionDate":"2026-05-08T16:00:32+10:00",
     "Price":1.799,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -532,7 +532,7 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-06T07:36:49+10:00",
+    "TransactionDate":"2026-05-08T10:37:25+10:00",
     "Price":1.849,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
@@ -692,8 +692,8 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-07T17:05:42+10:00",
-    "Price":2.464,
+    "TransactionDate":"2026-05-08T11:00:50+10:00",
+    "Price":2.424,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
     "Postcode":"4869",
@@ -712,8 +712,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-07T17:05:42+10:00",
-    "Price":2.464,
+    "TransactionDate":"2026-05-08T11:00:50+10:00",
+    "Price":2.394,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -722,8 +722,8 @@
   {
     "Site_ID":61451567,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-07T17:05:42+10:00",
-    "Price":2.464,
+    "TransactionDate":"2026-05-08T11:00:50+10:00",
+    "Price":2.424,
     "Name":"Shell Reddy Express Cairns Sheridan St",
     "Address":"291-293 Sheridan St",
     "Postcode":"4870",
@@ -732,8 +732,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-07T17:05:42+10:00",
-    "Price":2.464,
+    "TransactionDate":"2026-05-08T11:00:50+10:00",
+    "Price":2.424,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -752,8 +752,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-07T20:08:40+10:00",
-    "Price":9.999,
+    "TransactionDate":"2026-05-08T11:38:25+10:00",
+    "Price":2.395,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -762,8 +762,8 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-06T09:52:20+10:00",
-    "Price":2.469,
+    "TransactionDate":"2026-05-08T10:17:13+10:00",
+    "Price":2.429,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -772,8 +772,8 @@
   {
     "Site_ID":61451734,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-07T17:05:42+10:00",
-    "Price":2.464,
+    "TransactionDate":"2026-05-08T10:30:49+10:00",
+    "Price":2.444,
     "Name":"Shell Reddy Express Port Douglas",
     "Address":"10 Captain Cook Hwy",
     "Postcode":"4877",
@@ -842,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-08T09:45:32+10:00",
+    "TransactionDate":"2026-05-08T16:00:32+10:00",
     "Price":2.369,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-08T09:45:32+10:00",
+    "TransactionDate":"2026-05-08T16:00:32+10:00",
     "Price":2.429,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -892,8 +892,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-07T17:05:42+10:00",
-    "Price":2.464,
+    "TransactionDate":"2026-05-08T11:15:44+10:00",
+    "Price":2.394,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -922,8 +922,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-07T17:05:42+10:00",
-    "Price":2.464,
+    "TransactionDate":"2026-05-08T11:45:44+10:00",
+    "Price":2.394,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1052,8 +1052,8 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-06T07:36:51+10:00",
-    "Price":2.469,
+    "TransactionDate":"2026-05-08T10:37:27+10:00",
+    "Price":2.429,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
     "Postcode":"4869",
@@ -1242,7 +1242,7 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-06T09:52:19+10:00",
+    "TransactionDate":"2026-05-08T10:17:11+10:00",
     "Price":1.979,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-08T09:45:32+10:00",
+    "TransactionDate":"2026-05-08T16:00:32+10:00",
     "Price":1.999,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-08T09:45:32+10:00",
+    "TransactionDate":"2026-05-08T16:00:32+10:00",
     "Price":1.969,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1472,7 +1472,7 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-06T07:36:50+10:00",
+    "TransactionDate":"2026-05-08T10:37:25+10:00",
     "Price":1.979,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
@@ -1612,7 +1612,7 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-06T09:52:20+10:00",
+    "TransactionDate":"2026-05-08T10:17:12+10:00",
     "Price":2.139,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
@@ -1662,7 +1662,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-08T09:45:32+10:00",
+    "TransactionDate":"2026-05-08T16:00:32+10:00",
     "Price":2.089,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-08T09:45:32+10:00",
+    "TransactionDate":"2026-05-08T16:00:32+10:00",
     "Price":2.059,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1762,7 +1762,7 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-06T07:36:51+10:00",
+    "TransactionDate":"2026-05-08T10:37:26+10:00",
     "Price":2.139,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
@@ -2002,8 +2002,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-08T07:52:10+10:00",
-    "Price":2.479,
+    "TransactionDate":"2026-05-08T15:22:09+10:00",
+    "Price":2.439,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
