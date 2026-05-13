@@ -102,7 +102,7 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-05T21:07:50+10:00",
+    "TransactionDate":"2026-05-13T20:31:06+10:00",
     "Price":1.829,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
@@ -312,8 +312,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-13T16:45:31+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-05-13T21:30:32+10:00",
+    "Price":1.789,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-13T16:45:31+10:00",
+    "TransactionDate":"2026-05-13T21:30:32+10:00",
     "Price":1.759,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -632,8 +632,8 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-05T21:07:50+10:00",
-    "Price":2.479,
+    "TransactionDate":"2026-05-13T20:31:06+10:00",
+    "Price":2.299,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
     "Postcode":"4871",
@@ -842,8 +842,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-13T16:45:31+10:00",
-    "Price":2.299,
+    "TransactionDate":"2026-05-13T21:30:32+10:00",
+    "Price":2.269,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -882,8 +882,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-13T16:45:31+10:00",
-    "Price":2.369,
+    "TransactionDate":"2026-05-13T21:30:32+10:00",
+    "Price":2.349,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -962,8 +962,8 @@
   {
     "Site_ID":61477804,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T17:48:44+10:00",
-    "Price":2.327,
+    "TransactionDate":"2026-05-13T17:37:41+10:00",
+    "Price":2.287,
     "Name":"Stratford Driveway Discount Fuels",
     "Address":"2-4 Rinks Close",
     "Postcode":"4870",
@@ -1152,7 +1152,7 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-05T21:07:50+10:00",
+    "TransactionDate":"2026-05-13T20:31:06+10:00",
     "Price":1.999,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
@@ -1302,8 +1302,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-13T16:45:31+10:00",
-    "Price":1.979,
+    "TransactionDate":"2026-05-13T21:30:32+10:00",
+    "Price":1.969,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-13T16:45:31+10:00",
+    "TransactionDate":"2026-05-13T21:30:32+10:00",
     "Price":1.929,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1662,8 +1662,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-13T16:45:31+10:00",
-    "Price":2.069,
+    "TransactionDate":"2026-05-13T21:30:32+10:00",
+    "Price":2.059,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-13T16:45:31+10:00",
+    "TransactionDate":"2026-05-13T21:30:32+10:00",
     "Price":2.019,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1822,7 +1822,7 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":12,
-    "TransactionDate":"2026-05-05T21:07:50+10:00",
+    "TransactionDate":"2026-05-13T20:31:06+10:00",
     "Price":1.929,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
