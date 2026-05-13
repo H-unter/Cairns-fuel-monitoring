@@ -32,7 +32,7 @@
   {
     "Site_ID":61402015,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-12T14:12:39+10:00",
+    "TransactionDate":"2026-05-13T12:32:39+10:00",
     "Price":1.809,
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
@@ -92,8 +92,8 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-12T10:20:31+10:00",
-    "Price":1.82,
+    "TransactionDate":"2026-05-13T10:44:22+10:00",
+    "Price":1.8,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
     "Postcode":"4861",
@@ -232,7 +232,7 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-12T14:12:48+10:00",
+    "TransactionDate":"2026-05-13T12:07:25+10:00",
     "Price":1.809,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
@@ -282,7 +282,7 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-11T17:50:55+10:00",
+    "TransactionDate":"2026-05-13T13:43:26+10:00",
     "Price":1.827,
     "Name":"Ampol Port Douglas",
     "Address":"13 Warner St",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-13T10:00:32+10:00",
+    "TransactionDate":"2026-05-13T16:45:31+10:00",
     "Price":1.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-13T09:39:42+10:00",
+    "TransactionDate":"2026-05-13T16:11:03+10:00",
     "Price":1.755,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-13T10:00:32+10:00",
+    "TransactionDate":"2026-05-13T16:45:31+10:00",
     "Price":1.759,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -502,7 +502,7 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-12T09:35:12+10:00",
+    "TransactionDate":"2026-05-13T10:32:43+10:00",
     "Price":1.829,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
@@ -532,7 +532,7 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-12T13:22:10+10:00",
+    "TransactionDate":"2026-05-13T13:22:12+10:00",
     "Price":1.809,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
@@ -542,8 +542,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-09T20:45:05+10:00",
-    "Price":1.821,
+    "TransactionDate":"2026-05-13T10:10:03+10:00",
+    "Price":1.789,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -562,8 +562,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T15:55:02+10:00",
-    "Price":2.329,
+    "TransactionDate":"2026-05-13T14:08:03+10:00",
+    "Price":2.289,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -582,8 +582,8 @@
   {
     "Site_ID":61402015,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T14:12:41+10:00",
-    "Price":2.329,
+    "TransactionDate":"2026-05-13T12:32:40+10:00",
+    "Price":2.289,
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
     "Postcode":"4879",
@@ -612,8 +612,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T10:05:58+10:00",
-    "Price":2.199,
+    "TransactionDate":"2026-05-13T11:02:15+10:00",
+    "Price":2.179,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -642,8 +642,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T14:25:18+10:00",
-    "Price":2.245,
+    "TransactionDate":"2026-05-13T11:40:09+10:00",
+    "Price":2.225,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -762,8 +762,8 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T14:12:50+10:00",
-    "Price":2.329,
+    "TransactionDate":"2026-05-13T12:07:27+10:00",
+    "Price":2.289,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -812,8 +812,8 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-11T17:50:55+10:00",
-    "Price":2.387,
+    "TransactionDate":"2026-05-13T13:43:26+10:00",
+    "Price":2.367,
     "Name":"Ampol Port Douglas",
     "Address":"13 Warner St",
     "Postcode":"4871",
@@ -842,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-13T10:00:32+10:00",
+    "TransactionDate":"2026-05-13T16:45:31+10:00",
     "Price":2.299,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -852,8 +852,8 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-13T09:39:42+10:00",
-    "Price":2.245,
+    "TransactionDate":"2026-05-13T16:11:03+10:00",
+    "Price":2.225,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-13T10:00:32+10:00",
+    "TransactionDate":"2026-05-13T16:45:31+10:00",
     "Price":2.369,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1022,8 +1022,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T09:35:12+10:00",
-    "Price":2.399,
+    "TransactionDate":"2026-05-13T10:32:43+10:00",
+    "Price":2.369,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
@@ -1052,8 +1052,8 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T13:22:12+10:00",
-    "Price":2.329,
+    "TransactionDate":"2026-05-13T13:22:14+10:00",
+    "Price":2.289,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
     "Postcode":"4869",
@@ -1112,7 +1112,7 @@
   {
     "Site_ID":61402015,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-12T14:12:40+10:00",
+    "TransactionDate":"2026-05-13T12:32:39+10:00",
     "Price":1.939,
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
@@ -1242,7 +1242,7 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-12T14:12:49+10:00",
+    "TransactionDate":"2026-05-13T12:07:26+10:00",
     "Price":1.939,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-11T17:50:55+10:00",
+    "TransactionDate":"2026-05-13T13:43:26+10:00",
     "Price":1.997,
     "Name":"Ampol Port Douglas",
     "Address":"13 Warner St",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-13T10:00:32+10:00",
+    "TransactionDate":"2026-05-13T16:45:31+10:00",
     "Price":1.979,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-13T10:00:32+10:00",
+    "TransactionDate":"2026-05-13T16:45:31+10:00",
     "Price":1.929,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1472,7 +1472,7 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-12T13:22:11+10:00",
+    "TransactionDate":"2026-05-13T13:22:13+10:00",
     "Price":1.939,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
@@ -1482,8 +1482,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-09T20:45:05+10:00",
-    "Price":2.069,
+    "TransactionDate":"2026-05-13T10:10:03+10:00",
+    "Price":1.975,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1502,7 +1502,7 @@
   {
     "Site_ID":61402015,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-12T14:12:40+10:00",
+    "TransactionDate":"2026-05-13T12:32:40+10:00",
     "Price":2.099,
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
@@ -1612,7 +1612,7 @@
   {
     "Site_ID":61451728,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-12T14:12:50+10:00",
+    "TransactionDate":"2026-05-13T12:07:26+10:00",
     "Price":2.099,
     "Name":"Shell Cairns",
     "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
@@ -1662,7 +1662,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-13T10:00:32+10:00",
+    "TransactionDate":"2026-05-13T16:45:31+10:00",
     "Price":2.069,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1672,7 +1672,7 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-13T09:39:42+10:00",
+    "TransactionDate":"2026-05-13T16:11:03+10:00",
     "Price":2.099,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-13T10:00:32+10:00",
+    "TransactionDate":"2026-05-13T16:45:31+10:00",
     "Price":2.019,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1742,7 +1742,7 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-12T09:35:12+10:00",
+    "TransactionDate":"2026-05-13T10:32:43+10:00",
     "Price":2.119,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
@@ -1762,7 +1762,7 @@
   {
     "Site_ID":61478023,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-12T13:22:11+10:00",
+    "TransactionDate":"2026-05-13T13:22:13+10:00",
     "Price":2.099,
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
@@ -1772,8 +1772,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-09T20:45:05+10:00",
-    "Price":2.099,
+    "TransactionDate":"2026-05-13T10:10:03+10:00",
+    "Price":2.039,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1982,8 +1982,8 @@
   {
     "Site_ID":61402015,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-12T14:12:42+10:00",
-    "Price":2.439,
+    "TransactionDate":"2026-05-13T12:32:38+10:00",
+    "Price":2.399,
     "Name":"Billabong Service Centre",
     "Address":"Captain Cook Hwy",
     "Postcode":"4879",
@@ -2012,8 +2012,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-12T10:05:58+10:00",
-    "Price":2.229,
+    "TransactionDate":"2026-05-13T11:02:15+10:00",
+    "Price":2.209,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2072,8 +2072,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-12T09:35:12+10:00",
-    "Price":2.459,
+    "TransactionDate":"2026-05-13T10:32:43+10:00",
+    "Price":2.429,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
