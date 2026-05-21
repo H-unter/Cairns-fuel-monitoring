@@ -212,8 +212,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-12T12:00:38+10:00",
-    "Price":1.755,
+    "TransactionDate":"2026-05-21T09:54:36+10:00",
+    "Price":1.775,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-20T21:40:18+10:00",
+    "TransactionDate":"2026-05-21T10:10:18+10:00",
     "Price":1.849,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -332,8 +332,8 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-12T11:45:33+10:00",
-    "Price":1.755,
+    "TransactionDate":"2026-05-21T09:54:23+10:00",
+    "Price":1.775,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
     "Postcode":"4870",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-20T21:40:18+10:00",
+    "TransactionDate":"2026-05-21T10:10:18+10:00",
     "Price":1.799,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -612,8 +612,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-19T10:27:31+10:00",
-    "Price":2.159,
+    "TransactionDate":"2026-05-21T06:52:38+10:00",
+    "Price":2.179,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -742,7 +742,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T12:00:44+10:00",
+    "TransactionDate":"2026-05-21T09:54:36+10:00",
     "Price":2.225,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -842,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-20T21:40:18+10:00",
+    "TransactionDate":"2026-05-21T10:10:18+10:00",
     "Price":2.289,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T11:45:35+10:00",
+    "TransactionDate":"2026-05-21T09:54:23+10:00",
     "Price":2.225,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-20T21:40:18+10:00",
+    "TransactionDate":"2026-05-21T10:10:18+10:00",
     "Price":2.329,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-20T21:40:18+10:00",
+    "TransactionDate":"2026-05-21T10:10:18+10:00",
     "Price":2.029,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-20T21:40:18+10:00",
+    "TransactionDate":"2026-05-21T10:10:18+10:00",
     "Price":1.969,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1602,8 +1602,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-12T12:00:40+10:00",
-    "Price":1.985,
+    "TransactionDate":"2026-05-21T09:54:36+10:00",
+    "Price":2.005,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -1662,7 +1662,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-20T21:40:18+10:00",
+    "TransactionDate":"2026-05-21T10:10:18+10:00",
     "Price":2.119,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1682,8 +1682,8 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-12T11:45:34+10:00",
-    "Price":1.985,
+    "TransactionDate":"2026-05-21T09:54:23+10:00",
+    "Price":2.005,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
     "Postcode":"4870",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-20T21:40:18+10:00",
+    "TransactionDate":"2026-05-21T10:10:18+10:00",
     "Price":2.059,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1902,8 +1902,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":12,
-    "TransactionDate":"2026-05-12T12:00:42+10:00",
-    "Price":1.715,
+    "TransactionDate":"2026-05-21T09:54:36+10:00",
+    "Price":1.735,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -1932,8 +1932,8 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":12,
-    "TransactionDate":"2026-05-12T11:45:35+10:00",
-    "Price":1.715,
+    "TransactionDate":"2026-05-21T09:54:23+10:00",
+    "Price":1.735,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
     "Postcode":"4870",
@@ -2012,8 +2012,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-19T10:27:31+10:00",
-    "Price":2.189,
+    "TransactionDate":"2026-05-21T06:52:38+10:00",
+    "Price":2.209,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2042,7 +2042,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-12T12:00:46+10:00",
+    "TransactionDate":"2026-05-21T09:54:36+10:00",
     "Price":2.255,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -2052,7 +2052,7 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-12T11:45:36+10:00",
+    "TransactionDate":"2026-05-21T09:54:23+10:00",
     "Price":2.255,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
