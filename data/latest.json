@@ -172,7 +172,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-09T08:01:06+10:00",
+    "TransactionDate":"2026-05-22T06:53:27+10:00",
     "Price":1.795,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -202,8 +202,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-12T06:00:53+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-05-22T09:30:53+10:00",
+    "Price":1.829,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -222,7 +222,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-12T11:35:42+10:00",
+    "TransactionDate":"2026-05-22T06:10:47+10:00",
     "Price":1.795,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-21T22:10:18+10:00",
+    "TransactionDate":"2026-05-22T09:55:18+10:00",
     "Price":1.859,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-21T22:10:18+10:00",
+    "TransactionDate":"2026-05-22T09:55:18+10:00",
     "Price":1.829,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -552,8 +552,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-18T07:25:06+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-05-22T07:10:10+10:00",
+    "Price":2.219,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -602,8 +602,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-18T08:01:43+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-05-22T06:23:03+10:00",
+    "Price":2.245,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -682,8 +682,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-18T07:10:09+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-05-22T07:40:09+10:00",
+    "Price":2.219,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -702,8 +702,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-18T06:51:14+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-05-22T06:53:27+10:00",
+    "Price":2.245,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -752,8 +752,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-13T06:15:34+10:00",
-    "Price":2.295,
+    "TransactionDate":"2026-05-22T06:10:47+10:00",
+    "Price":2.305,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -782,8 +782,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-19T05:41:27+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-05-22T06:56:51+10:00",
+    "Price":2.245,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -792,8 +792,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-18T06:52:29+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-05-22T07:15:24+10:00",
+    "Price":2.245,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -842,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-21T22:10:18+10:00",
+    "TransactionDate":"2026-05-22T09:55:18+10:00",
     "Price":2.289,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-21T22:10:18+10:00",
+    "TransactionDate":"2026-05-22T09:55:18+10:00",
     "Price":2.329,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -972,8 +972,8 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-18T07:15:38+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-05-22T08:06:38+10:00",
+    "Price":2.245,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
     "Postcode":"4869",
@@ -1042,8 +1042,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-18T06:24:58+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-05-22T06:17:57+10:00",
+    "Price":2.245,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -1072,8 +1072,8 @@
   {
     "Site_ID":61478266,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-14T08:40:36+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-05-22T08:35:52+10:00",
+    "Price":2.259,
     "Name":"Woodham Petroleum Cairns",
     "Address":"104 Aumuller St",
     "Postcode":"4870",
@@ -1202,7 +1202,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-09T08:01:06+10:00",
+    "TransactionDate":"2026-05-22T06:53:27+10:00",
     "Price":1.895,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -1222,8 +1222,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-12T06:00:53+10:00",
-    "Price":1.954,
+    "TransactionDate":"2026-05-22T09:30:53+10:00",
+    "Price":1.984,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -1232,7 +1232,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-12T11:35:42+10:00",
+    "TransactionDate":"2026-05-22T06:10:47+10:00",
     "Price":1.895,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-21T22:10:18+10:00",
+    "TransactionDate":"2026-05-22T09:55:18+10:00",
     "Price":2.039,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-21T22:10:18+10:00",
+    "TransactionDate":"2026-05-22T09:55:18+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1592,8 +1592,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-12T06:00:53+10:00",
-    "Price":2.049,
+    "TransactionDate":"2026-05-22T09:30:53+10:00",
+    "Price":2.079,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -1662,7 +1662,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-21T22:10:18+10:00",
+    "TransactionDate":"2026-05-22T09:55:18+10:00",
     "Price":2.129,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-21T22:10:18+10:00",
+    "TransactionDate":"2026-05-22T09:55:18+10:00",
     "Price":2.089,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1892,8 +1892,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":12,
-    "TransactionDate":"2026-05-12T06:00:53+10:00",
-    "Price":1.779,
+    "TransactionDate":"2026-05-22T09:30:53+10:00",
+    "Price":1.809,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -1912,7 +1912,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-05-12T11:35:42+10:00",
+    "TransactionDate":"2026-05-22T06:10:47+10:00",
     "Price":1.775,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
