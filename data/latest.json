@@ -42,8 +42,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-19T21:02:02+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-05-23T06:13:34+10:00",
+    "Price":1.819,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -172,7 +172,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-22T06:53:27+10:00",
+    "TransactionDate":"2026-05-23T08:56:14+10:00",
     "Price":1.795,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-22T21:40:20+10:00",
+    "TransactionDate":"2026-05-23T10:10:18+10:00",
     "Price":1.859,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-22T21:40:20+10:00",
+    "TransactionDate":"2026-05-23T10:10:18+10:00",
     "Price":1.829,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -412,8 +412,8 @@
   {
     "Site_ID":61477726,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-15T11:06:03+10:00",
-    "Price":1.789,
+    "TransactionDate":"2026-05-23T08:29:04+10:00",
+    "Price":1.819,
     "Name":"White Rock General Store",
     "Address":"150 Progress Road",
     "Postcode":"4868",
@@ -452,7 +452,7 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-18T07:15:38+10:00",
+    "TransactionDate":"2026-05-23T09:03:26+10:00",
     "Price":1.795,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
@@ -592,8 +592,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-12T15:50:47+10:00",
-    "Price":2.249,
+    "TransactionDate":"2026-05-23T06:13:34+10:00",
+    "Price":2.229,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -602,8 +602,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-22T06:23:03+10:00",
-    "Price":2.245,
+    "TransactionDate":"2026-05-23T08:29:41+10:00",
+    "Price":2.265,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -702,8 +702,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-22T06:53:27+10:00",
-    "Price":2.245,
+    "TransactionDate":"2026-05-23T08:56:14+10:00",
+    "Price":2.265,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -792,8 +792,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-22T07:15:24+10:00",
-    "Price":2.245,
+    "TransactionDate":"2026-05-23T08:45:49+10:00",
+    "Price":2.265,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -842,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-22T21:40:20+10:00",
+    "TransactionDate":"2026-05-23T10:10:18+10:00",
     "Price":2.279,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-22T21:40:20+10:00",
+    "TransactionDate":"2026-05-23T10:10:18+10:00",
     "Price":2.299,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -932,8 +932,8 @@
   {
     "Site_ID":61477726,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-15T11:06:03+10:00",
-    "Price":2.259,
+    "TransactionDate":"2026-05-23T08:29:04+10:00",
+    "Price":2.269,
     "Name":"White Rock General Store",
     "Address":"150 Progress Road",
     "Postcode":"4868",
@@ -972,8 +972,8 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-22T08:06:38+10:00",
-    "Price":2.245,
+    "TransactionDate":"2026-05-23T09:03:26+10:00",
+    "Price":2.265,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
     "Postcode":"4869",
@@ -1042,8 +1042,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-22T06:17:57+10:00",
-    "Price":2.245,
+    "TransactionDate":"2026-05-23T08:24:23+10:00",
+    "Price":2.265,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -1072,8 +1072,8 @@
   {
     "Site_ID":61478266,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-22T08:35:52+10:00",
-    "Price":2.259,
+    "TransactionDate":"2026-05-23T07:13:34+10:00",
+    "Price":2.225,
     "Name":"Woodham Petroleum Cairns",
     "Address":"104 Aumuller St",
     "Postcode":"4870",
@@ -1122,8 +1122,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-19T21:02:02+10:00",
-    "Price":1.999,
+    "TransactionDate":"2026-05-23T06:13:34+10:00",
+    "Price":2.019,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -1202,7 +1202,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-22T06:53:27+10:00",
+    "TransactionDate":"2026-05-23T08:56:14+10:00",
     "Price":1.895,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-22T21:40:20+10:00",
+    "TransactionDate":"2026-05-23T10:10:18+10:00",
     "Price":2.039,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-22T21:40:20+10:00",
+    "TransactionDate":"2026-05-23T10:10:18+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1402,7 +1402,7 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-18T07:15:38+10:00",
+    "TransactionDate":"2026-05-23T09:03:26+10:00",
     "Price":1.895,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
@@ -1512,8 +1512,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-19T21:02:02+10:00",
-    "Price":2.099,
+    "TransactionDate":"2026-05-23T06:13:34+10:00",
+    "Price":2.119,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -1662,7 +1662,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-22T21:40:20+10:00",
+    "TransactionDate":"2026-05-23T10:10:18+10:00",
     "Price":2.129,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-22T21:40:20+10:00",
+    "TransactionDate":"2026-05-23T10:10:18+10:00",
     "Price":2.089,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1732,7 +1732,7 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-18T07:15:38+10:00",
+    "TransactionDate":"2026-05-23T09:03:26+10:00",
     "Price":1.995,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
@@ -1962,7 +1962,7 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":12,
-    "TransactionDate":"2026-05-18T07:15:38+10:00",
+    "TransactionDate":"2026-05-23T09:03:26+10:00",
     "Price":1.775,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
@@ -1992,8 +1992,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-12T15:50:53+10:00",
-    "Price":2.269,
+    "TransactionDate":"2026-05-23T06:13:34+10:00",
+    "Price":2.249,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
