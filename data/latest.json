@@ -42,8 +42,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-28T06:19:39+10:00",
-    "Price":1.735,
+    "TransactionDate":"2026-05-29T08:12:50+10:00",
+    "Price":1.715,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -142,8 +142,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-28T06:45:20+10:00",
-    "Price":1.735,
+    "TransactionDate":"2026-05-29T08:45:11+10:00",
+    "Price":1.715,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -172,7 +172,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-27T07:42:51+10:00",
+    "TransactionDate":"2026-05-29T06:02:21+10:00",
     "Price":1.795,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -212,8 +212,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-28T09:20:58+10:00",
-    "Price":1.735,
+    "TransactionDate":"2026-05-29T07:45:51+10:00",
+    "Price":1.715,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -262,7 +262,7 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-28T07:08:13+10:00",
+    "TransactionDate":"2026-05-29T06:56:36+10:00",
     "Price":1.795,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
@@ -302,7 +302,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-26T05:40:08+10:00",
+    "TransactionDate":"2026-05-29T06:05:07+10:00",
     "Price":1.859,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-28T22:25:19+10:00",
+    "TransactionDate":"2026-05-29T10:10:18+10:00",
     "Price":1.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -357,16 +357,6 @@
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477062,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-05-28T22:25:19+10:00",
-    "Price":1.799,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4878",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -442,8 +432,8 @@
   {
     "Site_ID":61477804,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-08T06:14:31+10:00",
-    "Price":1.847,
+    "TransactionDate":"2026-05-29T07:43:03+10:00",
+    "Price":1.827,
     "Name":"Stratford Driveway Discount Fuels",
     "Address":"2-4 Rinks Close",
     "Postcode":"4870",
@@ -590,6 +580,16 @@
     "Fuel_Name":"Diesel"
   },
   {
+    "Site_ID":61402067,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-05-29T08:12:50+10:00",
+    "Price":2.115,
+    "Name":"Caltex Woree",
+    "Address":"590 Mulgrave Rd",
+    "Postcode":"4868",
+    "Fuel_Name":"Diesel"
+  },
+  {
     "Site_ID":61402272,
     "Fuel_ID":3,
     "TransactionDate":"2026-05-28T20:18:52+10:00",
@@ -602,8 +602,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-27T09:55:36+10:00",
-    "Price":2.139,
+    "TransactionDate":"2026-05-29T09:42:24+10:00",
+    "Price":2.099,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -662,8 +662,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-28T09:45:11+10:00",
-    "Price":2.135,
+    "TransactionDate":"2026-05-29T08:45:11+10:00",
+    "Price":2.115,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -682,7 +682,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-28T15:15:45+10:00",
+    "TransactionDate":"2026-05-29T07:20:38+10:00",
     "Price":2.164,
     "Name":"Shell Reddy Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -692,8 +692,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-28T16:09:37+10:00",
-    "Price":2.205,
+    "TransactionDate":"2026-05-29T06:02:21+10:00",
+    "Price":2.195,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -732,8 +732,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-28T09:21:00+10:00",
-    "Price":2.135,
+    "TransactionDate":"2026-05-29T07:45:53+10:00",
+    "Price":2.115,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -772,8 +772,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-27T13:33:10+10:00",
-    "Price":2.215,
+    "TransactionDate":"2026-05-29T07:14:17+10:00",
+    "Price":2.195,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -782,8 +782,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-28T15:26:52+10:00",
-    "Price":2.205,
+    "TransactionDate":"2026-05-29T06:56:36+10:00",
+    "Price":2.195,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -822,8 +822,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-26T05:40:08+10:00",
-    "Price":2.289,
+    "TransactionDate":"2026-05-29T06:05:07+10:00",
+    "Price":2.259,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-28T22:25:19+10:00",
+    "TransactionDate":"2026-05-29T10:10:18+10:00",
     "Price":2.219,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -867,16 +867,6 @@
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477062,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-05-28T22:25:19+10:00",
-    "Price":2.279,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4878",
     "Fuel_Name":"Diesel"
   },
   {
@@ -932,8 +922,8 @@
   {
     "Site_ID":61477727,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-18T18:29:49+10:00",
-    "Price":2.225,
+    "TransactionDate":"2026-05-29T10:11:30+10:00",
+    "Price":2.195,
     "Name":"Machans Beach Store and Post Office",
     "Address":"27 Machans Street",
     "Postcode":"4878",
@@ -952,8 +942,8 @@
   {
     "Site_ID":61477804,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-19T18:01:09+10:00",
-    "Price":2.257,
+    "TransactionDate":"2026-05-29T07:43:03+10:00",
+    "Price":2.197,
     "Name":"Stratford Driveway Discount Fuels",
     "Address":"2-4 Rinks Close",
     "Postcode":"4870",
@@ -962,8 +952,8 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-28T15:01:21+10:00",
-    "Price":2.205,
+    "TransactionDate":"2026-05-29T07:23:50+10:00",
+    "Price":2.195,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
     "Postcode":"4869",
@@ -1032,8 +1022,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-28T15:05:49+10:00",
-    "Price":2.205,
+    "TransactionDate":"2026-05-29T06:06:48+10:00",
+    "Price":2.195,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -1072,7 +1062,7 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":4,
-    "TransactionDate":"2026-05-28T07:08:13+10:00",
+    "TransactionDate":"2026-05-29T06:56:36+10:00",
     "Price":9.999,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
@@ -1112,8 +1102,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-28T06:19:39+10:00",
-    "Price":1.935,
+    "TransactionDate":"2026-05-29T08:12:50+10:00",
+    "Price":1.915,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -1182,8 +1172,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-28T06:45:20+10:00",
-    "Price":1.875,
+    "TransactionDate":"2026-05-29T08:45:11+10:00",
+    "Price":1.855,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -1192,7 +1182,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-27T07:42:51+10:00",
+    "TransactionDate":"2026-05-29T06:02:21+10:00",
     "Price":1.895,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -1292,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-28T22:25:19+10:00",
+    "TransactionDate":"2026-05-29T10:10:18+10:00",
     "Price":1.979,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1307,16 +1297,6 @@
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477062,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-05-28T22:25:19+10:00",
-    "Price":1.969,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4878",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
@@ -1502,8 +1482,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-28T06:19:39+10:00",
-    "Price":2.035,
+    "TransactionDate":"2026-05-29T08:12:50+10:00",
+    "Price":2.015,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -1542,8 +1522,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-28T06:45:20+10:00",
-    "Price":1.965,
+    "TransactionDate":"2026-05-29T08:45:11+10:00",
+    "Price":1.945,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -1592,8 +1572,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-28T09:20:58+10:00",
-    "Price":1.965,
+    "TransactionDate":"2026-05-29T07:45:52+10:00",
+    "Price":1.945,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -1622,7 +1602,7 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-28T07:08:13+10:00",
+    "TransactionDate":"2026-05-29T06:56:36+10:00",
     "Price":1.995,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
@@ -1642,7 +1622,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-26T05:40:08+10:00",
+    "TransactionDate":"2026-05-29T06:05:07+10:00",
     "Price":2.119,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -1652,7 +1632,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-28T22:25:19+10:00",
+    "TransactionDate":"2026-05-29T10:10:18+10:00",
     "Price":2.069,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1687,16 +1667,6 @@
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61477062,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-05-28T22:25:19+10:00",
-    "Price":2.059,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4878",
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
@@ -1842,8 +1812,8 @@
   {
     "Site_ID":61402828,
     "Fuel_ID":12,
-    "TransactionDate":"2026-05-28T06:45:20+10:00",
-    "Price":1.715,
+    "TransactionDate":"2026-05-29T08:45:11+10:00",
+    "Price":1.695,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
@@ -1892,8 +1862,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":12,
-    "TransactionDate":"2026-05-28T09:20:59+10:00",
-    "Price":1.695,
+    "TransactionDate":"2026-05-29T07:45:52+10:00",
+    "Price":1.675,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -1912,7 +1882,7 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":12,
-    "TransactionDate":"2026-05-28T07:08:13+10:00",
+    "TransactionDate":"2026-05-29T06:56:36+10:00",
     "Price":1.775,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
@@ -1980,6 +1950,16 @@
     "Fuel_Name":"Premium Diesel"
   },
   {
+    "Site_ID":61402067,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-05-29T08:12:50+10:00",
+    "Price":2.145,
+    "Name":"Caltex Woree",
+    "Address":"590 Mulgrave Rd",
+    "Postcode":"4868",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
     "Site_ID":61402073,
     "Fuel_ID":14,
     "TransactionDate":"2026-05-28T14:02:19+10:00",
@@ -1992,8 +1972,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-27T09:55:36+10:00",
-    "Price":2.169,
+    "TransactionDate":"2026-05-29T09:42:24+10:00",
+    "Price":2.129,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2022,8 +2002,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-28T09:21:01+10:00",
-    "Price":2.165,
+    "TransactionDate":"2026-05-29T07:45:54+10:00",
+    "Price":2.145,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -2042,8 +2022,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":14,
-    "TransactionDate":"2026-05-27T10:12:14+10:00",
-    "Price":2.239,
+    "TransactionDate":"2026-05-29T08:12:18+10:00",
+    "Price":2.209,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
