@@ -12,8 +12,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-22T17:08:29+10:00",
-    "Price":1.829,
+    "TransactionDate":"2026-05-30T09:44:57+10:00",
+    "Price":1.799,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-29T22:10:27+10:00",
+    "TransactionDate":"2026-05-30T10:10:25+10:00",
     "Price":1.779,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-29T22:10:27+10:00",
+    "TransactionDate":"2026-05-30T10:10:25+10:00",
     "Price":1.799,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -392,8 +392,8 @@
   {
     "Site_ID":61477674,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-13T09:53:50+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-05-30T10:07:39+10:00",
+    "Price":1.775,
     "Name":"Edge Hill Servo",
     "Address":"134 Collins Ave",
     "Postcode":"4870",
@@ -422,8 +422,8 @@
   {
     "Site_ID":61477727,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-13T10:07:42+10:00",
-    "Price":1.799,
+    "TransactionDate":"2026-05-30T09:56:17+10:00",
+    "Price":1.775,
     "Name":"Machans Beach Store and Post Office",
     "Address":"27 Machans Street",
     "Postcode":"4878",
@@ -432,8 +432,8 @@
   {
     "Site_ID":61477771,
     "Fuel_ID":2,
-    "TransactionDate":"2026-05-18T08:54:05+10:00",
-    "Price":1.869,
+    "TransactionDate":"2026-05-30T06:44:50+10:00",
+    "Price":1.839,
     "Name":"Eacham Fuels",
     "Address":"8 Pioneer Avenue",
     "Postcode":"4885",
@@ -562,8 +562,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-22T17:08:29+10:00",
-    "Price":2.269,
+    "TransactionDate":"2026-05-30T09:44:57+10:00",
+    "Price":2.209,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -842,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-29T22:10:27+10:00",
+    "TransactionDate":"2026-05-30T10:10:25+10:00",
     "Price":2.199,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-29T22:10:27+10:00",
+    "TransactionDate":"2026-05-30T10:10:25+10:00",
     "Price":2.279,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -942,8 +942,8 @@
   {
     "Site_ID":61477727,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-29T10:11:30+10:00",
-    "Price":2.195,
+    "TransactionDate":"2026-05-30T09:56:17+10:00",
+    "Price":2.135,
     "Name":"Machans Beach Store and Post Office",
     "Address":"27 Machans Street",
     "Postcode":"4878",
@@ -952,8 +952,8 @@
   {
     "Site_ID":61477771,
     "Fuel_ID":3,
-    "TransactionDate":"2026-05-18T08:54:05+10:00",
-    "Price":2.329,
+    "TransactionDate":"2026-05-30T06:44:50+10:00",
+    "Price":2.249,
     "Name":"Eacham Fuels",
     "Address":"8 Pioneer Avenue",
     "Postcode":"4885",
@@ -1092,8 +1092,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-22T17:08:29+10:00",
-    "Price":1.959,
+    "TransactionDate":"2026-05-30T09:44:57+10:00",
+    "Price":1.929,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-29T22:10:27+10:00",
+    "TransactionDate":"2026-05-30T10:10:25+10:00",
     "Price":1.959,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-29T22:10:27+10:00",
+    "TransactionDate":"2026-05-30T10:10:25+10:00",
     "Price":1.969,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1342,8 +1342,8 @@
   {
     "Site_ID":61477674,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-13T09:53:50+10:00",
-    "Price":1.949,
+    "TransactionDate":"2026-05-30T10:07:39+10:00",
+    "Price":1.925,
     "Name":"Edge Hill Servo",
     "Address":"134 Collins Ave",
     "Postcode":"4870",
@@ -1372,8 +1372,8 @@
   {
     "Site_ID":61477727,
     "Fuel_ID":5,
-    "TransactionDate":"2026-05-13T10:07:42+10:00",
-    "Price":1.949,
+    "TransactionDate":"2026-05-30T09:56:17+10:00",
+    "Price":1.925,
     "Name":"Machans Beach Store and Post Office",
     "Address":"27 Machans Street",
     "Postcode":"4878",
@@ -1662,7 +1662,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-29T22:10:27+10:00",
+    "TransactionDate":"2026-05-30T10:10:25+10:00",
     "Price":2.049,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-05-29T22:10:27+10:00",
+    "TransactionDate":"2026-05-30T10:10:25+10:00",
     "Price":2.059,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
