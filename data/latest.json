@@ -222,7 +222,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-06-03T05:11:53+10:00",
+    "TransactionDate":"2026-06-09T07:34:00+10:00",
     "Price":1.715,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -302,7 +302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-06-08T23:10:18+10:00",
+    "TransactionDate":"2026-06-09T09:55:18+10:00",
     "Price":1.699,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -352,7 +352,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-06-08T23:10:18+10:00",
+    "TransactionDate":"2026-06-09T09:55:18+10:00",
     "Price":1.719,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -382,8 +382,8 @@
   {
     "Site_ID":61477674,
     "Fuel_ID":2,
-    "TransactionDate":"2026-06-03T10:07:36+10:00",
-    "Price":1.715,
+    "TransactionDate":"2026-06-09T09:35:08+10:00",
+    "Price":1.695,
     "Name":"Edge Hill Servo",
     "Address":"134 Collins Ave",
     "Postcode":"4870",
@@ -412,8 +412,8 @@
   {
     "Site_ID":61477727,
     "Fuel_ID":2,
-    "TransactionDate":"2026-06-03T09:28:56+10:00",
-    "Price":1.715,
+    "TransactionDate":"2026-06-09T09:13:25+10:00",
+    "Price":1.695,
     "Name":"Machans Beach Store and Post Office",
     "Address":"27 Machans Street",
     "Postcode":"4878",
@@ -532,7 +532,7 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":2,
-    "TransactionDate":"2026-06-01T19:30:06+10:00",
+    "TransactionDate":"2026-06-09T07:10:08+10:00",
     "Price":1.765,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
@@ -742,8 +742,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-06-03T05:11:53+10:00",
-    "Price":2.155,
+    "TransactionDate":"2026-06-09T07:34:00+10:00",
+    "Price":2.125,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -822,7 +822,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-06-08T23:10:18+10:00",
+    "TransactionDate":"2026-06-09T09:55:18+10:00",
     "Price":2.059,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-06-08T23:10:18+10:00",
+    "TransactionDate":"2026-06-09T09:55:18+10:00",
     "Price":2.129,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1042,7 +1042,7 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":3,
-    "TransactionDate":"2026-06-05T11:55:05+10:00",
+    "TransactionDate":"2026-06-09T07:10:08+10:00",
     "Price":2.057,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
@@ -1212,7 +1212,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-06-03T05:11:53+10:00",
+    "TransactionDate":"2026-06-09T07:34:00+10:00",
     "Price":1.815,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-06-08T23:10:18+10:00",
+    "TransactionDate":"2026-06-09T09:55:18+10:00",
     "Price":1.879,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-06-08T23:10:18+10:00",
+    "TransactionDate":"2026-06-09T09:55:18+10:00",
     "Price":1.889,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1322,8 +1322,8 @@
   {
     "Site_ID":61477674,
     "Fuel_ID":5,
-    "TransactionDate":"2026-06-03T10:07:36+10:00",
-    "Price":1.865,
+    "TransactionDate":"2026-06-09T09:35:08+10:00",
+    "Price":1.845,
     "Name":"Edge Hill Servo",
     "Address":"134 Collins Ave",
     "Postcode":"4870",
@@ -1352,8 +1352,8 @@
   {
     "Site_ID":61477727,
     "Fuel_ID":5,
-    "TransactionDate":"2026-06-03T09:28:56+10:00",
-    "Price":1.865,
+    "TransactionDate":"2026-06-09T09:13:25+10:00",
+    "Price":1.845,
     "Name":"Machans Beach Store and Post Office",
     "Address":"27 Machans Street",
     "Postcode":"4878",
@@ -1462,7 +1462,7 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":5,
-    "TransactionDate":"2026-06-08T16:40:09+10:00",
+    "TransactionDate":"2026-06-09T07:10:08+10:00",
     "Price":1.889,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
@@ -1632,7 +1632,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-06-08T23:10:18+10:00",
+    "TransactionDate":"2026-06-09T09:55:18+10:00",
     "Price":1.969,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1672,7 +1672,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-06-08T23:10:18+10:00",
+    "TransactionDate":"2026-06-09T09:55:18+10:00",
     "Price":1.979,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1742,7 +1742,7 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":8,
-    "TransactionDate":"2026-06-08T16:40:09+10:00",
+    "TransactionDate":"2026-06-09T07:10:08+10:00",
     "Price":1.999,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
@@ -1882,7 +1882,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-06-03T05:11:53+10:00",
+    "TransactionDate":"2026-06-09T07:34:00+10:00",
     "Price":1.695,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -2052,7 +2052,7 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":14,
-    "TransactionDate":"2026-06-05T11:55:05+10:00",
+    "TransactionDate":"2026-06-09T07:10:08+10:00",
     "Price":2.097,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
