@@ -222,8 +222,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-06-12T06:39:01+10:00",
-    "Price":1.715,
+    "TransactionDate":"2026-06-16T17:33:46+10:00",
+    "Price":1.695,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -302,7 +302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-06-16T11:40:18+10:00",
+    "TransactionDate":"2026-06-16T19:25:19+10:00",
     "Price":1.699,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -352,7 +352,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-06-16T11:40:18+10:00",
+    "TransactionDate":"2026-06-16T19:25:19+10:00",
     "Price":1.699,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -492,7 +492,7 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":2,
-    "TransactionDate":"2026-06-05T15:02:04+10:00",
+    "TransactionDate":"2026-06-16T13:21:54+10:00",
     "Price":1.729,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
@@ -742,8 +742,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-06-12T06:39:01+10:00",
-    "Price":2.075,
+    "TransactionDate":"2026-06-16T17:33:46+10:00",
+    "Price":2.055,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -822,7 +822,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-06-16T11:40:18+10:00",
+    "TransactionDate":"2026-06-16T19:25:19+10:00",
     "Price":1.999,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-06-16T11:40:18+10:00",
+    "TransactionDate":"2026-06-16T19:25:19+10:00",
     "Price":2.039,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1002,8 +1002,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":3,
-    "TransactionDate":"2026-06-05T15:02:04+10:00",
-    "Price":2.169,
+    "TransactionDate":"2026-06-16T13:21:54+10:00",
+    "Price":2.139,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
@@ -1212,8 +1212,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-06-12T06:39:01+10:00",
-    "Price":1.815,
+    "TransactionDate":"2026-06-16T17:33:46+10:00",
+    "Price":1.795,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-06-16T11:40:18+10:00",
+    "TransactionDate":"2026-06-16T19:25:19+10:00",
     "Price":1.879,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-06-16T11:40:18+10:00",
+    "TransactionDate":"2026-06-16T19:25:19+10:00",
     "Price":1.869,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1632,7 +1632,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-06-16T11:40:18+10:00",
+    "TransactionDate":"2026-06-16T19:25:19+10:00",
     "Price":1.969,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1672,7 +1672,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-06-16T11:40:18+10:00",
+    "TransactionDate":"2026-06-16T19:25:19+10:00",
     "Price":1.959,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1712,7 +1712,7 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":8,
-    "TransactionDate":"2026-06-05T15:02:04+10:00",
+    "TransactionDate":"2026-06-16T13:21:54+10:00",
     "Price":2.019,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
@@ -1722,8 +1722,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":8,
-    "TransactionDate":"2026-06-16T07:26:16+10:00",
-    "Price":9.999,
+    "TransactionDate":"2026-06-16T13:07:05+10:00",
+    "Price":1.875,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -1882,8 +1882,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-06-12T06:39:01+10:00",
-    "Price":1.695,
+    "TransactionDate":"2026-06-16T17:33:46+10:00",
+    "Price":1.675,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1972,8 +1972,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":14,
-    "TransactionDate":"2026-06-15T16:52:17+10:00",
-    "Price":2.099,
+    "TransactionDate":"2026-06-16T15:32:16+10:00",
+    "Price":2.059,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -2042,8 +2042,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":14,
-    "TransactionDate":"2026-06-05T15:02:04+10:00",
-    "Price":2.229,
+    "TransactionDate":"2026-06-16T13:21:54+10:00",
+    "Price":2.199,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
