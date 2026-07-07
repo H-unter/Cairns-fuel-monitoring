@@ -42,8 +42,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-03T13:58:19+10:00",
-    "Price":1.635,
+    "TransactionDate":"2026-07-07T13:13:40+10:00",
+    "Price":1.655,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-07T10:10:19+10:00",
+    "TransactionDate":"2026-07-07T17:40:19+10:00",
     "Price":1.759,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -352,7 +352,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-06T11:25:58+10:00",
+    "TransactionDate":"2026-07-07T11:04:05+10:00",
     "Price":1.725,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-07T10:10:19+10:00",
+    "TransactionDate":"2026-07-07T17:40:19+10:00",
     "Price":1.739,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -592,8 +592,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-03T13:58:19+10:00",
-    "Price":1.815,
+    "TransactionDate":"2026-07-07T13:13:40+10:00",
+    "Price":1.835,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -822,8 +822,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-06T15:40:08+10:00",
-    "Price":1.909,
+    "TransactionDate":"2026-07-07T16:35:06+10:00",
+    "Price":1.919,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-07T10:10:19+10:00",
+    "TransactionDate":"2026-07-07T17:40:19+10:00",
     "Price":1.919,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,8 +862,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-04T12:31:18+10:00",
-    "Price":1.815,
+    "TransactionDate":"2026-07-07T11:04:05+10:00",
+    "Price":1.839,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-07T10:10:19+10:00",
+    "TransactionDate":"2026-07-07T17:40:19+10:00",
     "Price":1.899,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1052,8 +1052,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-03T15:40:04+10:00",
-    "Price":1.899,
+    "TransactionDate":"2026-07-07T16:15:09+10:00",
+    "Price":1.919,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1112,8 +1112,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-03T13:58:19+10:00",
-    "Price":1.835,
+    "TransactionDate":"2026-07-07T13:13:40+10:00",
+    "Price":1.855,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -1282,8 +1282,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-06T15:40:08+10:00",
-    "Price":1.879,
+    "TransactionDate":"2026-07-07T16:35:06+10:00",
+    "Price":1.919,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -1292,7 +1292,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-07T10:10:19+10:00",
+    "TransactionDate":"2026-07-07T17:40:19+10:00",
     "Price":1.939,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-04T12:31:18+10:00",
+    "TransactionDate":"2026-07-07T11:04:05+10:00",
     "Price":1.825,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-07T10:10:19+10:00",
+    "TransactionDate":"2026-07-07T17:40:19+10:00",
     "Price":1.909,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1502,8 +1502,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-03T13:58:19+10:00",
-    "Price":1.935,
+    "TransactionDate":"2026-07-07T13:13:40+10:00",
+    "Price":1.955,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -1642,8 +1642,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-06T15:40:08+10:00",
-    "Price":2.019,
+    "TransactionDate":"2026-07-07T16:35:06+10:00",
+    "Price":1.989,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-07T10:10:19+10:00",
+    "TransactionDate":"2026-07-07T17:40:19+10:00",
     "Price":2.029,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1662,8 +1662,8 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-06T17:09:55+10:00",
-    "Price":2.039,
+    "TransactionDate":"2026-07-07T12:01:56+10:00",
+    "Price":2.029,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-07T10:10:19+10:00",
+    "TransactionDate":"2026-07-07T17:40:19+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1762,8 +1762,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-06T15:20:10+10:00",
-    "Price":2.049,
+    "TransactionDate":"2026-07-07T16:15:09+10:00",
+    "Price":1.989,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1992,8 +1992,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":14,
-    "TransactionDate":"2026-07-03T13:58:19+10:00",
-    "Price":1.845,
+    "TransactionDate":"2026-07-07T13:13:40+10:00",
+    "Price":1.865,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -2032,8 +2032,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":14,
-    "TransactionDate":"2026-07-06T09:21:41+10:00",
-    "Price":1.939,
+    "TransactionDate":"2026-07-07T13:51:37+10:00",
+    "Price":1.899,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -2092,8 +2092,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":14,
-    "TransactionDate":"2026-07-06T15:20:10+10:00",
-    "Price":1.95,
+    "TransactionDate":"2026-07-07T16:15:09+10:00",
+    "Price":1.939,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
