@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-08T20:55:18+10:00",
+    "TransactionDate":"2026-07-09T10:10:18+10:00",
     "Price":1.759,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-08T20:55:18+10:00",
+    "TransactionDate":"2026-07-09T10:10:18+10:00",
     "Price":1.739,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -432,7 +432,7 @@
   {
     "Site_ID":61477771,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-08T15:58:48+10:00",
+    "TransactionDate":"2026-07-09T06:49:04+10:00",
     "Price":1.759,
     "Name":"Eacham Fuels",
     "Address":"8 Pioneer Avenue",
@@ -542,8 +542,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-06T15:20:10+10:00",
-    "Price":1.739,
+    "TransactionDate":"2026-07-09T09:45:08+10:00",
+    "Price":1.769,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -612,8 +612,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-08T09:58:42+10:00",
-    "Price":1.859,
+    "TransactionDate":"2026-07-09T09:36:37+10:00",
+    "Price":1.869,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-08T20:55:18+10:00",
+    "TransactionDate":"2026-07-09T10:10:18+10:00",
     "Price":1.899,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-08T20:55:18+10:00",
+    "TransactionDate":"2026-07-09T10:10:18+10:00",
     "Price":1.899,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -942,7 +942,7 @@
   {
     "Site_ID":61477771,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-08T15:58:48+10:00",
+    "TransactionDate":"2026-07-09T06:49:04+10:00",
     "Price":1.929,
     "Name":"Eacham Fuels",
     "Address":"8 Pioneer Avenue",
@@ -1052,8 +1052,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-07T16:15:09+10:00",
-    "Price":1.919,
+    "TransactionDate":"2026-07-09T09:45:08+10:00",
+    "Price":1.872,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1292,7 +1292,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-08T20:55:18+10:00",
+    "TransactionDate":"2026-07-09T10:10:18+10:00",
     "Price":1.939,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-08T20:55:18+10:00",
+    "TransactionDate":"2026-07-09T10:10:18+10:00",
     "Price":1.909,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1372,7 +1372,7 @@
   {
     "Site_ID":61477771,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-08T15:58:48+10:00",
+    "TransactionDate":"2026-07-09T06:49:04+10:00",
     "Price":1.899,
     "Name":"Eacham Fuels",
     "Address":"8 Pioneer Avenue",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-08T20:55:18+10:00",
+    "TransactionDate":"2026-07-09T10:10:18+10:00",
     "Price":2.029,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-08T20:55:18+10:00",
+    "TransactionDate":"2026-07-09T10:10:18+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1762,8 +1762,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-07T16:15:09+10:00",
-    "Price":1.989,
+    "TransactionDate":"2026-07-09T09:45:08+10:00",
+    "Price":1.999,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -2012,8 +2012,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2026-07-08T09:58:42+10:00",
-    "Price":1.889,
+    "TransactionDate":"2026-07-09T09:36:37+10:00",
+    "Price":1.899,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2042,8 +2042,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":14,
-    "TransactionDate":"2026-07-06T08:52:31+10:00",
-    "Price":1.879,
+    "TransactionDate":"2026-07-09T03:58:07+10:00",
+    "Price":1.889,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -2092,8 +2092,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":14,
-    "TransactionDate":"2026-07-07T16:15:09+10:00",
-    "Price":1.939,
+    "TransactionDate":"2026-07-09T09:45:08+10:00",
+    "Price":1.912,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
