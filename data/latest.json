@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-10T21:55:18+10:00",
+    "TransactionDate":"2026-07-11T09:55:18+10:00",
     "Price":1.739,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-10T21:55:18+10:00",
+    "TransactionDate":"2026-07-11T09:55:18+10:00",
     "Price":1.739,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -432,8 +432,8 @@
   {
     "Site_ID":61477771,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-09T06:49:04+10:00",
-    "Price":1.759,
+    "TransactionDate":"2026-07-11T06:41:47+10:00",
+    "Price":1.779,
     "Name":"Eacham Fuels",
     "Address":"8 Pioneer Avenue",
     "Postcode":"4885",
@@ -537,6 +537,16 @@
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
     "Postcode":"4869",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61478205,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-07-11T09:57:23+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven North Cairns",
+    "Address":"334-336 Sheridan St",
+    "Postcode":"4870",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -832,8 +842,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-10T21:55:18+10:00",
-    "Price":1.919,
+    "TransactionDate":"2026-07-11T09:55:18+10:00",
+    "Price":1.949,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -872,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-10T21:55:18+10:00",
+    "TransactionDate":"2026-07-11T09:55:18+10:00",
     "Price":1.899,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -942,8 +952,8 @@
   {
     "Site_ID":61477771,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-09T06:49:04+10:00",
-    "Price":1.929,
+    "TransactionDate":"2026-07-11T06:41:47+10:00",
+    "Price":1.949,
     "Name":"Eacham Fuels",
     "Address":"8 Pioneer Avenue",
     "Postcode":"4885",
@@ -1292,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-10T21:55:18+10:00",
+    "TransactionDate":"2026-07-11T09:55:18+10:00",
     "Price":1.919,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1312,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-10T21:55:18+10:00",
+    "TransactionDate":"2026-07-11T09:55:18+10:00",
     "Price":1.909,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1652,7 +1662,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-10T21:55:18+10:00",
+    "TransactionDate":"2026-07-11T09:55:18+10:00",
     "Price":2.009,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1702,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-10T21:55:18+10:00",
+    "TransactionDate":"2026-07-11T09:55:18+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
