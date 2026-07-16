@@ -312,11 +312,21 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-16T16:10:25+10:00",
+    "TransactionDate":"2026-07-16T20:55:18+10:00",
     "Price":1.759,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61470699,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-07-16T17:19:41+10:00",
+    "Price":1.735,
+    "Name":"BP Kuranda",
+    "Address":"3 Rob Veivers Drive",
+    "Postcode":"4881",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -342,7 +352,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-16T10:18:38+10:00",
+    "TransactionDate":"2026-07-16T16:27:15+10:00",
     "Price":1.719,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -352,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-16T16:10:25+10:00",
+    "TransactionDate":"2026-07-16T20:55:18+10:00",
     "Price":1.739,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -602,8 +612,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-16T10:55:20+10:00",
-    "Price":1.959,
+    "TransactionDate":"2026-07-16T16:50:26+10:00",
+    "Price":1.999,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -822,11 +832,21 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-16T16:10:25+10:00",
+    "TransactionDate":"2026-07-16T20:55:18+10:00",
     "Price":2.129,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61470699,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-07-16T17:19:41+10:00",
+    "Price":1.999,
+    "Name":"BP Kuranda",
+    "Address":"3 Rob Veivers Drive",
+    "Postcode":"4881",
     "Fuel_Name":"Diesel"
   },
   {
@@ -842,8 +862,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-16T10:18:38+10:00",
-    "Price":1.915,
+    "TransactionDate":"2026-07-16T16:27:15+10:00",
+    "Price":1.955,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -852,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-16T16:10:25+10:00",
+    "TransactionDate":"2026-07-16T20:55:18+10:00",
     "Price":2.049,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -862,8 +882,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-16T10:45:26+10:00",
-    "Price":1.949,
+    "TransactionDate":"2026-07-16T19:30:56+10:00",
+    "Price":9.999,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -1272,7 +1292,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-16T16:10:25+10:00",
+    "TransactionDate":"2026-07-16T20:55:18+10:00",
     "Price":1.939,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1282,7 +1302,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-16T10:18:38+10:00",
+    "TransactionDate":"2026-07-16T16:27:15+10:00",
     "Price":1.825,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -1292,7 +1312,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-16T16:10:25+10:00",
+    "TransactionDate":"2026-07-16T20:55:18+10:00",
     "Price":1.909,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1632,11 +1652,21 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-16T16:10:25+10:00",
+    "TransactionDate":"2026-07-16T20:55:18+10:00",
     "Price":2.029,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61470699,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-07-16T17:19:41+10:00",
+    "Price":2.009,
+    "Name":"BP Kuranda",
+    "Address":"3 Rob Veivers Drive",
+    "Postcode":"4881",
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
@@ -1662,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-16T16:10:25+10:00",
+    "TransactionDate":"2026-07-16T20:55:18+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1982,8 +2012,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2026-07-16T10:55:20+10:00",
-    "Price":1.989,
+    "TransactionDate":"2026-07-16T16:50:26+10:00",
+    "Price":2.029,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
