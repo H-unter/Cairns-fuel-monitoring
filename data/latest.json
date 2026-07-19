@@ -142,7 +142,7 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-19T07:00:18+10:00",
+    "TransactionDate":"2026-07-19T19:40:08+10:00",
     "Price":1.779,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-19T16:25:17+10:00",
+    "TransactionDate":"2026-07-19T20:25:17+10:00",
     "Price":1.799,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-19T16:25:17+10:00",
+    "TransactionDate":"2026-07-19T20:25:17+10:00",
     "Price":1.819,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -662,8 +662,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-19T10:05:06+10:00",
-    "Price":1.995,
+    "TransactionDate":"2026-07-19T19:40:08+10:00",
+    "Price":2.045,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -832,8 +832,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-19T16:25:17+10:00",
-    "Price":2.139,
+    "TransactionDate":"2026-07-19T20:25:17+10:00",
+    "Price":2.149,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -872,8 +872,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-19T16:25:17+10:00",
-    "Price":2.079,
+    "TransactionDate":"2026-07-19T20:25:17+10:00",
+    "Price":2.099,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1172,7 +1172,7 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-19T07:00:18+10:00",
+    "TransactionDate":"2026-07-19T19:40:08+10:00",
     "Price":1.919,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
@@ -1292,7 +1292,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-19T16:25:17+10:00",
+    "TransactionDate":"2026-07-19T20:25:17+10:00",
     "Price":1.979,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-19T16:25:17+10:00",
+    "TransactionDate":"2026-07-19T20:25:17+10:00",
     "Price":1.989,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1542,7 +1542,7 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-19T07:00:18+10:00",
+    "TransactionDate":"2026-07-19T19:40:08+10:00",
     "Price":2.009,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
@@ -1652,7 +1652,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-19T16:25:17+10:00",
+    "TransactionDate":"2026-07-19T20:25:17+10:00",
     "Price":2.069,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-19T16:25:17+10:00",
+    "TransactionDate":"2026-07-19T20:25:17+10:00",
     "Price":2.079,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1842,7 +1842,7 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":12,
-    "TransactionDate":"2026-07-19T07:00:18+10:00",
+    "TransactionDate":"2026-07-19T19:40:08+10:00",
     "Price":1.759,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
