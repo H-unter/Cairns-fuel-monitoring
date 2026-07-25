@@ -302,7 +302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-25T16:10:18+10:00",
+    "TransactionDate":"2026-07-25T20:25:18+10:00",
     "Price":1.919,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -352,7 +352,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-25T16:10:18+10:00",
+    "TransactionDate":"2026-07-25T20:25:18+10:00",
     "Price":1.919,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -812,7 +812,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-25T16:10:18+10:00",
+    "TransactionDate":"2026-07-25T20:25:18+10:00",
     "Price":2.309,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-25T16:10:18+10:00",
+    "TransactionDate":"2026-07-25T20:25:18+10:00",
     "Price":2.279,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1262,7 +1262,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-25T16:10:18+10:00",
+    "TransactionDate":"2026-07-25T20:25:18+10:00",
     "Price":2.099,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1282,7 +1282,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-25T16:10:18+10:00",
+    "TransactionDate":"2026-07-25T20:25:18+10:00",
     "Price":2.089,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1622,7 +1622,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-25T16:10:18+10:00",
+    "TransactionDate":"2026-07-25T20:25:18+10:00",
     "Price":2.189,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1652,8 +1652,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-25T06:02:17+10:00",
-    "Price":2.219,
+    "TransactionDate":"2026-07-25T17:57:17+10:00",
+    "Price":9.999,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -1662,7 +1662,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-25T16:10:18+10:00",
+    "TransactionDate":"2026-07-25T20:25:18+10:00",
     "Price":2.179,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1962,8 +1962,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":14,
-    "TransactionDate":"2026-07-25T10:17:17+10:00",
-    "Price":2.289,
+    "TransactionDate":"2026-07-25T16:37:17+10:00",
+    "Price":2.309,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -2032,8 +2032,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":14,
-    "TransactionDate":"2026-07-25T06:02:17+10:00",
-    "Price":2.349,
+    "TransactionDate":"2026-07-25T17:02:30+10:00",
+    "Price":2.369,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
