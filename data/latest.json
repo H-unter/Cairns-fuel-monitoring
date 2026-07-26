@@ -10,16 +10,6 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61401991,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-07-24T16:56:23+10:00",
-    "Price":1.909,
-    "Name":"BP Edmonton",
-    "Address":"3\/167 Bruce Hwy",
-    "Postcode":"4869",
-    "Fuel_Name":"Unleaded"
-  },
-  {
     "Site_ID":61402009,
     "Fuel_ID":2,
     "TransactionDate":"2026-07-24T14:37:32+10:00",
@@ -42,8 +32,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-24T12:21:26+10:00",
-    "Price":1.869,
+    "TransactionDate":"2026-07-26T19:19:12+10:00",
+    "Price":1.889,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -312,7 +302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-26T16:40:17+10:00",
+    "TransactionDate":"2026-07-26T20:40:17+10:00",
     "Price":1.939,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +352,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-26T16:40:17+10:00",
+    "TransactionDate":"2026-07-26T20:40:17+10:00",
     "Price":1.939,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -560,16 +550,6 @@
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61401991,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-07-24T16:56:23+10:00",
-    "Price":2.259,
-    "Name":"BP Edmonton",
-    "Address":"3\/167 Bruce Hwy",
-    "Postcode":"4869",
-    "Fuel_Name":"Diesel"
-  },
-  {
     "Site_ID":61402009,
     "Fuel_ID":3,
     "TransactionDate":"2026-07-24T14:37:33+10:00",
@@ -592,8 +572,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-26T14:46:08+10:00",
-    "Price":2.219,
+    "TransactionDate":"2026-07-26T19:19:12+10:00",
+    "Price":2.249,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -832,7 +812,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-26T16:40:17+10:00",
+    "TransactionDate":"2026-07-26T20:40:17+10:00",
     "Price":2.329,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +852,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-26T16:40:17+10:00",
+    "TransactionDate":"2026-07-26T20:40:17+10:00",
     "Price":2.299,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1080,16 +1060,6 @@
     "Fuel_Name":"LPG"
   },
   {
-    "Site_ID":61401991,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-07-24T16:56:23+10:00",
-    "Price":2.039,
-    "Name":"BP Edmonton",
-    "Address":"3\/167 Bruce Hwy",
-    "Postcode":"4869",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
     "Site_ID":61402009,
     "Fuel_ID":5,
     "TransactionDate":"2026-07-24T14:37:33+10:00",
@@ -1112,8 +1082,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-24T12:21:26+10:00",
-    "Price":2.069,
+    "TransactionDate":"2026-07-26T19:19:12+10:00",
+    "Price":2.089,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -1292,7 +1262,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-26T16:40:17+10:00",
+    "TransactionDate":"2026-07-26T20:40:17+10:00",
     "Price":2.119,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1312,7 +1282,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-26T16:40:17+10:00",
+    "TransactionDate":"2026-07-26T20:40:17+10:00",
     "Price":2.109,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1502,8 +1472,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-24T12:21:26+10:00",
-    "Price":2.169,
+    "TransactionDate":"2026-07-26T19:19:12+10:00",
+    "Price":2.189,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
@@ -1652,7 +1622,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-26T16:40:17+10:00",
+    "TransactionDate":"2026-07-26T20:40:17+10:00",
     "Price":2.209,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1662,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-26T16:40:17+10:00",
+    "TransactionDate":"2026-07-26T20:40:17+10:00",
     "Price":2.199,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1992,8 +1962,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":14,
-    "TransactionDate":"2026-07-26T14:46:08+10:00",
-    "Price":2.249,
+    "TransactionDate":"2026-07-26T19:19:12+10:00",
+    "Price":2.279,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
