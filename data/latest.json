@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-31T09:55:18+10:00",
+    "TransactionDate":"2026-07-31T16:40:20+10:00",
     "Price":1.999,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-31T09:55:18+10:00",
+    "TransactionDate":"2026-07-31T16:40:20+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -852,8 +852,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-31T09:55:18+10:00",
-    "Price":2.379,
+    "TransactionDate":"2026-07-31T16:40:20+10:00",
+    "Price":2.389,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -892,8 +892,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-31T09:55:18+10:00",
-    "Price":2.379,
+    "TransactionDate":"2026-07-31T16:40:20+10:00",
+    "Price":2.389,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1067,16 +1067,6 @@
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
     "Postcode":"4869",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61478243,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-07-28T17:45:07+10:00",
-    "Price":2.299,
-    "Name":"NightOwl BP Anderson Street",
-    "Address":"66-68 Anderson St",
-    "Postcode":"4870",
     "Fuel_Name":"Diesel"
   },
   {
@@ -1302,8 +1292,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-28T15:55:02+10:00",
-    "Price":2.097,
+    "TransactionDate":"2026-07-31T16:45:04+10:00",
+    "Price":2.177,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -1322,7 +1312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-31T09:55:18+10:00",
+    "TransactionDate":"2026-07-31T16:40:20+10:00",
     "Price":2.179,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1342,7 +1332,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-31T09:55:18+10:00",
+    "TransactionDate":"2026-07-31T16:40:20+10:00",
     "Price":2.169,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1497,16 +1487,6 @@
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
     "Postcode":"4869",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61478243,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-07-28T17:45:07+10:00",
-    "Price":2.097,
-    "Name":"NightOwl BP Anderson Street",
-    "Address":"66-68 Anderson St",
-    "Postcode":"4870",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
@@ -1672,8 +1652,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-28T15:55:02+10:00",
-    "Price":2.206,
+    "TransactionDate":"2026-07-31T16:45:04+10:00",
+    "Price":2.299,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -1692,7 +1672,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-31T09:55:18+10:00",
+    "TransactionDate":"2026-07-31T16:40:20+10:00",
     "Price":2.269,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1732,7 +1712,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-07-31T09:55:18+10:00",
+    "TransactionDate":"2026-07-31T16:40:20+10:00",
     "Price":2.259,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1797,16 +1777,6 @@
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
     "Postcode":"4869",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61478243,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-07-28T17:45:07+10:00",
-    "Price":2.206,
-    "Name":"NightOwl BP Anderson Street",
-    "Address":"66-68 Anderson St",
-    "Postcode":"4870",
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
@@ -2020,6 +1990,16 @@
     "Fuel_Name":"e10"
   },
   {
+    "Site_ID":61478205,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-07-31T16:01:52+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven North Cairns",
+    "Address":"334-336 Sheridan St",
+    "Postcode":"4870",
+    "Fuel_Name":"e10"
+  },
+  {
     "Site_ID":61402015,
     "Fuel_ID":14,
     "TransactionDate":"2026-07-29T07:51:47+10:00",
@@ -2137,16 +2117,6 @@
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
-    "Site_ID":61478243,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-07-28T17:45:07+10:00",
-    "Price":2.344,
-    "Name":"NightOwl BP Anderson Street",
-    "Address":"66-68 Anderson St",
-    "Postcode":"4870",
     "Fuel_Name":"Premium Diesel"
   }
 ]
