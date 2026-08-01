@@ -122,8 +122,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-30T11:30:25+10:00",
-    "Price":1.959,
+    "TransactionDate":"2026-08-01T10:25:11+10:00",
+    "Price":1.975,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-01T09:55:17+10:00",
+    "TransactionDate":"2026-08-01T16:25:18+10:00",
     "Price":2.009,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-01T09:55:17+10:00",
+    "TransactionDate":"2026-08-01T16:25:18+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -552,8 +552,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":2,
-    "TransactionDate":"2026-07-28T17:45:07+10:00",
-    "Price":1.962,
+    "TransactionDate":"2026-08-01T15:50:07+10:00",
+    "Price":1.999,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -662,8 +662,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-30T11:30:25+10:00",
-    "Price":2.319,
+    "TransactionDate":"2026-08-01T10:25:11+10:00",
+    "Price":2.335,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -842,8 +842,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-30T12:25:02+10:00",
-    "Price":2.355,
+    "TransactionDate":"2026-08-01T14:35:10+10:00",
+    "Price":2.422,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-01T09:55:17+10:00",
+    "TransactionDate":"2026-08-01T16:25:18+10:00",
     "Price":2.389,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -902,7 +902,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-01T09:55:17+10:00",
+    "TransactionDate":"2026-08-01T16:25:18+10:00",
     "Price":2.389,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1080,6 +1080,16 @@
     "Fuel_Name":"Diesel"
   },
   {
+    "Site_ID":61478243,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-08-01T15:50:07+10:00",
+    "Price":2.411,
+    "Name":"NightOwl BP Anderson Street",
+    "Address":"66-68 Anderson St",
+    "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
     "Site_ID":61478266,
     "Fuel_ID":3,
     "TransactionDate":"2026-07-31T17:56:45+10:00",
@@ -1172,8 +1182,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":5,
-    "TransactionDate":"2026-07-30T11:30:25+10:00",
-    "Price":2.099,
+    "TransactionDate":"2026-08-01T10:25:11+10:00",
+    "Price":2.115,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -1322,7 +1332,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-01T09:55:17+10:00",
+    "TransactionDate":"2026-08-01T16:25:18+10:00",
     "Price":2.189,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1342,7 +1352,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-01T09:55:17+10:00",
+    "TransactionDate":"2026-08-01T16:25:18+10:00",
     "Price":2.169,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1692,7 +1702,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-01T09:55:17+10:00",
+    "TransactionDate":"2026-08-01T16:25:18+10:00",
     "Price":2.279,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1732,7 +1742,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-01T09:55:17+10:00",
+    "TransactionDate":"2026-08-01T16:25:18+10:00",
     "Price":2.259,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1797,6 +1807,16 @@
     "Name":"Marano\u2019s Fuel Edmonton",
     "Address":"69-70 Thomson Road",
     "Postcode":"4869",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61478243,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-08-01T15:50:07+10:00",
+    "Price":2.211,
+    "Name":"NightOwl BP Anderson Street",
+    "Address":"66-68 Anderson St",
+    "Postcode":"4870",
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
@@ -1872,8 +1892,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":12,
-    "TransactionDate":"2026-07-30T11:30:25+10:00",
-    "Price":1.939,
+    "TransactionDate":"2026-08-01T10:25:11+10:00",
+    "Price":1.955,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -2166,6 +2186,16 @@
     "Price":2.369,
     "Name":"7-Eleven Westcourt",
     "Address":"246-250 Mulgrave Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61478243,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-08-01T15:50:07+10:00",
+    "Price":2.422,
+    "Name":"NightOwl BP Anderson Street",
+    "Address":"66-68 Anderson St",
     "Postcode":"4870",
     "Fuel_Name":"Premium Diesel"
   },
