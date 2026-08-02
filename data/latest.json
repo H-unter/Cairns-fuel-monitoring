@@ -142,8 +142,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-01T07:10:08+10:00",
-    "Price":1.915,
+    "TransactionDate":"2026-08-02T07:25:10+10:00",
+    "Price":1.935,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-01T20:40:18+10:00",
+    "TransactionDate":"2026-08-02T09:55:17+10:00",
     "Price":2.009,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-01T20:40:18+10:00",
+    "TransactionDate":"2026-08-02T09:55:17+10:00",
     "Price":1.999,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -560,16 +560,6 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61478305,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-08-01T09:44:00+10:00",
-    "Price":1.889,
-    "Name":"7-Eleven Woree",
-    "Address":"716 Des Chalmers Dr",
-    "Postcode":"4868",
-    "Fuel_Name":"Unleaded"
-  },
-  {
     "Site_ID":61401973,
     "Fuel_ID":3,
     "TransactionDate":"2026-07-30T07:05:16+10:00",
@@ -682,8 +672,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-29T07:35:08+10:00",
-    "Price":2.295,
+    "TransactionDate":"2026-08-02T07:25:10+10:00",
+    "Price":2.315,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -832,8 +822,8 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-30T07:10:54+10:00",
-    "Price":2.409,
+    "TransactionDate":"2026-08-02T08:31:22+10:00",
+    "Price":2.439,
     "Name":"Ampol Port Douglas",
     "Address":"13 Warner St",
     "Postcode":"4871",
@@ -862,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-01T20:40:18+10:00",
+    "TransactionDate":"2026-08-02T09:55:17+10:00",
     "Price":2.389,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -902,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-01T20:40:18+10:00",
+    "TransactionDate":"2026-08-02T09:55:17+10:00",
     "Price":2.389,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -932,8 +922,8 @@
   {
     "Site_ID":61477674,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-30T08:01:37+10:00",
-    "Price":2.315,
+    "TransactionDate":"2026-08-02T08:36:59+10:00",
+    "Price":2.355,
     "Name":"Edge Hill Servo",
     "Address":"134 Collins Ave",
     "Postcode":"4870",
@@ -962,8 +952,8 @@
   {
     "Site_ID":61477727,
     "Fuel_ID":3,
-    "TransactionDate":"2026-07-30T07:22:27+10:00",
-    "Price":2.315,
+    "TransactionDate":"2026-08-02T09:56:15+10:00",
+    "Price":2.355,
     "Name":"Machans Beach Store and Post Office",
     "Address":"27 Machans Street",
     "Postcode":"4878",
@@ -1202,8 +1192,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-01T07:10:08+10:00",
-    "Price":2.055,
+    "TransactionDate":"2026-08-02T07:25:10+10:00",
+    "Price":2.075,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1332,7 +1322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-01T20:40:18+10:00",
+    "TransactionDate":"2026-08-02T09:55:17+10:00",
     "Price":2.189,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1352,7 +1342,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-01T20:40:18+10:00",
+    "TransactionDate":"2026-08-02T09:55:17+10:00",
     "Price":2.169,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1510,16 +1500,6 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61478305,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-08-01T09:44:00+10:00",
-    "Price":2.069,
-    "Name":"7-Eleven Woree",
-    "Address":"716 Des Chalmers Dr",
-    "Postcode":"4868",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
     "Site_ID":61401973,
     "Fuel_ID":8,
     "TransactionDate":"2026-07-30T07:05:16+10:00",
@@ -1582,8 +1562,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-01T07:10:08+10:00",
-    "Price":2.145,
+    "TransactionDate":"2026-08-02T07:25:10+10:00",
+    "Price":2.165,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1702,7 +1682,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-01T20:40:18+10:00",
+    "TransactionDate":"2026-08-02T09:55:17+10:00",
     "Price":2.279,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1742,7 +1722,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-01T20:40:18+10:00",
+    "TransactionDate":"2026-08-02T09:55:17+10:00",
     "Price":2.259,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1820,16 +1800,6 @@
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
-    "Site_ID":61478305,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-08-01T09:44:00+10:00",
-    "Price":2.159,
-    "Name":"7-Eleven Woree",
-    "Address":"716 Des Chalmers Dr",
-    "Postcode":"4868",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
     "Site_ID":61402073,
     "Fuel_ID":12,
     "TransactionDate":"2026-07-27T10:37:17+10:00",
@@ -1902,8 +1872,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-01T07:10:08+10:00",
-    "Price":1.895,
+    "TransactionDate":"2026-08-02T07:25:10+10:00",
+    "Price":1.915,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -2040,16 +2010,6 @@
     "Fuel_Name":"e10"
   },
   {
-    "Site_ID":61478205,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-08-01T09:15:42+10:00",
-    "Price":1.989,
-    "Name":"7-Eleven North Cairns",
-    "Address":"334-336 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"e10"
-  },
-  {
     "Site_ID":61478305,
     "Fuel_ID":12,
     "TransactionDate":"2026-08-01T09:44:00+10:00",
@@ -2180,16 +2140,6 @@
     "Fuel_Name":"Premium Diesel"
   },
   {
-    "Site_ID":61477860,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-08-01T09:16:19+10:00",
-    "Price":2.369,
-    "Name":"7-Eleven Westcourt",
-    "Address":"246-250 Mulgrave Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
     "Site_ID":61478243,
     "Fuel_ID":14,
     "TransactionDate":"2026-08-01T15:50:07+10:00",
@@ -2197,16 +2147,6 @@
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
-    "Site_ID":61478305,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-08-01T09:44:00+10:00",
-    "Price":2.279,
-    "Name":"7-Eleven Woree",
-    "Address":"716 Des Chalmers Dr",
-    "Postcode":"4868",
     "Fuel_Name":"Premium Diesel"
   }
 ]
