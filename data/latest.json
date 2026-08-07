@@ -62,8 +62,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-07T05:58:48+10:00",
-    "Price":2.115,
+    "TransactionDate":"2026-08-08T07:15:03+10:00",
+    "Price":2.125,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -182,8 +182,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-07T06:01:28+10:00",
-    "Price":2.115,
+    "TransactionDate":"2026-08-08T07:11:25+10:00",
+    "Price":2.125,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -232,8 +232,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-07T04:31:49+10:00",
-    "Price":2.115,
+    "TransactionDate":"2026-08-08T07:16:32+10:00",
+    "Price":2.125,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -272,8 +272,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-07T06:06:39+10:00",
-    "Price":2.115,
+    "TransactionDate":"2026-08-08T07:40:53+10:00",
+    "Price":2.125,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-07T19:55:18+10:00",
+    "TransactionDate":"2026-08-08T09:25:17+10:00",
     "Price":2.159,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-07T19:55:18+10:00",
+    "TransactionDate":"2026-08-08T09:25:17+10:00",
     "Price":2.119,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -762,7 +762,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-07T04:31:49+10:00",
+    "TransactionDate":"2026-08-08T07:16:32+10:00",
     "Price":2.495,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-07T19:55:18+10:00",
+    "TransactionDate":"2026-08-08T09:25:17+10:00",
     "Price":2.529,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-07T19:55:18+10:00",
+    "TransactionDate":"2026-08-08T09:25:17+10:00",
     "Price":2.539,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1152,8 +1152,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-07T05:58:48+10:00",
-    "Price":2.215,
+    "TransactionDate":"2026-08-08T07:15:03+10:00",
+    "Price":2.225,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -1212,8 +1212,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-07T06:01:28+10:00",
-    "Price":2.215,
+    "TransactionDate":"2026-08-08T07:11:25+10:00",
+    "Price":2.225,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -1242,8 +1242,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-07T04:31:49+10:00",
-    "Price":2.215,
+    "TransactionDate":"2026-08-08T07:16:32+10:00",
+    "Price":2.225,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-07T19:55:18+10:00",
+    "TransactionDate":"2026-08-08T09:25:17+10:00",
     "Price":2.339,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1342,7 +1342,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-07T19:55:18+10:00",
+    "TransactionDate":"2026-08-08T09:25:17+10:00",
     "Price":2.289,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1662,8 +1662,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-07T06:06:39+10:00",
-    "Price":2.315,
+    "TransactionDate":"2026-08-08T07:40:53+10:00",
+    "Price":2.325,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-07T19:55:18+10:00",
+    "TransactionDate":"2026-08-08T09:25:17+10:00",
     "Price":2.429,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1732,7 +1732,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-07T19:55:18+10:00",
+    "TransactionDate":"2026-08-08T09:25:17+10:00",
     "Price":2.379,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1822,8 +1822,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-07T05:58:48+10:00",
-    "Price":2.095,
+    "TransactionDate":"2026-08-08T07:15:03+10:00",
+    "Price":2.105,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -1952,8 +1952,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-07T04:31:49+10:00",
-    "Price":2.095,
+    "TransactionDate":"2026-08-08T07:16:32+10:00",
+    "Price":2.105,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1962,8 +1962,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-07T06:06:39+10:00",
-    "Price":2.095,
+    "TransactionDate":"2026-08-08T07:40:53+10:00",
+    "Price":2.105,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -2007,6 +2007,16 @@
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
     "Postcode":"4869",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61477860,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-08-08T08:51:31+10:00",
+    "Price":9.999,
+    "Name":"7-Eleven Westcourt",
+    "Address":"246-250 Mulgrave Rd",
+    "Postcode":"4870",
     "Fuel_Name":"e10"
   },
   {
