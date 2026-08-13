@@ -12,8 +12,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-12T19:10:25+10:00",
-    "Price":2.079,
+    "TransactionDate":"2026-08-13T21:04:38+10:00",
+    "Price":2.029,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -82,8 +82,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-13T08:06:51+10:00",
-    "Price":2.079,
+    "TransactionDate":"2026-08-14T08:08:55+10:00",
+    "Price":2.029,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -112,8 +112,8 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-12T20:30:40+10:00",
-    "Price":2.059,
+    "TransactionDate":"2026-08-14T00:09:52+10:00",
+    "Price":1.999,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
     "Postcode":"4871",
@@ -182,8 +182,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-13T06:41:18+10:00",
-    "Price":1.996,
+    "TransactionDate":"2026-08-14T06:32:00+10:00",
+    "Price":1.995,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -222,7 +222,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-12T14:55:21+10:00",
+    "TransactionDate":"2026-08-14T08:55:45+10:00",
     "Price":1.975,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -232,8 +232,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-12T07:10:56+10:00",
-    "Price":2.075,
+    "TransactionDate":"2026-08-14T06:47:44+10:00",
+    "Price":2.055,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -262,8 +262,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-12T14:12:39+10:00",
-    "Price":2.055,
+    "TransactionDate":"2026-08-14T06:54:57+10:00",
+    "Price":1.995,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -272,7 +272,7 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-13T06:51:46+10:00",
+    "TransactionDate":"2026-08-14T06:44:51+10:00",
     "Price":1.995,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
@@ -292,8 +292,8 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-12T16:54:58+10:00",
-    "Price":2.119,
+    "TransactionDate":"2026-08-14T07:19:43+10:00",
+    "Price":2.047,
     "Name":"Ampol Port Douglas",
     "Address":"13 Warner St",
     "Postcode":"4871",
@@ -322,8 +322,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-13T20:10:18+10:00",
-    "Price":2.029,
+    "TransactionDate":"2026-08-14T09:40:18+10:00",
+    "Price":1.999,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -342,7 +342,7 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-12T15:00:26+10:00",
+    "TransactionDate":"2026-08-14T09:15:46+10:00",
     "Price":1.975,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-13T20:10:18+10:00",
+    "TransactionDate":"2026-08-14T09:40:18+10:00",
     "Price":2.079,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -397,6 +397,16 @@
     "Name":"Marano\u2019s Fuel Wonga",
     "Address":"3 Oleander Drive",
     "Postcode":"4873",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477674,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-08-14T09:37:28+10:00",
+    "Price":1.975,
+    "Name":"Edge Hill Servo",
+    "Address":"134 Collins Ave",
+    "Postcode":"4870",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -552,8 +562,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T07:50:13+10:00",
-    "Price":2.395,
+    "TransactionDate":"2026-08-14T07:30:10+10:00",
+    "Price":2.385,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -602,8 +612,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T06:56:47+10:00",
-    "Price":2.395,
+    "TransactionDate":"2026-08-14T07:30:45+10:00",
+    "Price":2.385,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -612,8 +622,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-12T09:21:22+10:00",
-    "Price":2.379,
+    "TransactionDate":"2026-08-14T09:47:57+10:00",
+    "Price":2.399,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -632,8 +642,8 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-12T20:30:40+10:00",
-    "Price":2.459,
+    "TransactionDate":"2026-08-14T00:09:52+10:00",
+    "Price":2.399,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
     "Postcode":"4871",
@@ -662,8 +672,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-11T18:25:11+10:00",
-    "Price":2.395,
+    "TransactionDate":"2026-08-14T08:25:11+10:00",
+    "Price":2.385,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -682,8 +692,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T07:20:07+10:00",
-    "Price":2.395,
+    "TransactionDate":"2026-08-14T07:40:10+10:00",
+    "Price":2.385,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -702,8 +712,8 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T06:41:18+10:00",
-    "Price":2.395,
+    "TransactionDate":"2026-08-14T06:32:00+10:00",
+    "Price":2.385,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
     "Postcode":"4869",
@@ -742,8 +752,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-12T14:55:24+10:00",
-    "Price":2.385,
+    "TransactionDate":"2026-08-14T08:55:48+10:00",
+    "Price":2.375,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -752,8 +762,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-12T07:10:56+10:00",
-    "Price":2.445,
+    "TransactionDate":"2026-08-14T06:47:44+10:00",
+    "Price":2.425,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -782,8 +792,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-12T14:12:39+10:00",
-    "Price":2.445,
+    "TransactionDate":"2026-08-14T06:54:57+10:00",
+    "Price":2.395,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -792,8 +802,8 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T06:51:46+10:00",
-    "Price":2.395,
+    "TransactionDate":"2026-08-14T06:44:51+10:00",
+    "Price":2.385,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
@@ -812,7 +822,7 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-12T16:54:58+10:00",
+    "TransactionDate":"2026-08-14T07:19:43+10:00",
     "Price":2.519,
     "Name":"Ampol Port Douglas",
     "Address":"13 Warner St",
@@ -842,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T20:10:18+10:00",
+    "TransactionDate":"2026-08-14T09:40:18+10:00",
     "Price":2.429,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,8 +872,8 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-12T15:00:42+10:00",
-    "Price":2.385,
+    "TransactionDate":"2026-08-14T09:15:48+10:00",
+    "Price":2.375,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
     "Postcode":"4870",
@@ -882,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T20:10:18+10:00",
+    "TransactionDate":"2026-08-14T09:40:18+10:00",
     "Price":2.469,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -907,6 +917,16 @@
     "Name":"Marano\u2019s Fuel Wonga",
     "Address":"3 Oleander Drive",
     "Postcode":"4873",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477674,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-08-14T09:37:28+10:00",
+    "Price":2.395,
+    "Name":"Edge Hill Servo",
+    "Address":"134 Collins Ave",
+    "Postcode":"4870",
     "Fuel_Name":"Diesel"
   },
   {
@@ -962,8 +982,8 @@
   {
     "Site_ID":61477805,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T06:44:39+10:00",
-    "Price":2.395,
+    "TransactionDate":"2026-08-14T09:15:34+10:00",
+    "Price":2.385,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
     "Postcode":"4869",
@@ -1072,7 +1092,7 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":4,
-    "TransactionDate":"2026-08-13T06:51:46+10:00",
+    "TransactionDate":"2026-08-14T06:44:51+10:00",
     "Price":1.549,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
@@ -1082,8 +1102,8 @@
   {
     "Site_ID":61401991,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-11T18:48:36+10:00",
-    "Price":2.209,
+    "TransactionDate":"2026-08-13T21:04:38+10:00",
+    "Price":2.129,
     "Name":"BP Edmonton",
     "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
@@ -1192,7 +1212,7 @@
   {
     "Site_ID":61451561,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-13T06:41:18+10:00",
+    "TransactionDate":"2026-08-14T06:32:00+10:00",
     "Price":2.095,
     "Name":"Mobil Edmonton",
     "Address":"75 Bruce Hwy",
@@ -1222,8 +1242,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-12T07:10:56+10:00",
-    "Price":2.175,
+    "TransactionDate":"2026-08-14T06:47:44+10:00",
+    "Price":2.155,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1252,8 +1272,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-12T14:12:39+10:00",
-    "Price":2.155,
+    "TransactionDate":"2026-08-14T06:54:57+10:00",
+    "Price":2.095,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -1272,8 +1292,8 @@
   {
     "Site_ID":61470145,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-12T16:54:58+10:00",
-    "Price":2.269,
+    "TransactionDate":"2026-08-14T07:19:43+10:00",
+    "Price":2.207,
     "Name":"Ampol Port Douglas",
     "Address":"13 Warner St",
     "Postcode":"4871",
@@ -1302,8 +1322,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-13T20:10:18+10:00",
-    "Price":2.209,
+    "TransactionDate":"2026-08-14T09:40:18+10:00",
+    "Price":2.179,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1322,7 +1342,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-13T20:10:18+10:00",
+    "TransactionDate":"2026-08-14T09:40:18+10:00",
     "Price":2.249,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1337,6 +1357,16 @@
     "Name":"Marano\u2019s Fuel Wonga",
     "Address":"3 Oleander Drive",
     "Postcode":"4873",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61477674,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-08-14T09:37:28+10:00",
+    "Price":2.125,
+    "Name":"Edge Hill Servo",
+    "Address":"134 Collins Ave",
+    "Postcode":"4870",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
@@ -1522,8 +1552,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-13T08:06:51+10:00",
-    "Price":2.329,
+    "TransactionDate":"2026-08-14T08:08:55+10:00",
+    "Price":2.279,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -1602,7 +1632,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-12T14:55:22+10:00",
+    "TransactionDate":"2026-08-14T08:55:46+10:00",
     "Price":2.205,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -1632,7 +1662,7 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-13T06:51:46+10:00",
+    "TransactionDate":"2026-08-14T06:44:51+10:00",
     "Price":2.195,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
@@ -1662,8 +1692,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-13T20:10:18+10:00",
-    "Price":2.299,
+    "TransactionDate":"2026-08-14T09:40:18+10:00",
+    "Price":2.269,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1682,7 +1712,7 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-12T15:00:29+10:00",
+    "TransactionDate":"2026-08-14T09:15:47+10:00",
     "Price":2.205,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
@@ -1702,7 +1732,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-13T20:10:18+10:00",
+    "TransactionDate":"2026-08-14T09:40:18+10:00",
     "Price":2.339,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1812,8 +1842,8 @@
   {
     "Site_ID":61402394,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-13T08:06:51+10:00",
-    "Price":2.059,
+    "TransactionDate":"2026-08-14T08:08:55+10:00",
+    "Price":2.009,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
@@ -1832,8 +1862,8 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-12T20:30:40+10:00",
-    "Price":2.099,
+    "TransactionDate":"2026-08-14T00:09:52+10:00",
+    "Price":2.049,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
     "Postcode":"4871",
@@ -1912,7 +1942,7 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-12T14:55:22+10:00",
+    "TransactionDate":"2026-08-14T08:55:47+10:00",
     "Price":1.935,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
@@ -1922,8 +1952,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-12T07:10:56+10:00",
-    "Price":2.055,
+    "TransactionDate":"2026-08-14T06:47:44+10:00",
+    "Price":2.035,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -1932,7 +1962,7 @@
   {
     "Site_ID":61470086,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-13T06:51:46+10:00",
+    "TransactionDate":"2026-08-14T06:44:51+10:00",
     "Price":1.975,
     "Name":"Mobil on Spence",
     "Address":"142A-146 Spence Street",
@@ -1942,7 +1972,7 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-12T15:00:35+10:00",
+    "TransactionDate":"2026-08-14T09:15:47+10:00",
     "Price":1.935,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
@@ -2022,8 +2052,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2026-08-12T09:21:22+10:00",
-    "Price":2.409,
+    "TransactionDate":"2026-08-14T09:47:57+10:00",
+    "Price":2.429,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2062,8 +2092,8 @@
   {
     "Site_ID":61451666,
     "Fuel_ID":14,
-    "TransactionDate":"2026-08-12T14:55:26+10:00",
-    "Price":2.415,
+    "TransactionDate":"2026-08-14T08:55:48+10:00",
+    "Price":2.405,
     "Name":"Liberty Woree",
     "Address":"540 Mulgrave Road",
     "Postcode":"4868",
@@ -2082,8 +2112,8 @@
   {
     "Site_ID":61477011,
     "Fuel_ID":14,
-    "TransactionDate":"2026-08-12T15:00:44+10:00",
-    "Price":2.415,
+    "TransactionDate":"2026-08-14T09:15:49+10:00",
+    "Price":2.405,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
     "Postcode":"4870",
@@ -2092,8 +2122,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":14,
-    "TransactionDate":"2026-08-12T08:32:17+10:00",
-    "Price":2.409,
+    "TransactionDate":"2026-08-14T07:22:17+10:00",
+    "Price":2.399,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
