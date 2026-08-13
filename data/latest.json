@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-13T15:40:18+10:00",
+    "TransactionDate":"2026-08-13T20:10:18+10:00",
     "Price":2.029,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-13T15:40:18+10:00",
+    "TransactionDate":"2026-08-13T20:10:18+10:00",
     "Price":2.079,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -402,8 +402,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-13T11:30:29+10:00",
-    "Price":2.049,
+    "TransactionDate":"2026-08-13T17:15:30+10:00",
+    "Price":2.029,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -712,8 +712,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-12T11:00:35+10:00",
-    "Price":2.439,
+    "TransactionDate":"2026-08-13T17:45:27+10:00",
+    "Price":2.389,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -842,7 +842,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T15:40:18+10:00",
+    "TransactionDate":"2026-08-13T20:10:18+10:00",
     "Price":2.429,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T15:40:18+10:00",
+    "TransactionDate":"2026-08-13T20:10:18+10:00",
     "Price":2.469,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-13T15:40:18+10:00",
+    "TransactionDate":"2026-08-13T20:10:18+10:00",
     "Price":2.209,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-13T15:40:18+10:00",
+    "TransactionDate":"2026-08-13T20:10:18+10:00",
     "Price":2.249,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1342,8 +1342,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-13T11:30:29+10:00",
-    "Price":2.224,
+    "TransactionDate":"2026-08-13T17:15:30+10:00",
+    "Price":2.204,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1662,7 +1662,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-13T15:40:18+10:00",
+    "TransactionDate":"2026-08-13T20:10:18+10:00",
     "Price":2.299,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-13T15:40:18+10:00",
+    "TransactionDate":"2026-08-13T20:10:18+10:00",
     "Price":2.339,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1722,8 +1722,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-13T11:30:29+10:00",
-    "Price":2.319,
+    "TransactionDate":"2026-08-13T17:15:30+10:00",
+    "Price":2.299,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1962,8 +1962,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-13T11:30:29+10:00",
-    "Price":2.029,
+    "TransactionDate":"2026-08-13T17:15:30+10:00",
+    "Price":2.009,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
