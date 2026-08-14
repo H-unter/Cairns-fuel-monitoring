@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-14T15:40:18+10:00",
+    "TransactionDate":"2026-08-14T20:10:19+10:00",
     "Price":1.999,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-14T15:40:18+10:00",
+    "TransactionDate":"2026-08-14T20:10:19+10:00",
     "Price":2.079,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -552,8 +552,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-13T13:35:08+10:00",
-    "Price":2.08,
+    "TransactionDate":"2026-08-14T15:55:03+10:00",
+    "Price":2.103,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-14T15:40:18+10:00",
+    "TransactionDate":"2026-08-14T20:10:19+10:00",
     "Price":2.449,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-14T15:40:18+10:00",
+    "TransactionDate":"2026-08-14T20:10:19+10:00",
     "Price":2.469,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1072,8 +1072,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T13:35:08+10:00",
-    "Price":2.482,
+    "TransactionDate":"2026-08-14T15:55:03+10:00",
+    "Price":2.519,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-14T15:40:18+10:00",
+    "TransactionDate":"2026-08-14T20:10:19+10:00",
     "Price":2.179,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1342,7 +1342,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-14T15:40:18+10:00",
+    "TransactionDate":"2026-08-14T20:10:19+10:00",
     "Price":2.249,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-14T15:40:18+10:00",
+    "TransactionDate":"2026-08-14T20:10:19+10:00",
     "Price":2.269,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1732,7 +1732,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-14T15:40:18+10:00",
+    "TransactionDate":"2026-08-14T20:10:19+10:00",
     "Price":2.339,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1802,8 +1802,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-13T13:35:08+10:00",
-    "Price":2.324,
+    "TransactionDate":"2026-08-14T15:55:03+10:00",
+    "Price":2.347,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -2142,8 +2142,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":14,
-    "TransactionDate":"2026-08-13T13:35:08+10:00",
-    "Price":2.493,
+    "TransactionDate":"2026-08-14T15:55:03+10:00",
+    "Price":2.53,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
