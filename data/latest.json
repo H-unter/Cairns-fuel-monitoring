@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-15T09:25:17+10:00",
+    "TransactionDate":"2026-08-15T14:25:18+10:00",
     "Price":1.999,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,8 +362,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-12T10:12:58+10:00",
-    "Price":1.969,
+    "TransactionDate":"2026-08-15T09:40:52+10:00",
+    "Price":1.985,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -372,8 +372,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-15T09:25:17+10:00",
-    "Price":2.079,
+    "TransactionDate":"2026-08-15T14:25:18+10:00",
+    "Price":2.099,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -852,8 +852,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-15T09:25:17+10:00",
-    "Price":2.449,
+    "TransactionDate":"2026-08-15T14:25:18+10:00",
+    "Price":2.469,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-12T18:00:51+10:00",
+    "TransactionDate":"2026-08-15T09:40:52+10:00",
     "Price":2.375,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -892,8 +892,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-15T09:25:17+10:00",
-    "Price":2.469,
+    "TransactionDate":"2026-08-15T14:25:18+10:00",
+    "Price":2.489,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-15T09:25:17+10:00",
+    "TransactionDate":"2026-08-15T14:25:18+10:00",
     "Price":2.179,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1332,8 +1332,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-12T10:12:58+10:00",
-    "Price":2.089,
+    "TransactionDate":"2026-08-15T09:40:52+10:00",
+    "Price":2.095,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -1342,8 +1342,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-15T09:25:17+10:00",
-    "Price":2.249,
+    "TransactionDate":"2026-08-15T14:25:18+10:00",
+    "Price":2.269,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-15T09:25:17+10:00",
+    "TransactionDate":"2026-08-15T14:25:18+10:00",
     "Price":2.269,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1732,8 +1732,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-15T09:25:17+10:00",
-    "Price":2.339,
+    "TransactionDate":"2026-08-15T14:25:18+10:00",
+    "Price":2.359,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
