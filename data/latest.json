@@ -72,8 +72,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-18T13:17:42+10:00",
-    "Price":2.099,
+    "TransactionDate":"2026-08-20T14:22:21+10:00",
+    "Price":2.139,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-20T09:25:17+10:00",
+    "TransactionDate":"2026-08-20T14:40:18+10:00",
     "Price":2.039,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-20T09:25:17+10:00",
+    "TransactionDate":"2026-08-20T14:40:18+10:00",
     "Price":2.119,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -512,8 +512,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":2,
-    "TransactionDate":"2026-08-18T11:09:03+10:00",
-    "Price":2.129,
+    "TransactionDate":"2026-08-20T12:18:30+10:00",
+    "Price":2.139,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
@@ -632,8 +632,8 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-13T06:37:48+10:00",
-    "Price":2.36,
+    "TransactionDate":"2026-08-20T10:45:39+10:00",
+    "Price":2.38,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
     "Postcode":"4861",
@@ -812,8 +812,8 @@
   {
     "Site_ID":61470115,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-07T10:28:34+10:00",
-    "Price":2.609,
+    "TransactionDate":"2026-08-20T14:04:09+10:00",
+    "Price":2.659,
     "Name":"Thorpe Earthmoving",
     "Address":"14 Perkins Street",
     "Postcode":"4887",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-20T09:25:17+10:00",
+    "TransactionDate":"2026-08-20T14:40:18+10:00",
     "Price":2.499,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-20T09:25:17+10:00",
+    "TransactionDate":"2026-08-20T14:40:18+10:00",
     "Price":2.519,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1032,7 +1032,7 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-18T11:09:03+10:00",
+    "TransactionDate":"2026-08-20T12:18:30+10:00",
     "Price":2.579,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
@@ -1042,8 +1042,8 @@
   {
     "Site_ID":61477839,
     "Fuel_ID":3,
-    "TransactionDate":"2026-08-07T10:28:34+10:00",
-    "Price":2.609,
+    "TransactionDate":"2026-08-20T14:04:09+10:00",
+    "Price":2.659,
     "Name":"Wondecla Service Station",
     "Address":"1190 Longlands Gap Rd",
     "Postcode":"4887",
@@ -1322,7 +1322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-20T09:25:17+10:00",
+    "TransactionDate":"2026-08-20T14:40:18+10:00",
     "Price":2.219,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1342,7 +1342,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-08-20T09:25:17+10:00",
+    "TransactionDate":"2026-08-20T14:40:18+10:00",
     "Price":2.289,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1542,8 +1542,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-18T13:17:42+10:00",
-    "Price":2.349,
+    "TransactionDate":"2026-08-20T14:22:21+10:00",
+    "Price":2.389,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-20T09:25:17+10:00",
+    "TransactionDate":"2026-08-20T14:40:18+10:00",
     "Price":2.309,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1732,7 +1732,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-20T09:25:17+10:00",
+    "TransactionDate":"2026-08-20T14:40:18+10:00",
     "Price":2.379,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1772,8 +1772,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":8,
-    "TransactionDate":"2026-08-18T11:09:03+10:00",
-    "Price":2.419,
+    "TransactionDate":"2026-08-20T12:18:30+10:00",
+    "Price":2.429,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
@@ -1832,8 +1832,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":12,
-    "TransactionDate":"2026-08-18T13:17:42+10:00",
-    "Price":2.079,
+    "TransactionDate":"2026-08-20T14:22:21+10:00",
+    "Price":2.119,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -2062,8 +2062,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":14,
-    "TransactionDate":"2026-08-19T13:35:59+10:00",
-    "Price":2.529,
+    "TransactionDate":"2026-08-20T14:22:21+10:00",
+    "Price":2.569,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -2132,7 +2132,7 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":14,
-    "TransactionDate":"2026-08-18T11:09:03+10:00",
+    "TransactionDate":"2026-08-20T12:18:30+10:00",
     "Price":2.639,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
