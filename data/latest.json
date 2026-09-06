@@ -52,8 +52,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-03T10:12:17+10:00",
-    "Price":2.029,
+    "TransactionDate":"2026-09-06T10:57:17+10:00",
+    "Price":2.039,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-06T10:40:18+10:00",
+    "TransactionDate":"2026-09-06T18:25:18+10:00",
     "Price":2.069,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-06T10:40:18+10:00",
+    "TransactionDate":"2026-09-06T18:25:18+10:00",
     "Price":2.099,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -502,8 +502,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-01T10:36:33+10:00",
-    "Price":2.109,
+    "TransactionDate":"2026-09-06T16:24:47+10:00",
+    "Price":2.129,
     "Name":"Raintrees Cafe and Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -612,8 +612,8 @@
   {
     "Site_ID":61402272,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-05T08:10:53+10:00",
-    "Price":2.515,
+    "TransactionDate":"2026-09-06T12:13:58+10:00",
+    "Price":9.999,
     "Name":"Mobil Brinsmead",
     "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-06T10:40:18+10:00",
+    "TransactionDate":"2026-09-06T18:25:18+10:00",
     "Price":2.529,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-06T10:40:18+10:00",
+    "TransactionDate":"2026-09-06T18:25:18+10:00",
     "Price":2.579,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1022,8 +1022,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-01T10:36:33+10:00",
-    "Price":2.579,
+    "TransactionDate":"2026-09-06T16:24:47+10:00",
+    "Price":2.599,
     "Name":"Raintrees Cafe and Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -1132,8 +1132,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-03T10:12:17+10:00",
-    "Price":2.199,
+    "TransactionDate":"2026-09-06T10:57:17+10:00",
+    "Price":2.209,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-06T10:40:18+10:00",
+    "TransactionDate":"2026-09-06T18:25:18+10:00",
     "Price":2.249,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-06T10:40:18+10:00",
+    "TransactionDate":"2026-09-06T18:25:18+10:00",
     "Price":2.269,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1452,8 +1452,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-01T10:36:33+10:00",
-    "Price":2.259,
+    "TransactionDate":"2026-09-06T16:24:47+10:00",
+    "Price":2.279,
     "Name":"Raintrees Cafe and Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -1682,7 +1682,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-06T10:40:18+10:00",
+    "TransactionDate":"2026-09-06T18:25:18+10:00",
     "Price":2.339,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1722,7 +1722,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-06T10:40:18+10:00",
+    "TransactionDate":"2026-09-06T18:25:18+10:00",
     "Price":2.359,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1812,8 +1812,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":12,
-    "TransactionDate":"2026-09-03T10:17:15+10:00",
-    "Price":2.029,
+    "TransactionDate":"2026-09-06T10:57:17+10:00",
+    "Price":2.039,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
