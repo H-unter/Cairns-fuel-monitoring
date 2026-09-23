@@ -72,8 +72,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-22T13:32:47+10:00",
-    "Price":2.469,
+    "TransactionDate":"2026-09-23T12:15:36+10:00",
+    "Price":2.479,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -122,8 +122,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T07:25:26+10:00",
-    "Price":2.319,
+    "TransactionDate":"2026-09-23T11:45:07+10:00",
+    "Price":2.349,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -174,7 +174,7 @@
     "Fuel_ID":2,
     "TransactionDate":"2026-09-21T10:14:47+10:00",
     "Price":9.999,
-    "Name":"Shell Reddy Express Edmonton",
+    "Name":"Shell Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
     "Postcode":"4869",
     "Fuel_Name":"Unleaded"
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T11:10:20+10:00",
+    "TransactionDate":"2026-09-23T19:10:19+10:00",
     "Price":2.379,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T11:10:20+10:00",
+    "TransactionDate":"2026-09-23T19:10:19+10:00",
     "Price":2.349,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -652,8 +652,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-22T13:45:12+10:00",
-    "Price":2.789,
+    "TransactionDate":"2026-09-23T11:45:07+10:00",
+    "Price":2.829,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -704,7 +704,7 @@
     "Fuel_ID":3,
     "TransactionDate":"2026-09-14T10:00:44+10:00",
     "Price":9.999,
-    "Name":"Shell Reddy Express Edmonton",
+    "Name":"Shell Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
     "Postcode":"4869",
     "Fuel_Name":"Diesel"
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-23T11:10:20+10:00",
+    "TransactionDate":"2026-09-23T19:10:19+10:00",
     "Price":2.879,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-23T11:10:20+10:00",
+    "TransactionDate":"2026-09-23T19:10:19+10:00",
     "Price":2.949,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1162,8 +1162,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T07:25:26+10:00",
-    "Price":2.459,
+    "TransactionDate":"2026-09-23T11:45:07+10:00",
+    "Price":2.489,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T11:10:20+10:00",
+    "TransactionDate":"2026-09-23T19:10:19+10:00",
     "Price":2.559,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T11:10:20+10:00",
+    "TransactionDate":"2026-09-23T19:10:19+10:00",
     "Price":2.519,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1532,8 +1532,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-22T13:32:47+10:00",
-    "Price":2.719,
+    "TransactionDate":"2026-09-23T12:15:36+10:00",
+    "Price":2.729,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -1682,7 +1682,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-23T11:10:20+10:00",
+    "TransactionDate":"2026-09-23T19:10:19+10:00",
     "Price":2.649,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1722,7 +1722,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-23T11:10:20+10:00",
+    "TransactionDate":"2026-09-23T19:10:19+10:00",
     "Price":2.609,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1832,8 +1832,8 @@
   {
     "Site_ID":61402393,
     "Fuel_ID":12,
-    "TransactionDate":"2026-09-22T13:32:47+10:00",
-    "Price":2.449,
+    "TransactionDate":"2026-09-23T12:15:36+10:00",
+    "Price":2.459,
     "Name":"Caltex Stratford",
     "Address":"45 Arnold St",
     "Postcode":"4870",
@@ -1872,8 +1872,8 @@
   {
     "Site_ID":61402769,
     "Fuel_ID":12,
-    "TransactionDate":"2026-09-23T07:25:26+10:00",
-    "Price":2.299,
+    "TransactionDate":"2026-09-23T11:45:07+10:00",
+    "Price":2.329,
     "Name":"United Koah",
     "Address":"2 Koah Rd",
     "Postcode":"4872",
@@ -1914,7 +1914,7 @@
     "Fuel_ID":12,
     "TransactionDate":"2026-09-14T10:00:44+10:00",
     "Price":9.999,
-    "Name":"Shell Reddy Express Edmonton",
+    "Name":"Shell Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
     "Postcode":"4869",
     "Fuel_Name":"e10"
