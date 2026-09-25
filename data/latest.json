@@ -1,22 +1,32 @@
 [
   {
-    "Site_ID":61401973,
+    "Site_ID":61470115,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T10:00:15+10:00",
-    "Price":2.375,
-    "Name":"United Gordonvale",
-    "Address":"68 Riverstone Road",
-    "Postcode":"4865",
+    "TransactionDate":"2026-09-18T13:35:55+10:00",
+    "Price":2.509,
+    "Name":"Thorpe Earthmoving",
+    "Address":"14 Perkins Street",
+    "Postcode":"4887",
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61401991,
+    "Site_ID":61477987,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T21:48:48+10:00",
-    "Price":2.389,
-    "Name":"BP Edmonton",
-    "Address":"3\/167 Bruce Hwy",
-    "Postcode":"4869",
+    "TransactionDate":"2026-09-19T07:49:19+10:00",
+    "Price":2.315,
+    "Name":"Mobil Sheridan Street",
+    "Address":"237-241 Sheridan Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477839,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-19T10:02:36+10:00",
+    "Price":2.509,
+    "Name":"Wondecla Service Station",
+    "Address":"1190 Longlands Gap Rd",
+    "Postcode":"4887",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -26,6 +36,36 @@
     "Price":2.439,
     "Name":"Ampol Mossman",
     "Address":"67 Alchera",
+    "Postcode":"4873",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477819,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T08:07:09+10:00",
+    "Price":2.439,
+    "Name":"Port Douglas Service Station",
+    "Address":" Port Street",
+    "Postcode":"4871",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61478023,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T08:17:14+10:00",
+    "Price":2.389,
+    "Name":"Marano\u2019s Fuel Edmonton",
+    "Address":"69-70 Thomson Road",
+    "Postcode":"4869",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477814,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T08:22:20+10:00",
+    "Price":2.439,
+    "Name":"Miallo Fuel Station",
+    "Address":"735 Daintree Road",
     "Postcode":"4873",
     "Fuel_Name":"Unleaded"
   },
@@ -40,43 +80,43 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61402067,
+    "Site_ID":61451728,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-24T08:04:42+10:00",
-    "Price":2.299,
-    "Name":"Caltex Woree",
-    "Address":"590 Mulgrave Rd",
+    "TransactionDate":"2026-09-21T08:37:19+10:00",
+    "Price":2.389,
+    "Name":"Shell Cairns",
+    "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477816,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T09:02:35+10:00",
+    "Price":2.439,
+    "Name":"Roadhouse Service Station",
+    "Address":"129 Alchera Drive",
+    "Postcode":"4873",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477106,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T09:16:46+10:00",
+    "Price":2.439,
+    "Name":"Marano\u2019s Fuel Wonga",
+    "Address":"3 Oleander Drive",
+    "Postcode":"4873",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477726,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T09:21:06+10:00",
+    "Price":2.369,
+    "Name":"White Rock General Store",
+    "Address":"150 Progress Road",
     "Postcode":"4868",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61402073,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T09:27:19+10:00",
-    "Price":2.309,
-    "Name":"Ampol Foodary Cairns Sheridan St",
-    "Address":"131 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61402272,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T07:04:23+10:00",
-    "Price":2.375,
-    "Name":"Mobil Brinsmead",
-    "Address":"101-115 Brinsmead Road",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61402393,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T12:15:36+10:00",
-    "Price":2.479,
-    "Name":"Caltex Stratford",
-    "Address":"45 Arnold St",
-    "Postcode":"4870",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -86,6 +126,66 @@
     "Price":2.389,
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
+    "Postcode":"4869",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477822,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T10:09:39+10:00",
+    "Price":2.439,
+    "Name":"Raintrees Cafe and Servo",
+    "Address":"2 Foxton Avenue",
+    "Postcode":"4873",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61402891,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T10:14:47+10:00",
+    "Price":9.999,
+    "Name":"Shell Express Edmonton",
+    "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
+    "Postcode":"4869",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61402795,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T10:40:07+10:00",
+    "Price":2.399,
+    "Name":"BP Mossman",
+    "Address":"68 Pringle St",
+    "Postcode":"4873",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61470507,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T16:15:06+10:00",
+    "Price":2.335,
+    "Name":"NightOwl BP Manunda",
+    "Address":"56-62 Alfred Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61478243,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T16:35:04+10:00",
+    "Price":2.399,
+    "Name":"NightOwl BP Anderson Street",
+    "Address":"66-68 Anderson St",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61401991,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-21T21:48:48+10:00",
+    "Price":2.389,
+    "Name":"BP Edmonton",
+    "Address":"3\/167 Bruce Hwy",
     "Postcode":"4869",
     "Fuel_Name":"Unleaded"
   },
@@ -110,33 +210,13 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61402555,
+    "Site_ID":61402828,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T09:54:24+10:00",
-    "Price":2.399,
-    "Name":"Astron Twin Rivers",
-    "Address":"68929 Bruce Highway",
-    "Postcode":"4871",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61402769,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T11:45:07+10:00",
-    "Price":2.349,
-    "Name":"United Koah",
-    "Address":"2 Koah Rd",
-    "Postcode":"4872",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61402795,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T10:40:07+10:00",
-    "Price":2.399,
-    "Name":"BP Mossman",
-    "Address":"68 Pringle St",
-    "Postcode":"4873",
+    "TransactionDate":"2026-09-22T09:15:14+10:00",
+    "Price":2.275,
+    "Name":"United Woree",
+    "Address":"6 Southgate Close",
+    "Postcode":"4868",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -150,146 +230,6 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61402828,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-22T09:15:14+10:00",
-    "Price":2.275,
-    "Name":"United Woree",
-    "Address":"6 Southgate Close",
-    "Postcode":"4868",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61402869,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T10:10:13+10:00",
-    "Price":2.375,
-    "Name":"United Gordonvale Cairns Road",
-    "Address":"105-115 Cairns Road",
-    "Postcode":"4865",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61402891,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T10:14:47+10:00",
-    "Price":9.999,
-    "Name":"Shell Express Edmonton",
-    "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
-    "Postcode":"4869",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61451561,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T07:03:28+10:00",
-    "Price":2.385,
-    "Name":"Mobil Edmonton",
-    "Address":"75 Bruce Hwy",
-    "Postcode":"4869",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61451566,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-25T09:00:42+10:00",
-    "Price":2.439,
-    "Name":"Shell Reddy Express Reservoir (Qld)",
-    "Address":"58 Pease St",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61451567,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-25T09:20:20+10:00",
-    "Price":2.439,
-    "Name":"Shell Reddy Express Cairns Sheridan St",
-    "Address":"291-293 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61451572,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-25T09:00:42+10:00",
-    "Price":2.459,
-    "Name":"Shell Reddy Express Smithfield (Qld)",
-    "Address":"Lot 1 Captain Cook Hwy",
-    "Postcode":"4878",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61451666,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-22T10:35:49+10:00",
-    "Price":2.275,
-    "Name":"Liberty Woree",
-    "Address":"540 Mulgrave Road",
-    "Postcode":"4868",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61451722,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-24T06:17:28+10:00",
-    "Price":2.355,
-    "Name":"Mobil Yorkey's Knob",
-    "Address":"233 Yorkeys Knob Road",
-    "Postcode":"4878",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61451728,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T08:37:19+10:00",
-    "Price":2.389,
-    "Name":"Shell Cairns",
-    "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61451734,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-25T09:00:42+10:00",
-    "Price":2.519,
-    "Name":"Shell Reddy Express Port Douglas",
-    "Address":"10 Captain Cook Hwy",
-    "Postcode":"4877",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61470034,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T09:34:32+10:00",
-    "Price":2.375,
-    "Name":"Mobil Gordonvale",
-    "Address":"67 George St",
-    "Postcode":"4865",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61470086,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T07:17:08+10:00",
-    "Price":2.375,
-    "Name":"Mobil on Spence",
-    "Address":"142A-146 Spence Street",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61470115,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-18T13:35:55+10:00",
-    "Price":2.509,
-    "Name":"Thorpe Earthmoving",
-    "Address":"14 Perkins Street",
-    "Postcode":"4887",
-    "Fuel_Name":"Unleaded"
-  },
-  {
     "Site_ID":61470145,
     "Fuel_ID":2,
     "TransactionDate":"2026-09-22T09:56:43+10:00",
@@ -300,43 +240,13 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61470301,
+    "Site_ID":61477837,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-24T12:35:11+10:00",
-    "Price":2.399,
-    "Name":"NightOwl BP Clifton Beach",
-    "Address":"55-57 Endeavour Road",
-    "Postcode":"4879",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61470507,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T16:15:06+10:00",
-    "Price":2.335,
-    "Name":"NightOwl BP Manunda",
-    "Address":"56-62 Alfred Street",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61470573,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-25T11:10:18+10:00",
-    "Price":2.379,
-    "Name":"BP Earlville",
-    "Address":"395 Mulgrave Rd & Mccoombe Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61470699,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T11:15:09+10:00",
-    "Price":2.349,
-    "Name":"BP Kuranda",
-    "Address":"3 Rob Veivers Drive",
-    "Postcode":"4881",
+    "TransactionDate":"2026-09-22T10:19:10+10:00",
+    "Price":2.499,
+    "Name":"BP Port Douglas",
+    "Address":"5946 Davidson Street",
+    "Postcode":"4877",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -350,12 +260,172 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61477020,
+    "Site_ID":61451666,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T08:12:20+10:00",
-    "Price":2.459,
-    "Name":"Ampol Foodary Manunda",
-    "Address":"1 Hoare St & Gatton Rd",
+    "TransactionDate":"2026-09-22T10:35:49+10:00",
+    "Price":2.275,
+    "Name":"Liberty Woree",
+    "Address":"540 Mulgrave Road",
+    "Postcode":"4868",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61451561,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T07:03:28+10:00",
+    "Price":2.385,
+    "Name":"Mobil Edmonton",
+    "Address":"75 Bruce Hwy",
+    "Postcode":"4869",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61402272,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T07:04:23+10:00",
+    "Price":2.375,
+    "Name":"Mobil Brinsmead",
+    "Address":"101-115 Brinsmead Road",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61470086,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T07:17:08+10:00",
+    "Price":2.375,
+    "Name":"Mobil on Spence",
+    "Address":"142A-146 Spence Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477771,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T07:42:01+10:00",
+    "Price":2.409,
+    "Name":"Eacham Fuels",
+    "Address":"8 Pioneer Avenue",
+    "Postcode":"4885",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477727,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T08:47:08+10:00",
+    "Price":2.379,
+    "Name":"Machans Beach Store and Post Office",
+    "Address":"27 Machans Street",
+    "Postcode":"4878",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477805,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T09:14:34+10:00",
+    "Price":2.385,
+    "Name":"Mobil Edmonton Central",
+    "Address":"59-63 Hambleton Drive",
+    "Postcode":"4869",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61470034,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T09:34:32+10:00",
+    "Price":2.375,
+    "Name":"Mobil Gordonvale",
+    "Address":"67 George St",
+    "Postcode":"4865",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61401973,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T10:00:15+10:00",
+    "Price":2.375,
+    "Name":"United Gordonvale",
+    "Address":"68 Riverstone Road",
+    "Postcode":"4865",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61402869,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T10:10:13+10:00",
+    "Price":2.375,
+    "Name":"United Gordonvale Cairns Road",
+    "Address":"105-115 Cairns Road",
+    "Postcode":"4865",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61470699,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T11:15:09+10:00",
+    "Price":2.349,
+    "Name":"BP Kuranda",
+    "Address":"3 Rob Veivers Drive",
+    "Postcode":"4881",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477674,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T11:23:28+10:00",
+    "Price":2.379,
+    "Name":"Edge Hill Servo",
+    "Address":"134 Collins Ave",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61402769,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-23T11:45:07+10:00",
+    "Price":2.349,
+    "Name":"United Koah",
+    "Address":"2 Koah Rd",
+    "Postcode":"4872",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61451722,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-24T06:17:28+10:00",
+    "Price":2.355,
+    "Name":"Mobil Yorkey's Knob",
+    "Address":"233 Yorkeys Knob Road",
+    "Postcode":"4878",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61402067,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-24T08:04:42+10:00",
+    "Price":2.299,
+    "Name":"Caltex Woree",
+    "Address":"590 Mulgrave Rd",
+    "Postcode":"4868",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61470301,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-24T12:35:11+10:00",
+    "Price":2.399,
+    "Name":"NightOwl BP Clifton Beach",
+    "Address":"55-57 Endeavour Road",
+    "Postcode":"4879",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477804,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T06:34:56+10:00",
+    "Price":2.417,
+    "Name":"Stratford Driveway Discount Fuels",
+    "Address":"2-4 Rinks Close",
     "Postcode":"4870",
     "Fuel_Name":"Unleaded"
   },
@@ -370,9 +440,119 @@
     "Fuel_Name":"Unleaded"
   },
   {
+    "Site_ID":61451734,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T12:15:28+10:00",
+    "Price":2.509,
+    "Name":"Shell Reddy Express Port Douglas",
+    "Address":"10 Captain Cook Hwy",
+    "Postcode":"4877",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477095,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T12:15:28+10:00",
+    "Price":2.469,
+    "Name":"Shell Reddy Express Redlynch",
+    "Address":"1A Chelsea Lane",
+    "Postcode":"4878",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61402393,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T12:16:50+10:00",
+    "Price":2.459,
+    "Name":"Caltex Stratford",
+    "Address":"45 Arnold St",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61402555,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T13:54:28+10:00",
+    "Price":2.499,
+    "Name":"Astron Twin Rivers",
+    "Address":"68929 Bruce Highway",
+    "Postcode":"4871",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61451566,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T14:15:28+10:00",
+    "Price":2.399,
+    "Name":"Shell Reddy Express Reservoir (Qld)",
+    "Address":"58 Pease St",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61451572,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T14:15:28+10:00",
+    "Price":2.399,
+    "Name":"Shell Reddy Express Smithfield (Qld)",
+    "Address":"Lot 1 Captain Cook Hwy",
+    "Postcode":"4878",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61451567,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T14:30:38+10:00",
+    "Price":2.399,
+    "Name":"Shell Reddy Express Cairns Sheridan St",
+    "Address":"291-293 Sheridan St",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477020,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T15:27:19+10:00",
+    "Price":2.399,
+    "Name":"Ampol Foodary Manunda",
+    "Address":"1 Hoare St & Gatton Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61402073,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T15:32:18+10:00",
+    "Price":2.304,
+    "Name":"Ampol Foodary Cairns Sheridan St",
+    "Address":"131 Sheridan St",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61477719,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T16:30:34+10:00",
+    "Price":2.399,
+    "Name":"Shell Reddy Express Cairns Mulgrave Rd",
+    "Address":"87 Mulgrave Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61470573,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-09-25T19:25:19+10:00",
+    "Price":2.379,
+    "Name":"BP Earlville",
+    "Address":"395 Mulgrave Rd & Mccoombe Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-25T11:10:18+10:00",
+    "TransactionDate":"2026-09-25T19:25:19+10:00",
     "Price":2.349,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -380,193 +560,73 @@
     "Fuel_Name":"Unleaded"
   },
   {
-    "Site_ID":61477095,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-25T09:05:22+10:00",
-    "Price":2.479,
-    "Name":"Shell Reddy Express Redlynch",
-    "Address":"1A Chelsea Lane",
-    "Postcode":"4878",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477106,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T09:16:46+10:00",
-    "Price":2.439,
-    "Name":"Marano\u2019s Fuel Wonga",
-    "Address":"3 Oleander Drive",
-    "Postcode":"4873",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477674,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T11:23:28+10:00",
-    "Price":2.379,
-    "Name":"Edge Hill Servo",
-    "Address":"134 Collins Ave",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477719,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-25T09:05:22+10:00",
-    "Price":2.449,
-    "Name":"Shell Reddy Express Cairns Mulgrave Rd",
-    "Address":"87 Mulgrave Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477726,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T09:21:06+10:00",
-    "Price":2.369,
-    "Name":"White Rock General Store",
-    "Address":"150 Progress Road",
-    "Postcode":"4868",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477727,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T08:47:08+10:00",
-    "Price":2.379,
-    "Name":"Machans Beach Store and Post Office",
-    "Address":"27 Machans Street",
-    "Postcode":"4878",
-    "Fuel_Name":"Unleaded"
+    "Site_ID":61402891,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-14T10:00:44+10:00",
+    "Price":9.999,
+    "Name":"Shell Express Edmonton",
+    "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
+    "Postcode":"4869",
+    "Fuel_Name":"Diesel"
   },
   {
     "Site_ID":61477771,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T07:42:01+10:00",
-    "Price":2.409,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-17T09:42:01+10:00",
+    "Price":2.869,
     "Name":"Eacham Fuels",
     "Address":"8 Pioneer Avenue",
     "Postcode":"4885",
-    "Fuel_Name":"Unleaded"
+    "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61477804,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-25T06:34:56+10:00",
-    "Price":2.417,
-    "Name":"Stratford Driveway Discount Fuels",
-    "Address":"2-4 Rinks Close",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477805,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-23T09:14:34+10:00",
-    "Price":2.385,
-    "Name":"Mobil Edmonton Central",
-    "Address":"59-63 Hambleton Drive",
-    "Postcode":"4869",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477814,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T08:22:20+10:00",
-    "Price":2.439,
-    "Name":"Miallo Fuel Station",
-    "Address":"735 Daintree Road",
-    "Postcode":"4873",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477816,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T09:02:35+10:00",
-    "Price":2.439,
-    "Name":"Roadhouse Service Station",
-    "Address":"129 Alchera Drive",
-    "Postcode":"4873",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477819,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T08:07:09+10:00",
-    "Price":2.439,
-    "Name":"Port Douglas Service Station",
-    "Address":" Port Street",
-    "Postcode":"4871",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477822,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T10:09:39+10:00",
-    "Price":2.439,
-    "Name":"Raintrees Cafe and Servo",
-    "Address":"2 Foxton Avenue",
-    "Postcode":"4873",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477837,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-22T10:19:10+10:00",
-    "Price":2.499,
-    "Name":"BP Port Douglas",
-    "Address":"5946 Davidson Street",
-    "Postcode":"4877",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61477839,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-19T10:02:36+10:00",
-    "Price":2.509,
-    "Name":"Wondecla Service Station",
-    "Address":"1190 Longlands Gap Rd",
+    "Site_ID":61470115,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-18T13:35:36+10:00",
+    "Price":2.959,
+    "Name":"Thorpe Earthmoving",
+    "Address":"14 Perkins Street",
     "Postcode":"4887",
-    "Fuel_Name":"Unleaded"
+    "Fuel_Name":"Diesel"
   },
   {
     "Site_ID":61477987,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-19T07:49:19+10:00",
-    "Price":2.315,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-18T15:09:58+10:00",
+    "Price":2.795,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
+    "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61478023,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T08:17:14+10:00",
-    "Price":2.389,
-    "Name":"Marano\u2019s Fuel Edmonton",
-    "Address":"69-70 Thomson Road",
-    "Postcode":"4869",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61478243,
-    "Fuel_ID":2,
-    "TransactionDate":"2026-09-21T16:35:04+10:00",
-    "Price":2.399,
-    "Name":"NightOwl BP Anderson Street",
-    "Address":"66-68 Anderson St",
-    "Postcode":"4870",
-    "Fuel_Name":"Unleaded"
-  },
-  {
-    "Site_ID":61401973,
+    "Site_ID":61477839,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-23T10:00:15+10:00",
-    "Price":2.855,
-    "Name":"United Gordonvale",
-    "Address":"68 Riverstone Road",
-    "Postcode":"4865",
+    "TransactionDate":"2026-09-19T10:02:10+10:00",
+    "Price":2.959,
+    "Name":"Wondecla Service Station",
+    "Address":"1190 Longlands Gap Rd",
+    "Postcode":"4887",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477727,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-20T07:01:50+10:00",
+    "Price":2.799,
+    "Name":"Machans Beach Store and Post Office",
+    "Address":"27 Machans Street",
+    "Postcode":"4878",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477674,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-20T10:18:45+10:00",
+    "Price":2.799,
+    "Name":"Edge Hill Servo",
+    "Address":"134 Collins Ave",
+    "Postcode":"4870",
     "Fuel_Name":"Diesel"
   },
   {
@@ -590,6 +650,36 @@
     "Fuel_Name":"Diesel"
   },
   {
+    "Site_ID":61477819,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-21T08:07:10+10:00",
+    "Price":2.949,
+    "Name":"Port Douglas Service Station",
+    "Address":" Port Street",
+    "Postcode":"4871",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61478023,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-21T08:17:15+10:00",
+    "Price":2.869,
+    "Name":"Marano\u2019s Fuel Edmonton",
+    "Address":"69-70 Thomson Road",
+    "Postcode":"4869",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477814,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-21T08:22:21+10:00",
+    "Price":2.949,
+    "Name":"Miallo Fuel Station",
+    "Address":"735 Daintree Road",
+    "Postcode":"4873",
+    "Fuel_Name":"Diesel"
+  },
+  {
     "Site_ID":61402015,
     "Fuel_ID":3,
     "TransactionDate":"2026-09-21T08:32:17+10:00",
@@ -600,32 +690,82 @@
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61402067,
+    "Site_ID":61451728,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-22T11:10:44+10:00",
-    "Price":2.819,
-    "Name":"Caltex Woree",
-    "Address":"590 Mulgrave Rd",
-    "Postcode":"4868",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61402272,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-23T07:04:23+10:00",
-    "Price":2.855,
-    "Name":"Mobil Brinsmead",
-    "Address":"101-115 Brinsmead Road",
+    "TransactionDate":"2026-09-21T08:37:20+10:00",
+    "Price":2.869,
+    "Name":"Shell Cairns",
+    "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61402357,
+    "Site_ID":61477816,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-24T11:49:28+10:00",
-    "Price":2.779,
-    "Name":"Ampol Cairns",
-    "Address":"60 Draper Street",
+    "TransactionDate":"2026-09-21T09:02:36+10:00",
+    "Price":2.949,
+    "Name":"Roadhouse Service Station",
+    "Address":"129 Alchera Drive",
+    "Postcode":"4873",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477106,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-21T09:16:46+10:00",
+    "Price":2.949,
+    "Name":"Marano\u2019s Fuel Wonga",
+    "Address":"3 Oleander Drive",
+    "Postcode":"4873",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477726,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-21T09:21:06+10:00",
+    "Price":2.849,
+    "Name":"White Rock General Store",
+    "Address":"150 Progress Road",
+    "Postcode":"4868",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477822,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-21T10:09:39+10:00",
+    "Price":2.949,
+    "Name":"Raintrees Cafe and Servo",
+    "Address":"2 Foxton Avenue",
+    "Postcode":"4873",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61402795,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-21T10:40:07+10:00",
+    "Price":2.909,
+    "Name":"BP Mossman",
+    "Address":"68 Pringle St",
+    "Postcode":"4873",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61470507,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-21T16:15:06+10:00",
+    "Price":2.799,
+    "Name":"NightOwl BP Manunda",
+    "Address":"56-62 Alfred Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61478243,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-21T16:35:04+10:00",
+    "Price":2.859,
+    "Name":"NightOwl BP Anderson Street",
+    "Address":"66-68 Anderson St",
     "Postcode":"4870",
     "Fuel_Name":"Diesel"
   },
@@ -640,6 +780,66 @@
     "Fuel_Name":"Diesel"
   },
   {
+    "Site_ID":61402827,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-22T09:40:09+10:00",
+    "Price":2.795,
+    "Name":"United Cairns North",
+    "Address":"238 Sheridan Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61470145,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-22T09:56:43+10:00",
+    "Price":2.939,
+    "Name":"Ampol Port Douglas",
+    "Address":"13 Warner St",
+    "Postcode":"4871",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477837,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-22T10:19:10+10:00",
+    "Price":2.949,
+    "Name":"BP Port Douglas",
+    "Address":"5946 Davidson Street",
+    "Postcode":"4877",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477011,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-22T10:20:50+10:00",
+    "Price":2.795,
+    "Name":"Liberty Manoora",
+    "Address":"31-35 Reservoir Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61451666,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-22T10:35:51+10:00",
+    "Price":2.795,
+    "Name":"Liberty Woree",
+    "Address":"540 Mulgrave Road",
+    "Postcode":"4868",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61402067,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-22T11:10:44+10:00",
+    "Price":2.819,
+    "Name":"Caltex Woree",
+    "Address":"590 Mulgrave Rd",
+    "Postcode":"4868",
+    "Fuel_Name":"Diesel"
+  },
+  {
     "Site_ID":61402555,
     "Fuel_ID":3,
     "TransactionDate":"2026-09-22T15:14:29+10:00",
@@ -650,32 +850,12 @@
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61402769,
+    "Site_ID":61478266,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-23T11:45:07+10:00",
-    "Price":2.829,
-    "Name":"United Koah",
-    "Address":"2 Koah Rd",
-    "Postcode":"4872",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61402795,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T10:40:07+10:00",
-    "Price":2.909,
-    "Name":"BP Mossman",
-    "Address":"68 Pringle St",
-    "Postcode":"4873",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61402827,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-22T09:40:09+10:00",
-    "Price":2.795,
-    "Name":"United Cairns North",
-    "Address":"238 Sheridan Street",
+    "TransactionDate":"2026-09-22T17:21:37+10:00",
+    "Price":2.799,
+    "Name":"Woodham Petroleum Cairns",
+    "Address":"104 Aumuller St",
     "Postcode":"4870",
     "Fuel_Name":"Diesel"
   },
@@ -690,6 +870,66 @@
     "Fuel_Name":"Diesel"
   },
   {
+    "Site_ID":61451561,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-23T07:03:28+10:00",
+    "Price":2.855,
+    "Name":"Mobil Edmonton",
+    "Address":"75 Bruce Hwy",
+    "Postcode":"4869",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61402272,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-23T07:04:23+10:00",
+    "Price":2.855,
+    "Name":"Mobil Brinsmead",
+    "Address":"101-115 Brinsmead Road",
+    "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61470086,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-23T08:18:22+10:00",
+    "Price":2.855,
+    "Name":"Mobil on Spence",
+    "Address":"142A-146 Spence Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477805,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-23T09:14:34+10:00",
+    "Price":2.855,
+    "Name":"Mobil Edmonton Central",
+    "Address":"59-63 Hambleton Drive",
+    "Postcode":"4869",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61470034,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-23T09:34:32+10:00",
+    "Price":2.855,
+    "Name":"Mobil Gordonvale",
+    "Address":"67 George St",
+    "Postcode":"4865",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61401973,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-23T10:00:15+10:00",
+    "Price":2.855,
+    "Name":"United Gordonvale",
+    "Address":"68 Riverstone Road",
+    "Postcode":"4865",
+    "Fuel_Name":"Diesel"
+  },
+  {
     "Site_ID":61402869,
     "Fuel_ID":3,
     "TransactionDate":"2026-09-23T10:10:13+10:00",
@@ -700,23 +940,63 @@
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61402891,
+    "Site_ID":61470699,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-14T10:00:44+10:00",
-    "Price":9.999,
-    "Name":"Shell Express Edmonton",
-    "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
-    "Postcode":"4869",
+    "TransactionDate":"2026-09-23T11:15:09+10:00",
+    "Price":2.829,
+    "Name":"BP Kuranda",
+    "Address":"3 Rob Veivers Drive",
+    "Postcode":"4881",
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61451561,
+    "Site_ID":61402769,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-23T07:03:28+10:00",
-    "Price":2.855,
-    "Name":"Mobil Edmonton",
-    "Address":"75 Bruce Hwy",
-    "Postcode":"4869",
+    "TransactionDate":"2026-09-23T11:45:07+10:00",
+    "Price":2.829,
+    "Name":"United Koah",
+    "Address":"2 Koah Rd",
+    "Postcode":"4872",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61451722,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-24T06:17:28+10:00",
+    "Price":2.875,
+    "Name":"Mobil Yorkey's Knob",
+    "Address":"233 Yorkeys Knob Road",
+    "Postcode":"4878",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61402357,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-24T11:49:28+10:00",
+    "Price":2.779,
+    "Name":"Ampol Cairns",
+    "Address":"60 Draper Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477804,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-25T06:34:56+10:00",
+    "Price":2.867,
+    "Name":"Stratford Driveway Discount Fuels",
+    "Address":"2-4 Rinks Close",
+    "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477041,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-25T10:26:04+10:00",
+    "Price":2.775,
+    "Name":"OOM Energy Cairns Central",
+    "Address":"Cnr Martyn & Florence St",
+    "Postcode":"4870",
     "Fuel_Name":"Diesel"
   },
   {
@@ -750,36 +1030,6 @@
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61451666,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-22T10:35:51+10:00",
-    "Price":2.795,
-    "Name":"Liberty Woree",
-    "Address":"540 Mulgrave Road",
-    "Postcode":"4868",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61451722,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-24T06:17:28+10:00",
-    "Price":2.875,
-    "Name":"Mobil Yorkey's Knob",
-    "Address":"233 Yorkeys Knob Road",
-    "Postcode":"4878",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61451728,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T08:37:20+10:00",
-    "Price":2.869,
-    "Name":"Shell Cairns",
-    "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
     "Site_ID":61451734,
     "Fuel_ID":3,
     "TransactionDate":"2026-09-25T11:15:25+10:00",
@@ -787,116 +1037,6 @@
     "Name":"Shell Reddy Express Port Douglas",
     "Address":"10 Captain Cook Hwy",
     "Postcode":"4877",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61470034,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-23T09:34:32+10:00",
-    "Price":2.855,
-    "Name":"Mobil Gordonvale",
-    "Address":"67 George St",
-    "Postcode":"4865",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61470086,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-23T08:18:22+10:00",
-    "Price":2.855,
-    "Name":"Mobil on Spence",
-    "Address":"142A-146 Spence Street",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61470115,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-18T13:35:36+10:00",
-    "Price":2.959,
-    "Name":"Thorpe Earthmoving",
-    "Address":"14 Perkins Street",
-    "Postcode":"4887",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61470145,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-22T09:56:43+10:00",
-    "Price":2.939,
-    "Name":"Ampol Port Douglas",
-    "Address":"13 Warner St",
-    "Postcode":"4871",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61470301,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-24T12:35:11+10:00",
-    "Price":2.859,
-    "Name":"NightOwl BP Clifton Beach",
-    "Address":"55-57 Endeavour Road",
-    "Postcode":"4879",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61470507,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T16:15:06+10:00",
-    "Price":2.799,
-    "Name":"NightOwl BP Manunda",
-    "Address":"56-62 Alfred Street",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61470573,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-25T11:10:18+10:00",
-    "Price":2.879,
-    "Name":"BP Earlville",
-    "Address":"395 Mulgrave Rd & Mccoombe Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61470699,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-23T11:15:09+10:00",
-    "Price":2.829,
-    "Name":"BP Kuranda",
-    "Address":"3 Rob Veivers Drive",
-    "Postcode":"4881",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477011,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-22T10:20:50+10:00",
-    "Price":2.795,
-    "Name":"Liberty Manoora",
-    "Address":"31-35 Reservoir Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477041,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-25T10:26:04+10:00",
-    "Price":2.775,
-    "Name":"OOM Energy Cairns Central",
-    "Address":"Cnr Martyn & Florence St",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477062,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-25T11:10:18+10:00",
-    "Price":2.949,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4878",
     "Fuel_Name":"Diesel"
   },
   {
@@ -910,26 +1050,6 @@
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61477106,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T09:16:46+10:00",
-    "Price":2.949,
-    "Name":"Marano\u2019s Fuel Wonga",
-    "Address":"3 Oleander Drive",
-    "Postcode":"4873",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477674,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-20T10:18:45+10:00",
-    "Price":2.799,
-    "Name":"Edge Hill Servo",
-    "Address":"134 Collins Ave",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
     "Site_ID":61477719,
     "Fuel_ID":3,
     "TransactionDate":"2026-09-25T11:15:25+10:00",
@@ -940,153 +1060,33 @@
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61477726,
+    "Site_ID":61470301,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T09:21:06+10:00",
-    "Price":2.849,
-    "Name":"White Rock General Store",
-    "Address":"150 Progress Road",
-    "Postcode":"4868",
+    "TransactionDate":"2026-09-25T18:10:09+10:00",
+    "Price":2.899,
+    "Name":"NightOwl BP Clifton Beach",
+    "Address":"55-57 Endeavour Road",
+    "Postcode":"4879",
     "Fuel_Name":"Diesel"
   },
   {
-    "Site_ID":61477727,
+    "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-20T07:01:50+10:00",
-    "Price":2.799,
-    "Name":"Machans Beach Store and Post Office",
-    "Address":"27 Machans Street",
+    "TransactionDate":"2026-09-25T19:25:19+10:00",
+    "Price":2.879,
+    "Name":"BP Earlville",
+    "Address":"395 Mulgrave Rd & Mccoombe Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61477062,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-09-25T19:25:19+10:00",
+    "Price":2.949,
+    "Name":"BP Smithfield Cairns",
+    "Address":"Captain Cook Hwy",
     "Postcode":"4878",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477771,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-17T09:42:01+10:00",
-    "Price":2.869,
-    "Name":"Eacham Fuels",
-    "Address":"8 Pioneer Avenue",
-    "Postcode":"4885",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477804,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-25T06:34:56+10:00",
-    "Price":2.867,
-    "Name":"Stratford Driveway Discount Fuels",
-    "Address":"2-4 Rinks Close",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477805,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-23T09:14:34+10:00",
-    "Price":2.855,
-    "Name":"Mobil Edmonton Central",
-    "Address":"59-63 Hambleton Drive",
-    "Postcode":"4869",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477814,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T08:22:21+10:00",
-    "Price":2.949,
-    "Name":"Miallo Fuel Station",
-    "Address":"735 Daintree Road",
-    "Postcode":"4873",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477816,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T09:02:36+10:00",
-    "Price":2.949,
-    "Name":"Roadhouse Service Station",
-    "Address":"129 Alchera Drive",
-    "Postcode":"4873",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477819,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T08:07:10+10:00",
-    "Price":2.949,
-    "Name":"Port Douglas Service Station",
-    "Address":" Port Street",
-    "Postcode":"4871",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477822,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T10:09:39+10:00",
-    "Price":2.949,
-    "Name":"Raintrees Cafe and Servo",
-    "Address":"2 Foxton Avenue",
-    "Postcode":"4873",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477837,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-22T10:19:10+10:00",
-    "Price":2.949,
-    "Name":"BP Port Douglas",
-    "Address":"5946 Davidson Street",
-    "Postcode":"4877",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477839,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-19T10:02:10+10:00",
-    "Price":2.959,
-    "Name":"Wondecla Service Station",
-    "Address":"1190 Longlands Gap Rd",
-    "Postcode":"4887",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61477987,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-18T15:09:58+10:00",
-    "Price":2.795,
-    "Name":"Mobil Sheridan Street",
-    "Address":"237-241 Sheridan Street",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61478023,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T08:17:15+10:00",
-    "Price":2.869,
-    "Name":"Marano\u2019s Fuel Edmonton",
-    "Address":"69-70 Thomson Road",
-    "Postcode":"4869",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61478243,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-21T16:35:04+10:00",
-    "Price":2.859,
-    "Name":"NightOwl BP Anderson Street",
-    "Address":"66-68 Anderson St",
-    "Postcode":"4870",
-    "Fuel_Name":"Diesel"
-  },
-  {
-    "Site_ID":61478266,
-    "Fuel_ID":3,
-    "TransactionDate":"2026-09-22T17:21:37+10:00",
-    "Price":2.799,
-    "Name":"Woodham Petroleum Cairns",
-    "Address":"104 Aumuller St",
-    "Postcode":"4870",
     "Fuel_Name":"Diesel"
   },
   {
@@ -1098,6 +1098,36 @@
     "Address":"142A-146 Spence Street",
     "Postcode":"4870",
     "Fuel_Name":"LPG"
+  },
+  {
+    "Site_ID":61470115,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-18T13:36:18+10:00",
+    "Price":2.659,
+    "Name":"Thorpe Earthmoving",
+    "Address":"14 Perkins Street",
+    "Postcode":"4887",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61477987,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-19T07:49:19+10:00",
+    "Price":2.415,
+    "Name":"Mobil Sheridan Street",
+    "Address":"237-241 Sheridan Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61477839,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-19T10:03:00+10:00",
+    "Price":2.659,
+    "Name":"Wondecla Service Station",
+    "Address":"1190 Longlands Gap Rd",
+    "Postcode":"4887",
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
     "Site_ID":61401991,
@@ -1120,302 +1150,22 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61402015,
+    "Site_ID":61477819,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-21T08:32:18+10:00",
-    "Price":2.519,
-    "Name":"Billabong Service Centre",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4879",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61402073,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-22T14:12:18+10:00",
-    "Price":2.479,
-    "Name":"Ampol Foodary Cairns Sheridan St",
-    "Address":"131 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61402272,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T07:04:23+10:00",
-    "Price":2.475,
-    "Name":"Mobil Brinsmead",
-    "Address":"101-115 Brinsmead Road",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61402555,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T09:54:24+10:00",
-    "Price":2.529,
-    "Name":"Astron Twin Rivers",
-    "Address":"68929 Bruce Highway",
-    "Postcode":"4871",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61402769,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T11:45:07+10:00",
-    "Price":2.489,
-    "Name":"United Koah",
-    "Address":"2 Koah Rd",
-    "Postcode":"4872",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61402795,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-21T10:40:07+10:00",
-    "Price":2.529,
-    "Name":"BP Mossman",
-    "Address":"68 Pringle St",
-    "Postcode":"4873",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61402827,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-22T09:40:09+10:00",
-    "Price":2.435,
-    "Name":"United Cairns North",
-    "Address":"238 Sheridan Street",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61402828,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-22T09:15:14+10:00",
-    "Price":2.415,
-    "Name":"United Woree",
-    "Address":"6 Southgate Close",
-    "Postcode":"4868",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61451561,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T07:03:28+10:00",
-    "Price":2.485,
-    "Name":"Mobil Edmonton",
-    "Address":"75 Bruce Hwy",
-    "Postcode":"4869",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61451567,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-25T09:20:20+10:00",
-    "Price":2.599,
-    "Name":"Shell Reddy Express Cairns Sheridan St",
-    "Address":"291-293 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61451572,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-25T09:00:42+10:00",
-    "Price":2.619,
-    "Name":"Shell Reddy Express Smithfield (Qld)",
-    "Address":"Lot 1 Captain Cook Hwy",
-    "Postcode":"4878",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61451722,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-24T06:17:28+10:00",
-    "Price":2.455,
-    "Name":"Mobil Yorkey's Knob",
-    "Address":"233 Yorkeys Knob Road",
-    "Postcode":"4878",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61451728,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-21T08:37:21+10:00",
-    "Price":2.519,
-    "Name":"Shell Cairns",
-    "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61451734,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-25T09:00:42+10:00",
-    "Price":2.679,
-    "Name":"Shell Reddy Express Port Douglas",
-    "Address":"10 Captain Cook Hwy",
-    "Postcode":"4877",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61470034,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T09:34:32+10:00",
-    "Price":2.475,
-    "Name":"Mobil Gordonvale",
-    "Address":"67 George St",
-    "Postcode":"4865",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61470115,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-18T13:36:18+10:00",
-    "Price":2.659,
-    "Name":"Thorpe Earthmoving",
-    "Address":"14 Perkins Street",
-    "Postcode":"4887",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61470145,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-22T09:56:43+10:00",
-    "Price":2.599,
-    "Name":"Ampol Port Douglas",
-    "Address":"13 Warner St",
-    "Postcode":"4871",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61470301,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-24T12:35:11+10:00",
-    "Price":2.519,
-    "Name":"NightOwl BP Clifton Beach",
-    "Address":"55-57 Endeavour Road",
-    "Postcode":"4879",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61470507,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-21T16:15:06+10:00",
-    "Price":2.455,
-    "Name":"NightOwl BP Manunda",
-    "Address":"56-62 Alfred Street",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61470573,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-25T11:10:18+10:00",
-    "Price":2.559,
-    "Name":"BP Earlville",
-    "Address":"395 Mulgrave Rd & Mccoombe Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477041,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-25T10:26:04+10:00",
-    "Price":2.415,
-    "Name":"OOM Energy Cairns Central",
-    "Address":"Cnr Martyn & Florence St",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477062,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-25T11:10:18+10:00",
-    "Price":2.519,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4878",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477106,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-21T09:16:47+10:00",
+    "TransactionDate":"2026-09-21T08:07:11+10:00",
     "Price":2.589,
-    "Name":"Marano\u2019s Fuel Wonga",
-    "Address":"3 Oleander Drive",
-    "Postcode":"4873",
+    "Name":"Port Douglas Service Station",
+    "Address":" Port Street",
+    "Postcode":"4871",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61477674,
+    "Site_ID":61478023,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T11:23:28+10:00",
-    "Price":2.529,
-    "Name":"Edge Hill Servo",
-    "Address":"134 Collins Ave",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477719,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-25T09:05:22+10:00",
-    "Price":2.609,
-    "Name":"Shell Reddy Express Cairns Mulgrave Rd",
-    "Address":"87 Mulgrave Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477726,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-21T09:21:06+10:00",
+    "TransactionDate":"2026-09-21T08:17:15+10:00",
     "Price":2.519,
-    "Name":"White Rock General Store",
-    "Address":"150 Progress Road",
-    "Postcode":"4868",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477727,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T08:47:08+10:00",
-    "Price":2.529,
-    "Name":"Machans Beach Store and Post Office",
-    "Address":"27 Machans Street",
-    "Postcode":"4878",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477771,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T07:42:01+10:00",
-    "Price":2.559,
-    "Name":"Eacham Fuels",
-    "Address":"8 Pioneer Avenue",
-    "Postcode":"4885",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477804,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-22T17:45:07+10:00",
-    "Price":2.577,
-    "Name":"Stratford Driveway Discount Fuels",
-    "Address":"2-4 Rinks Close",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61477805,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-23T09:14:34+10:00",
-    "Price":2.485,
-    "Name":"Mobil Edmonton Central",
-    "Address":"59-63 Hambleton Drive",
+    "Name":"Marano\u2019s Fuel Edmonton",
+    "Address":"69-70 Thomson Road",
     "Postcode":"4869",
     "Fuel_Name":"Premium Unleaded 95"
   },
@@ -1430,6 +1180,26 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
+    "Site_ID":61402015,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-21T08:32:18+10:00",
+    "Price":2.519,
+    "Name":"Billabong Service Centre",
+    "Address":"Captain Cook Hwy",
+    "Postcode":"4879",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61451728,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-21T08:37:21+10:00",
+    "Price":2.519,
+    "Name":"Shell Cairns",
+    "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
     "Site_ID":61477816,
     "Fuel_ID":5,
     "TransactionDate":"2026-09-21T09:02:36+10:00",
@@ -1440,13 +1210,23 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61477819,
+    "Site_ID":61477106,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-21T08:07:11+10:00",
+    "TransactionDate":"2026-09-21T09:16:47+10:00",
     "Price":2.589,
-    "Name":"Port Douglas Service Station",
-    "Address":" Port Street",
-    "Postcode":"4871",
+    "Name":"Marano\u2019s Fuel Wonga",
+    "Address":"3 Oleander Drive",
+    "Postcode":"4873",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61477726,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-21T09:21:06+10:00",
+    "Price":2.519,
+    "Name":"White Rock General Store",
+    "Address":"150 Progress Road",
+    "Postcode":"4868",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
@@ -1460,33 +1240,23 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61477839,
+    "Site_ID":61402795,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-19T10:03:00+10:00",
-    "Price":2.659,
-    "Name":"Wondecla Service Station",
-    "Address":"1190 Longlands Gap Rd",
-    "Postcode":"4887",
+    "TransactionDate":"2026-09-21T10:40:07+10:00",
+    "Price":2.529,
+    "Name":"BP Mossman",
+    "Address":"68 Pringle St",
+    "Postcode":"4873",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61477987,
+    "Site_ID":61470507,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-19T07:49:19+10:00",
-    "Price":2.415,
-    "Name":"Mobil Sheridan Street",
-    "Address":"237-241 Sheridan Street",
+    "TransactionDate":"2026-09-21T16:15:06+10:00",
+    "Price":2.455,
+    "Name":"NightOwl BP Manunda",
+    "Address":"56-62 Alfred Street",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 95"
-  },
-  {
-    "Site_ID":61478023,
-    "Fuel_ID":5,
-    "TransactionDate":"2026-09-21T08:17:15+10:00",
-    "Price":2.519,
-    "Name":"Marano\u2019s Fuel Edmonton",
-    "Address":"69-70 Thomson Road",
-    "Postcode":"4869",
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
@@ -1500,274 +1270,234 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61401973,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-23T10:00:15+10:00",
-    "Price":2.615,
-    "Name":"United Gordonvale",
-    "Address":"68 Riverstone Road",
-    "Postcode":"4865",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61402015,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-21T08:32:18+10:00",
-    "Price":2.679,
-    "Name":"Billabong Service Centre",
-    "Address":"Captain Cook Hwy",
-    "Postcode":"4879",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61402067,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-24T08:04:42+10:00",
-    "Price":2.599,
-    "Name":"Caltex Woree",
-    "Address":"590 Mulgrave Rd",
-    "Postcode":"4868",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61402393,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-23T12:15:36+10:00",
-    "Price":2.729,
-    "Name":"Caltex Stratford",
-    "Address":"45 Arnold St",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61402394,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-21T09:36:59+10:00",
-    "Price":2.639,
-    "Name":"Caltex Bentley Park",
-    "Address":"28 Supply Rd",
-    "Postcode":"4869",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61402395,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-22T08:04:30+10:00",
-    "Price":2.639,
-    "Name":"Caltex Portsmith",
-    "Address":"104 Cook St, Portsmith QLD 4870, Australia",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61402827,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-22T09:40:09+10:00",
-    "Price":2.525,
-    "Name":"United Cairns North",
-    "Address":"238 Sheridan Street",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
     "Site_ID":61402828,
-    "Fuel_ID":8,
+    "Fuel_ID":5,
     "TransactionDate":"2026-09-22T09:15:14+10:00",
-    "Price":2.505,
+    "Price":2.415,
     "Name":"United Woree",
     "Address":"6 Southgate Close",
     "Postcode":"4868",
-    "Fuel_Name":"Premium Unleaded 98"
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61402869,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-23T10:10:13+10:00",
-    "Price":2.615,
-    "Name":"United Gordonvale Cairns Road",
-    "Address":"105-115 Cairns Road",
-    "Postcode":"4865",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61451566,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-25T09:00:42+10:00",
-    "Price":2.689,
-    "Name":"Shell Reddy Express Reservoir (Qld)",
-    "Address":"58 Pease St",
+    "Site_ID":61402827,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-22T09:40:09+10:00",
+    "Price":2.435,
+    "Name":"United Cairns North",
+    "Address":"238 Sheridan Street",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61451567,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-25T09:20:20+10:00",
-    "Price":2.689,
-    "Name":"Shell Reddy Express Cairns Sheridan St",
-    "Address":"291-293 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61451572,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-25T09:00:42+10:00",
-    "Price":2.709,
-    "Name":"Shell Reddy Express Smithfield (Qld)",
-    "Address":"Lot 1 Captain Cook Hwy",
-    "Postcode":"4878",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61451666,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-22T10:35:50+10:00",
-    "Price":2.505,
-    "Name":"Liberty Woree",
-    "Address":"540 Mulgrave Road",
-    "Postcode":"4868",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61451728,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-21T08:37:22+10:00",
-    "Price":2.679,
-    "Name":"Shell Cairns",
-    "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61451734,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-25T09:00:42+10:00",
-    "Price":2.769,
-    "Name":"Shell Reddy Express Port Douglas",
-    "Address":"10 Captain Cook Hwy",
-    "Postcode":"4877",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61470086,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-23T07:17:08+10:00",
-    "Price":2.575,
-    "Name":"Mobil on Spence",
-    "Address":"142A-146 Spence Street",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61470301,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-24T12:35:11+10:00",
-    "Price":2.659,
-    "Name":"NightOwl BP Clifton Beach",
-    "Address":"55-57 Endeavour Road",
-    "Postcode":"4879",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61470507,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-21T16:15:06+10:00",
+    "Site_ID":61470145,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-22T09:56:43+10:00",
     "Price":2.599,
-    "Name":"NightOwl BP Manunda",
-    "Address":"56-62 Alfred Street",
+    "Name":"Ampol Port Douglas",
+    "Address":"13 Warner St",
+    "Postcode":"4871",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61402073,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-22T14:12:18+10:00",
+    "Price":2.479,
+    "Name":"Ampol Foodary Cairns Sheridan St",
+    "Address":"131 Sheridan St",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61470573,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-25T11:10:18+10:00",
-    "Price":2.649,
-    "Name":"BP Earlville",
-    "Address":"395 Mulgrave Rd & Mccoombe Rd",
+    "Site_ID":61477804,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-22T17:45:07+10:00",
+    "Price":2.577,
+    "Name":"Stratford Driveway Discount Fuels",
+    "Address":"2-4 Rinks Close",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61470699,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-23T11:15:09+10:00",
-    "Price":2.659,
-    "Name":"BP Kuranda",
-    "Address":"3 Rob Veivers Drive",
-    "Postcode":"4881",
-    "Fuel_Name":"Premium Unleaded 98"
+    "Site_ID":61451561,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-23T07:03:28+10:00",
+    "Price":2.485,
+    "Name":"Mobil Edmonton",
+    "Address":"75 Bruce Hwy",
+    "Postcode":"4869",
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61477011,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-22T10:20:49+10:00",
-    "Price":2.525,
-    "Name":"Liberty Manoora",
-    "Address":"31-35 Reservoir Rd",
+    "Site_ID":61402272,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-23T07:04:23+10:00",
+    "Price":2.475,
+    "Name":"Mobil Brinsmead",
+    "Address":"101-115 Brinsmead Road",
     "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61477020,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-23T08:12:20+10:00",
-    "Price":2.729,
-    "Name":"Ampol Foodary Manunda",
-    "Address":"1 Hoare St & Gatton Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
+    "Site_ID":61477771,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-23T07:42:01+10:00",
+    "Price":2.559,
+    "Name":"Eacham Fuels",
+    "Address":"8 Pioneer Avenue",
+    "Postcode":"4885",
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61477062,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-25T11:10:18+10:00",
-    "Price":2.609,
-    "Name":"BP Smithfield Cairns",
-    "Address":"Captain Cook Hwy",
+    "Site_ID":61477727,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-23T08:47:08+10:00",
+    "Price":2.529,
+    "Name":"Machans Beach Store and Post Office",
+    "Address":"27 Machans Street",
     "Postcode":"4878",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61477095,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-25T09:05:22+10:00",
-    "Price":2.729,
-    "Name":"Shell Reddy Express Redlynch",
-    "Address":"1A Chelsea Lane",
-    "Postcode":"4878",
-    "Fuel_Name":"Premium Unleaded 98"
-  },
-  {
-    "Site_ID":61477719,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-25T09:05:22+10:00",
-    "Price":2.699,
-    "Name":"Shell Reddy Express Cairns Mulgrave Rd",
-    "Address":"87 Mulgrave Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Unleaded 98"
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
     "Site_ID":61477805,
-    "Fuel_ID":8,
+    "Fuel_ID":5,
     "TransactionDate":"2026-09-23T09:14:34+10:00",
-    "Price":2.585,
+    "Price":2.485,
     "Name":"Mobil Edmonton Central",
     "Address":"59-63 Hambleton Drive",
     "Postcode":"4869",
-    "Fuel_Name":"Premium Unleaded 98"
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
-    "Site_ID":61477837,
-    "Fuel_ID":8,
-    "TransactionDate":"2026-09-22T10:19:10+10:00",
-    "Price":2.789,
-    "Name":"BP Port Douglas",
-    "Address":"5946 Davidson Street",
+    "Site_ID":61470034,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-23T09:34:32+10:00",
+    "Price":2.475,
+    "Name":"Mobil Gordonvale",
+    "Address":"67 George St",
+    "Postcode":"4865",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61477674,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-23T11:23:28+10:00",
+    "Price":2.529,
+    "Name":"Edge Hill Servo",
+    "Address":"134 Collins Ave",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61402769,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-23T11:45:07+10:00",
+    "Price":2.489,
+    "Name":"United Koah",
+    "Address":"2 Koah Rd",
+    "Postcode":"4872",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61451722,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-24T06:17:28+10:00",
+    "Price":2.455,
+    "Name":"Mobil Yorkey's Knob",
+    "Address":"233 Yorkeys Knob Road",
+    "Postcode":"4878",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61477041,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-25T10:26:04+10:00",
+    "Price":2.415,
+    "Name":"OOM Energy Cairns Central",
+    "Address":"Cnr Martyn & Florence St",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61451734,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-25T12:15:28+10:00",
+    "Price":2.669,
+    "Name":"Shell Reddy Express Port Douglas",
+    "Address":"10 Captain Cook Hwy",
     "Postcode":"4877",
-    "Fuel_Name":"Premium Unleaded 98"
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61451572,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-25T14:15:28+10:00",
+    "Price":2.559,
+    "Name":"Shell Reddy Express Smithfield (Qld)",
+    "Address":"Lot 1 Captain Cook Hwy",
+    "Postcode":"4878",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61451567,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-25T14:30:38+10:00",
+    "Price":2.559,
+    "Name":"Shell Reddy Express Cairns Sheridan St",
+    "Address":"291-293 Sheridan St",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61402555,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-25T16:15:32+10:00",
+    "Price":2.569,
+    "Name":"Astron Twin Rivers",
+    "Address":"68929 Bruce Highway",
+    "Postcode":"4871",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61477719,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-25T16:30:34+10:00",
+    "Price":2.559,
+    "Name":"Shell Reddy Express Cairns Mulgrave Rd",
+    "Address":"87 Mulgrave Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61470301,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-25T18:10:09+10:00",
+    "Price":2.559,
+    "Name":"NightOwl BP Clifton Beach",
+    "Address":"55-57 Endeavour Road",
+    "Postcode":"4879",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61470573,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-25T19:25:19+10:00",
+    "Price":2.559,
+    "Name":"BP Earlville",
+    "Address":"395 Mulgrave Rd & Mccoombe Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
+    "Site_ID":61477062,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-09-25T19:25:19+10:00",
+    "Price":2.519,
+    "Name":"BP Smithfield Cairns",
+    "Address":"Captain Cook Hwy",
+    "Postcode":"4878",
+    "Fuel_Name":"Premium Unleaded 95"
   },
   {
     "Site_ID":61477987,
@@ -1790,6 +1520,46 @@
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
+    "Site_ID":61402015,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-21T08:32:18+10:00",
+    "Price":2.679,
+    "Name":"Billabong Service Centre",
+    "Address":"Captain Cook Hwy",
+    "Postcode":"4879",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61451728,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-21T08:37:22+10:00",
+    "Price":2.679,
+    "Name":"Shell Cairns",
+    "Address":"8 Kenny St, Portsmith QLD 4870, Australia",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61402394,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-21T09:36:59+10:00",
+    "Price":2.639,
+    "Name":"Caltex Bentley Park",
+    "Address":"28 Supply Rd",
+    "Postcode":"4869",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61470507,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-21T16:15:06+10:00",
+    "Price":2.599,
+    "Name":"NightOwl BP Manunda",
+    "Address":"56-62 Alfred Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
     "Site_ID":61478243,
     "Fuel_ID":8,
     "TransactionDate":"2026-09-21T16:35:04+10:00",
@@ -1800,13 +1570,253 @@
     "Fuel_Name":"Premium Unleaded 98"
   },
   {
+    "Site_ID":61402395,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-22T08:04:30+10:00",
+    "Price":2.639,
+    "Name":"Caltex Portsmith",
+    "Address":"104 Cook St, Portsmith QLD 4870, Australia",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61402828,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-22T09:15:14+10:00",
+    "Price":2.505,
+    "Name":"United Woree",
+    "Address":"6 Southgate Close",
+    "Postcode":"4868",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61402827,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-22T09:40:09+10:00",
+    "Price":2.525,
+    "Name":"United Cairns North",
+    "Address":"238 Sheridan Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61477837,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-22T10:19:10+10:00",
+    "Price":2.789,
+    "Name":"BP Port Douglas",
+    "Address":"5946 Davidson Street",
+    "Postcode":"4877",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61477011,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-22T10:20:49+10:00",
+    "Price":2.525,
+    "Name":"Liberty Manoora",
+    "Address":"31-35 Reservoir Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61451666,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-22T10:35:50+10:00",
+    "Price":2.505,
+    "Name":"Liberty Woree",
+    "Address":"540 Mulgrave Road",
+    "Postcode":"4868",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61470086,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-23T07:17:08+10:00",
+    "Price":2.575,
+    "Name":"Mobil on Spence",
+    "Address":"142A-146 Spence Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61477805,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-23T09:14:34+10:00",
+    "Price":2.585,
+    "Name":"Mobil Edmonton Central",
+    "Address":"59-63 Hambleton Drive",
+    "Postcode":"4869",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61401973,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-23T10:00:15+10:00",
+    "Price":2.615,
+    "Name":"United Gordonvale",
+    "Address":"68 Riverstone Road",
+    "Postcode":"4865",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61402869,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-23T10:10:13+10:00",
+    "Price":2.615,
+    "Name":"United Gordonvale Cairns Road",
+    "Address":"105-115 Cairns Road",
+    "Postcode":"4865",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61470699,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-23T11:15:09+10:00",
+    "Price":2.659,
+    "Name":"BP Kuranda",
+    "Address":"3 Rob Veivers Drive",
+    "Postcode":"4881",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
     "Site_ID":61402067,
-    "Fuel_ID":12,
+    "Fuel_ID":8,
     "TransactionDate":"2026-09-24T08:04:42+10:00",
-    "Price":2.279,
+    "Price":2.599,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61470301,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-24T12:35:11+10:00",
+    "Price":2.659,
+    "Name":"NightOwl BP Clifton Beach",
+    "Address":"55-57 Endeavour Road",
+    "Postcode":"4879",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61451734,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-25T12:15:28+10:00",
+    "Price":2.759,
+    "Name":"Shell Reddy Express Port Douglas",
+    "Address":"10 Captain Cook Hwy",
+    "Postcode":"4877",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61477095,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-25T12:15:28+10:00",
+    "Price":2.719,
+    "Name":"Shell Reddy Express Redlynch",
+    "Address":"1A Chelsea Lane",
+    "Postcode":"4878",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61402393,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-25T12:16:50+10:00",
+    "Price":2.709,
+    "Name":"Caltex Stratford",
+    "Address":"45 Arnold St",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61451566,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-25T14:15:28+10:00",
+    "Price":2.649,
+    "Name":"Shell Reddy Express Reservoir (Qld)",
+    "Address":"58 Pease St",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61451572,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-25T14:15:28+10:00",
+    "Price":2.649,
+    "Name":"Shell Reddy Express Smithfield (Qld)",
+    "Address":"Lot 1 Captain Cook Hwy",
+    "Postcode":"4878",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61451567,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-25T14:30:38+10:00",
+    "Price":2.649,
+    "Name":"Shell Reddy Express Cairns Sheridan St",
+    "Address":"291-293 Sheridan St",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61477020,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-25T15:22:18+10:00",
+    "Price":2.669,
+    "Name":"Ampol Foodary Manunda",
+    "Address":"1 Hoare St & Gatton Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61477719,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-25T16:30:34+10:00",
+    "Price":2.649,
+    "Name":"Shell Reddy Express Cairns Mulgrave Rd",
+    "Address":"87 Mulgrave Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61470573,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-25T19:25:19+10:00",
+    "Price":2.649,
+    "Name":"BP Earlville",
+    "Address":"395 Mulgrave Rd & Mccoombe Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61477062,
+    "Fuel_ID":8,
+    "TransactionDate":"2026-09-25T19:25:19+10:00",
+    "Price":2.609,
+    "Name":"BP Smithfield Cairns",
+    "Address":"Captain Cook Hwy",
+    "Postcode":"4878",
+    "Fuel_Name":"Premium Unleaded 98"
+  },
+  {
+    "Site_ID":61402891,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-14T10:00:44+10:00",
+    "Price":9.999,
+    "Name":"Shell Express Edmonton",
+    "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
+    "Postcode":"4869",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61477987,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-19T07:49:19+10:00",
+    "Price":2.295,
+    "Name":"Mobil Sheridan Street",
+    "Address":"237-241 Sheridan Street",
+    "Postcode":"4870",
     "Fuel_Name":"e10"
   },
   {
@@ -1816,26 +1826,6 @@
     "Price":2.344,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61402272,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-23T07:04:23+10:00",
-    "Price":2.355,
-    "Name":"Mobil Brinsmead",
-    "Address":"101-115 Brinsmead Road",
-    "Postcode":"4870",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61402393,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-23T12:15:36+10:00",
-    "Price":2.459,
-    "Name":"Caltex Stratford",
-    "Address":"45 Arnold St",
     "Postcode":"4870",
     "Fuel_Name":"e10"
   },
@@ -1860,36 +1850,6 @@
     "Fuel_Name":"e10"
   },
   {
-    "Site_ID":61402555,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-23T09:54:24+10:00",
-    "Price":2.459,
-    "Name":"Astron Twin Rivers",
-    "Address":"68929 Bruce Highway",
-    "Postcode":"4871",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61402769,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-23T11:45:07+10:00",
-    "Price":2.329,
-    "Name":"United Koah",
-    "Address":"2 Koah Rd",
-    "Postcode":"4872",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61402827,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-22T09:40:09+10:00",
-    "Price":2.275,
-    "Name":"United Cairns North",
-    "Address":"238 Sheridan Street",
-    "Postcode":"4870",
-    "Fuel_Name":"e10"
-  },
-  {
     "Site_ID":61402828,
     "Fuel_ID":12,
     "TransactionDate":"2026-09-22T09:15:14+10:00",
@@ -1900,72 +1860,12 @@
     "Fuel_Name":"e10"
   },
   {
-    "Site_ID":61402869,
+    "Site_ID":61402827,
     "Fuel_ID":12,
-    "TransactionDate":"2026-09-23T10:10:13+10:00",
-    "Price":2.355,
-    "Name":"United Gordonvale Cairns Road",
-    "Address":"105-115 Cairns Road",
-    "Postcode":"4865",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61402891,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-14T10:00:44+10:00",
-    "Price":9.999,
-    "Name":"Shell Express Edmonton",
-    "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
-    "Postcode":"4869",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61451567,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-25T09:20:20+10:00",
-    "Price":2.419,
-    "Name":"Shell Reddy Express Cairns Sheridan St",
-    "Address":"291-293 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61451572,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-25T09:00:42+10:00",
-    "Price":2.439,
-    "Name":"Shell Reddy Express Smithfield (Qld)",
-    "Address":"Lot 1 Captain Cook Hwy",
-    "Postcode":"4878",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61451666,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-22T10:35:51+10:00",
-    "Price":2.235,
-    "Name":"Liberty Woree",
-    "Address":"540 Mulgrave Road",
-    "Postcode":"4868",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61451722,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-24T06:17:28+10:00",
-    "Price":2.335,
-    "Name":"Mobil Yorkey's Knob",
-    "Address":"233 Yorkeys Knob Road",
-    "Postcode":"4878",
-    "Fuel_Name":"e10"
-  },
-  {
-    "Site_ID":61470086,
-    "Fuel_ID":12,
-    "TransactionDate":"2026-09-23T07:17:08+10:00",
-    "Price":2.355,
-    "Name":"Mobil on Spence",
-    "Address":"142A-146 Spence Street",
+    "TransactionDate":"2026-09-22T09:40:09+10:00",
+    "Price":2.275,
+    "Name":"United Cairns North",
+    "Address":"238 Sheridan Street",
     "Postcode":"4870",
     "Fuel_Name":"e10"
   },
@@ -1980,22 +1880,32 @@
     "Fuel_Name":"e10"
   },
   {
-    "Site_ID":61477095,
+    "Site_ID":61451666,
     "Fuel_ID":12,
-    "TransactionDate":"2026-09-25T09:05:22+10:00",
-    "Price":2.459,
-    "Name":"Shell Reddy Express Redlynch",
-    "Address":"1A Chelsea Lane",
-    "Postcode":"4878",
+    "TransactionDate":"2026-09-22T10:35:51+10:00",
+    "Price":2.235,
+    "Name":"Liberty Woree",
+    "Address":"540 Mulgrave Road",
+    "Postcode":"4868",
     "Fuel_Name":"e10"
   },
   {
-    "Site_ID":61477719,
+    "Site_ID":61402272,
     "Fuel_ID":12,
-    "TransactionDate":"2026-09-25T09:05:22+10:00",
-    "Price":2.429,
-    "Name":"Shell Reddy Express Cairns Mulgrave Rd",
-    "Address":"87 Mulgrave Rd",
+    "TransactionDate":"2026-09-23T07:04:23+10:00",
+    "Price":2.355,
+    "Name":"Mobil Brinsmead",
+    "Address":"101-115 Brinsmead Road",
+    "Postcode":"4870",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61470086,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-23T07:17:08+10:00",
+    "Price":2.355,
+    "Name":"Mobil on Spence",
+    "Address":"142A-146 Spence Street",
     "Postcode":"4870",
     "Fuel_Name":"e10"
   },
@@ -2010,12 +1920,102 @@
     "Fuel_Name":"e10"
   },
   {
-    "Site_ID":61477987,
+    "Site_ID":61402869,
     "Fuel_ID":12,
-    "TransactionDate":"2026-09-19T07:49:19+10:00",
-    "Price":2.295,
-    "Name":"Mobil Sheridan Street",
-    "Address":"237-241 Sheridan Street",
+    "TransactionDate":"2026-09-23T10:10:13+10:00",
+    "Price":2.355,
+    "Name":"United Gordonvale Cairns Road",
+    "Address":"105-115 Cairns Road",
+    "Postcode":"4865",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61402769,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-23T11:45:07+10:00",
+    "Price":2.329,
+    "Name":"United Koah",
+    "Address":"2 Koah Rd",
+    "Postcode":"4872",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61451722,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-24T06:17:28+10:00",
+    "Price":2.335,
+    "Name":"Mobil Yorkey's Knob",
+    "Address":"233 Yorkeys Knob Road",
+    "Postcode":"4878",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61402067,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-24T08:04:42+10:00",
+    "Price":2.279,
+    "Name":"Caltex Woree",
+    "Address":"590 Mulgrave Rd",
+    "Postcode":"4868",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61477095,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-25T12:15:28+10:00",
+    "Price":2.449,
+    "Name":"Shell Reddy Express Redlynch",
+    "Address":"1A Chelsea Lane",
+    "Postcode":"4878",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61402393,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-25T12:16:50+10:00",
+    "Price":2.439,
+    "Name":"Caltex Stratford",
+    "Address":"45 Arnold St",
+    "Postcode":"4870",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61402555,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-25T13:54:28+10:00",
+    "Price":2.559,
+    "Name":"Astron Twin Rivers",
+    "Address":"68929 Bruce Highway",
+    "Postcode":"4871",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61451572,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-25T14:15:28+10:00",
+    "Price":2.379,
+    "Name":"Shell Reddy Express Smithfield (Qld)",
+    "Address":"Lot 1 Captain Cook Hwy",
+    "Postcode":"4878",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61451567,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-25T14:30:38+10:00",
+    "Price":2.379,
+    "Name":"Shell Reddy Express Cairns Sheridan St",
+    "Address":"291-293 Sheridan St",
+    "Postcode":"4870",
+    "Fuel_Name":"e10"
+  },
+  {
+    "Site_ID":61477719,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-09-25T16:30:34+10:00",
+    "Price":2.379,
+    "Name":"Shell Reddy Express Cairns Mulgrave Rd",
+    "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
     "Fuel_Name":"e10"
   },
@@ -2030,46 +2030,6 @@
     "Fuel_Name":"Premium Diesel"
   },
   {
-    "Site_ID":61402067,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-09-22T11:10:44+10:00",
-    "Price":2.839,
-    "Name":"Caltex Woree",
-    "Address":"590 Mulgrave Rd",
-    "Postcode":"4868",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
-    "Site_ID":61402073,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-09-25T07:27:17+10:00",
-    "Price":2.949,
-    "Name":"Ampol Foodary Cairns Sheridan St",
-    "Address":"131 Sheridan St",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
-    "Site_ID":61402357,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-09-24T11:49:28+10:00",
-    "Price":2.809,
-    "Name":"Ampol Cairns",
-    "Address":"60 Draper Street",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
-    "Site_ID":61402393,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-09-22T13:32:47+10:00",
-    "Price":2.969,
-    "Name":"Caltex Stratford",
-    "Address":"45 Arnold St",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
     "Site_ID":61402394,
     "Fuel_ID":14,
     "TransactionDate":"2026-09-21T09:36:59+10:00",
@@ -2077,26 +2037,6 @@
     "Name":"Caltex Bentley Park",
     "Address":"28 Supply Rd",
     "Postcode":"4869",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
-    "Site_ID":61402395,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-09-25T04:14:46+10:00",
-    "Price":2.809,
-    "Name":"Caltex Portsmith",
-    "Address":"104 Cook St, Portsmith QLD 4870, Australia",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
-    "Site_ID":61451666,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-09-22T10:35:52+10:00",
-    "Price":2.825,
-    "Name":"Liberty Woree",
-    "Address":"540 Mulgrave Road",
-    "Postcode":"4868",
     "Fuel_Name":"Premium Diesel"
   },
   {
@@ -2110,22 +2050,12 @@
     "Fuel_Name":"Premium Diesel"
   },
   {
-    "Site_ID":61477011,
+    "Site_ID":61478243,
     "Fuel_ID":14,
-    "TransactionDate":"2026-09-22T10:20:51+10:00",
-    "Price":2.825,
-    "Name":"Liberty Manoora",
-    "Address":"31-35 Reservoir Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
-    "Site_ID":61477020,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-09-22T07:42:17+10:00",
-    "Price":2.939,
-    "Name":"Ampol Foodary Manunda",
-    "Address":"1 Hoare St & Gatton Rd",
+    "TransactionDate":"2026-09-21T16:35:04+10:00",
+    "Price":2.899,
+    "Name":"NightOwl BP Anderson Street",
+    "Address":"66-68 Anderson St",
     "Postcode":"4870",
     "Fuel_Name":"Premium Diesel"
   },
@@ -2140,12 +2070,82 @@
     "Fuel_Name":"Premium Diesel"
   },
   {
-    "Site_ID":61478243,
+    "Site_ID":61477011,
     "Fuel_ID":14,
-    "TransactionDate":"2026-09-21T16:35:04+10:00",
-    "Price":2.899,
-    "Name":"NightOwl BP Anderson Street",
-    "Address":"66-68 Anderson St",
+    "TransactionDate":"2026-09-22T10:20:51+10:00",
+    "Price":2.825,
+    "Name":"Liberty Manoora",
+    "Address":"31-35 Reservoir Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61451666,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-09-22T10:35:52+10:00",
+    "Price":2.825,
+    "Name":"Liberty Woree",
+    "Address":"540 Mulgrave Road",
+    "Postcode":"4868",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61402067,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-09-22T11:10:44+10:00",
+    "Price":2.839,
+    "Name":"Caltex Woree",
+    "Address":"590 Mulgrave Rd",
+    "Postcode":"4868",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61402357,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-09-24T11:49:28+10:00",
+    "Price":2.809,
+    "Name":"Ampol Cairns",
+    "Address":"60 Draper Street",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61402395,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-09-25T04:14:46+10:00",
+    "Price":2.809,
+    "Name":"Caltex Portsmith",
+    "Address":"104 Cook St, Portsmith QLD 4870, Australia",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61402073,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-09-25T07:27:17+10:00",
+    "Price":2.949,
+    "Name":"Ampol Foodary Cairns Sheridan St",
+    "Address":"131 Sheridan St",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61402393,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-09-25T12:16:50+10:00",
+    "Price":2.939,
+    "Name":"Caltex Stratford",
+    "Address":"45 Arnold St",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61477020,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-09-25T15:27:19+10:00",
+    "Price":2.909,
+    "Name":"Ampol Foodary Manunda",
+    "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
     "Fuel_Name":"Premium Diesel"
   }
