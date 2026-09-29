@@ -312,7 +312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-29T12:25:18+10:00",
+    "TransactionDate":"2026-09-29T20:25:18+10:00",
     "Price":2.379,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-29T12:25:18+10:00",
+    "TransactionDate":"2026-09-29T20:25:18+10:00",
     "Price":2.349,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -832,7 +832,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-29T12:25:18+10:00",
+    "TransactionDate":"2026-09-29T20:25:18+10:00",
     "Price":2.869,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -872,7 +872,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-29T12:25:18+10:00",
+    "TransactionDate":"2026-09-29T20:25:18+10:00",
     "Price":2.939,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -952,8 +952,8 @@
   {
     "Site_ID":61477804,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-25T06:34:56+10:00",
-    "Price":2.867,
+    "TransactionDate":"2026-09-29T17:45:51+10:00",
+    "Price":2.837,
     "Name":"Stratford Driveway Discount Fuels",
     "Address":"2-4 Rinks Close",
     "Postcode":"4870",
@@ -1272,8 +1272,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-25T18:10:09+10:00",
-    "Price":2.559,
+    "TransactionDate":"2026-09-29T13:00:13+10:00",
+    "Price":2.519,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -1282,8 +1282,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-28T14:55:05+10:00",
-    "Price":2.495,
+    "TransactionDate":"2026-09-29T12:55:11+10:00",
+    "Price":2.475,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -1292,7 +1292,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-29T12:25:18+10:00",
+    "TransactionDate":"2026-09-29T20:25:18+10:00",
     "Price":2.559,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-29T12:25:18+10:00",
+    "TransactionDate":"2026-09-29T20:25:18+10:00",
     "Price":2.519,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1472,8 +1472,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-21T16:35:04+10:00",
-    "Price":2.559,
+    "TransactionDate":"2026-09-29T14:20:08+10:00",
+    "Price":2.499,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1642,8 +1642,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-24T12:35:11+10:00",
-    "Price":2.659,
+    "TransactionDate":"2026-09-29T13:00:13+10:00",
+    "Price":2.599,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -1652,8 +1652,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-21T16:15:06+10:00",
-    "Price":2.599,
+    "TransactionDate":"2026-09-29T12:55:11+10:00",
+    "Price":2.579,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -1662,7 +1662,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-29T12:25:18+10:00",
+    "TransactionDate":"2026-09-29T20:25:18+10:00",
     "Price":2.649,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-29T12:25:18+10:00",
+    "TransactionDate":"2026-09-29T20:25:18+10:00",
     "Price":2.609,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1772,8 +1772,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-21T16:35:04+10:00",
-    "Price":2.659,
+    "TransactionDate":"2026-09-29T14:20:08+10:00",
+    "Price":2.599,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
