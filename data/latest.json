@@ -52,8 +52,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-25T15:32:18+10:00",
-    "Price":2.304,
+    "TransactionDate":"2026-10-02T07:27:18+10:00",
+    "Price":2.309,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -102,8 +102,8 @@
   {
     "Site_ID":61402549,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-29T10:19:22+10:00",
-    "Price":2.44,
+    "TransactionDate":"2026-10-02T09:21:52+10:00",
+    "Price":2.46,
     "Name":"Zenna's General Store",
     "Address":"177 Howard Kennedy Dr",
     "Postcode":"4861",
@@ -167,6 +167,16 @@
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
+    "Fuel_Name":"Unleaded"
+  },
+  {
+    "Site_ID":61402891,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-10-02T08:11:09+10:00",
+    "Price":2.339,
+    "Name":"Shell Express Edmonton",
+    "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
+    "Postcode":"4869",
     "Fuel_Name":"Unleaded"
   },
   {
@@ -312,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-01T20:40:19+10:00",
+    "TransactionDate":"2026-10-02T11:55:19+10:00",
     "Price":2.379,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -362,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-01T20:40:19+10:00",
+    "TransactionDate":"2026-10-02T11:55:19+10:00",
     "Price":2.359,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -502,8 +512,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":2,
-    "TransactionDate":"2026-09-22T10:19:10+10:00",
-    "Price":2.499,
+    "TransactionDate":"2026-10-02T09:18:57+10:00",
+    "Price":2.509,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
@@ -612,8 +622,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-28T10:14:55+10:00",
-    "Price":2.759,
+    "TransactionDate":"2026-10-02T09:26:54+10:00",
+    "Price":2.739,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -687,6 +697,16 @@
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
+    "Fuel_Name":"Diesel"
+  },
+  {
+    "Site_ID":61402891,
+    "Fuel_ID":3,
+    "TransactionDate":"2026-10-02T08:11:10+10:00",
+    "Price":2.799,
+    "Name":"Shell Express Edmonton",
+    "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
+    "Postcode":"4869",
     "Fuel_Name":"Diesel"
   },
   {
@@ -832,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-01T20:40:19+10:00",
+    "TransactionDate":"2026-10-02T11:55:19+10:00",
     "Price":2.839,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,8 +882,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-29T09:44:21+10:00",
-    "Price":2.755,
+    "TransactionDate":"2026-10-02T11:06:57+10:00",
+    "Price":2.739,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -872,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-01T20:40:19+10:00",
+    "TransactionDate":"2026-10-02T11:55:19+10:00",
     "Price":2.899,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1012,7 +1032,7 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":3,
-    "TransactionDate":"2026-09-22T10:19:10+10:00",
+    "TransactionDate":"2026-10-02T09:18:57+10:00",
     "Price":2.949,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
@@ -1292,7 +1312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-01T20:40:19+10:00",
+    "TransactionDate":"2026-10-02T11:55:19+10:00",
     "Price":2.559,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1312,7 +1332,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-01T20:40:19+10:00",
+    "TransactionDate":"2026-10-02T11:55:19+10:00",
     "Price":2.529,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1662,7 +1682,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-01T20:40:19+10:00",
+    "TransactionDate":"2026-10-02T11:55:19+10:00",
     "Price":2.649,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1702,7 +1722,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-01T20:40:19+10:00",
+    "TransactionDate":"2026-10-02T11:55:19+10:00",
     "Price":2.619,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1742,8 +1762,8 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":8,
-    "TransactionDate":"2026-09-22T10:19:10+10:00",
-    "Price":2.789,
+    "TransactionDate":"2026-10-02T09:18:57+10:00",
+    "Price":2.799,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
     "Postcode":"4877",
@@ -1890,6 +1910,16 @@
     "Fuel_Name":"e10"
   },
   {
+    "Site_ID":61402891,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-10-02T08:11:10+10:00",
+    "Price":2.319,
+    "Name":"Shell Express Edmonton",
+    "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
+    "Postcode":"4869",
+    "Fuel_Name":"e10"
+  },
+  {
     "Site_ID":61451567,
     "Fuel_ID":12,
     "TransactionDate":"2026-09-25T14:30:38+10:00",
@@ -2022,8 +2052,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2026-09-28T10:14:55+10:00",
-    "Price":2.789,
+    "TransactionDate":"2026-10-02T09:26:54+10:00",
+    "Price":2.769,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2092,8 +2122,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":14,
-    "TransactionDate":"2026-09-30T15:02:18+10:00",
-    "Price":2.839,
+    "TransactionDate":"2026-10-02T11:57:17+10:00",
+    "Price":2.819,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -2102,7 +2132,7 @@
   {
     "Site_ID":61477837,
     "Fuel_ID":14,
-    "TransactionDate":"2026-09-22T10:19:10+10:00",
+    "TransactionDate":"2026-10-02T09:18:57+10:00",
     "Price":3.009,
     "Name":"BP Port Douglas",
     "Address":"5946 Davidson Street",
