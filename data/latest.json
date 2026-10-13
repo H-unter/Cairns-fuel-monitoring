@@ -112,8 +112,8 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-10T15:02:49+10:00",
-    "Price":2.429,
+    "TransactionDate":"2026-10-13T15:11:43+10:00",
+    "Price":2.459,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
     "Postcode":"4871",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-13T13:25:19+10:00",
+    "TransactionDate":"2026-10-13T21:25:18+10:00",
     "Price":2.449,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -332,8 +332,8 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-13T10:22:46+10:00",
-    "Price":2.415,
+    "TransactionDate":"2026-10-13T17:06:44+10:00",
+    "Price":2.439,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-13T13:25:19+10:00",
+    "TransactionDate":"2026-10-13T21:25:18+10:00",
     "Price":2.439,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -642,7 +642,7 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-09T12:25:57+10:00",
+    "TransactionDate":"2026-10-13T15:11:43+10:00",
     "Price":2.869,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
@@ -832,8 +832,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-13T05:42:41+10:00",
-    "Price":2.799,
+    "TransactionDate":"2026-10-13T15:20:09+10:00",
+    "Price":2.859,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-13T13:25:19+10:00",
+    "TransactionDate":"2026-10-13T21:25:18+10:00",
     "Price":2.869,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-13T10:22:46+10:00",
+    "TransactionDate":"2026-10-13T17:06:44+10:00",
     "Price":2.799,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
@@ -892,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-13T13:25:19+10:00",
+    "TransactionDate":"2026-10-13T21:25:18+10:00",
     "Price":2.889,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1072,8 +1072,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-12T16:10:07+10:00",
-    "Price":2.799,
+    "TransactionDate":"2026-10-13T16:25:06+10:00",
+    "Price":2.859,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
@@ -1152,7 +1152,7 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":5,
-    "TransactionDate":"2026-09-27T16:35:03+10:00",
+    "TransactionDate":"2026-10-13T15:11:43+10:00",
     "Price":2.499,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-13T13:25:19+10:00",
+    "TransactionDate":"2026-10-13T21:25:18+10:00",
     "Price":2.629,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-13T13:25:19+10:00",
+    "TransactionDate":"2026-10-13T21:25:18+10:00",
     "Price":2.609,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1682,7 +1682,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-13T13:25:19+10:00",
+    "TransactionDate":"2026-10-13T21:25:18+10:00",
     "Price":2.719,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-13T10:22:46+10:00",
+    "TransactionDate":"2026-10-13T17:06:44+10:00",
     "Price":2.719,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
@@ -1722,7 +1722,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-13T13:25:19+10:00",
+    "TransactionDate":"2026-10-13T21:25:18+10:00",
     "Price":2.699,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1862,7 +1862,7 @@
   {
     "Site_ID":61402555,
     "Fuel_ID":12,
-    "TransactionDate":"2026-09-27T16:35:03+10:00",
+    "TransactionDate":"2026-10-13T15:11:43+10:00",
     "Price":2.429,
     "Name":"Astron Twin Rivers",
     "Address":"68929 Bruce Highway",
@@ -2060,6 +2060,16 @@
     "Fuel_Name":"Premium Diesel"
   },
   {
+    "Site_ID":61402371,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-10-13T15:12:19+10:00",
+    "Price":2.878,
+    "Name":"EG Ampol Earlville",
+    "Address":"537 Mulgrave Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
     "Site_ID":61402393,
     "Fuel_ID":14,
     "TransactionDate":"2026-09-28T14:02:58+10:00",
@@ -2086,6 +2096,16 @@
     "Price":2.869,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Diesel"
+  },
+  {
+    "Site_ID":61402458,
+    "Fuel_ID":14,
+    "TransactionDate":"2026-10-13T17:37:18+10:00",
+    "Price":2.889,
+    "Name":"EG Ampol Manunda",
+    "Address":"1 Koch St",
     "Postcode":"4870",
     "Fuel_Name":"Premium Diesel"
   },
@@ -2142,8 +2162,8 @@
   {
     "Site_ID":61478243,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-12T16:10:07+10:00",
-    "Price":2.819,
+    "TransactionDate":"2026-10-13T16:25:06+10:00",
+    "Price":2.879,
     "Name":"NightOwl BP Anderson Street",
     "Address":"66-68 Anderson St",
     "Postcode":"4870",
