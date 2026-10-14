@@ -172,7 +172,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-13T11:06:41+10:00",
+    "TransactionDate":"2026-10-14T14:12:16+10:00",
     "Price":2.259,
     "Name":"Shell Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-14T11:40:18+10:00",
+    "TransactionDate":"2026-10-14T19:10:19+10:00",
     "Price":2.449,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -372,8 +372,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-14T11:40:18+10:00",
-    "Price":2.439,
+    "TransactionDate":"2026-10-14T19:10:19+10:00",
+    "Price":2.429,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -702,8 +702,8 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-13T11:06:42+10:00",
-    "Price":2.699,
+    "TransactionDate":"2026-10-14T14:12:18+10:00",
+    "Price":2.969,
     "Name":"Shell Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
     "Postcode":"4869",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-14T11:40:18+10:00",
+    "TransactionDate":"2026-10-14T19:10:19+10:00",
     "Price":2.869,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -882,8 +882,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-14T10:07:39+10:00",
-    "Price":2.695,
+    "TransactionDate":"2026-10-14T15:43:10+10:00",
+    "Price":2.685,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -892,8 +892,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-14T11:40:18+10:00",
-    "Price":2.889,
+    "TransactionDate":"2026-10-14T19:10:19+10:00",
+    "Price":2.879,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-14T11:40:18+10:00",
+    "TransactionDate":"2026-10-14T19:10:19+10:00",
     "Price":2.629,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1332,8 +1332,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-14T11:40:18+10:00",
-    "Price":2.609,
+    "TransactionDate":"2026-10-14T19:10:19+10:00",
+    "Price":2.599,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1662,8 +1662,8 @@
   {
     "Site_ID":61470301,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-13T05:42:41+10:00",
-    "Price":2.739,
+    "TransactionDate":"2026-10-14T14:55:05+10:00",
+    "Price":2.759,
     "Name":"NightOwl BP Clifton Beach",
     "Address":"55-57 Endeavour Road",
     "Postcode":"4879",
@@ -1682,7 +1682,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-14T11:40:18+10:00",
+    "TransactionDate":"2026-10-14T19:10:19+10:00",
     "Price":2.719,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1722,8 +1722,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-14T11:40:18+10:00",
-    "Price":2.699,
+    "TransactionDate":"2026-10-14T19:10:19+10:00",
+    "Price":2.689,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1912,7 +1912,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":12,
-    "TransactionDate":"2026-10-13T11:06:42+10:00",
+    "TransactionDate":"2026-10-14T14:12:17+10:00",
     "Price":2.219,
     "Name":"Shell Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
