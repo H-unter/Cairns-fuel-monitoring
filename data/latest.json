@@ -92,8 +92,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-12T14:02:31+10:00",
-    "Price":2.429,
+    "TransactionDate":"2026-10-14T11:31:49+10:00",
+    "Price":2.439,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -312,7 +312,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-10T07:45:07+10:00",
+    "TransactionDate":"2026-10-14T09:50:08+10:00",
     "Price":2.459,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -322,7 +322,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-13T21:25:18+10:00",
+    "TransactionDate":"2026-10-14T11:40:18+10:00",
     "Price":2.449,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -332,8 +332,8 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-13T17:06:44+10:00",
-    "Price":2.439,
+    "TransactionDate":"2026-10-14T09:54:42+10:00",
+    "Price":2.399,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
     "Postcode":"4881",
@@ -362,7 +362,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-13T10:18:46+10:00",
+    "TransactionDate":"2026-10-14T10:07:39+10:00",
     "Price":2.315,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -372,7 +372,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-13T21:25:18+10:00",
+    "TransactionDate":"2026-10-14T11:40:18+10:00",
     "Price":2.439,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -532,8 +532,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-13T07:24:30+10:00",
-    "Price":2.355,
+    "TransactionDate":"2026-10-14T08:20:00+10:00",
+    "Price":2.395,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -622,8 +622,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-12T09:49:23+10:00",
-    "Price":2.699,
+    "TransactionDate":"2026-10-14T10:46:12+10:00",
+    "Price":2.689,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -722,8 +722,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-12T14:00:51+10:00",
-    "Price":2.889,
+    "TransactionDate":"2026-10-14T09:35:21+10:00",
+    "Price":2.879,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -742,8 +742,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-12T14:00:51+10:00",
-    "Price":2.919,
+    "TransactionDate":"2026-10-14T09:35:21+10:00",
+    "Price":2.909,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -782,8 +782,8 @@
   {
     "Site_ID":61451734,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-12T14:00:51+10:00",
-    "Price":2.939,
+    "TransactionDate":"2026-10-14T09:35:21+10:00",
+    "Price":2.929,
     "Name":"Shell Reddy Express Port Douglas",
     "Address":"10 Captain Cook Hwy",
     "Postcode":"4877",
@@ -842,8 +842,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-13T07:50:11+10:00",
-    "Price":2.779,
+    "TransactionDate":"2026-10-14T09:50:08+10:00",
+    "Price":2.839,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-13T21:25:18+10:00",
+    "TransactionDate":"2026-10-14T11:40:18+10:00",
     "Price":2.869,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-13T17:06:44+10:00",
+    "TransactionDate":"2026-10-14T09:54:42+10:00",
     "Price":2.799,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
@@ -882,7 +882,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-13T10:18:46+10:00",
+    "TransactionDate":"2026-10-14T10:07:39+10:00",
     "Price":2.695,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -892,7 +892,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-13T21:25:18+10:00",
+    "TransactionDate":"2026-10-14T11:40:18+10:00",
     "Price":2.889,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -902,8 +902,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-12T14:00:51+10:00",
-    "Price":2.899,
+    "TransactionDate":"2026-10-14T09:30:42+10:00",
+    "Price":2.889,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -932,8 +932,8 @@
   {
     "Site_ID":61477719,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-12T14:00:51+10:00",
-    "Price":2.889,
+    "TransactionDate":"2026-10-14T09:35:21+10:00",
+    "Price":2.879,
     "Name":"Shell Reddy Express Cairns Mulgrave Rd",
     "Address":"87 Mulgrave Rd",
     "Postcode":"4870",
@@ -1302,7 +1302,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-13T07:50:11+10:00",
+    "TransactionDate":"2026-10-14T09:50:08+10:00",
     "Price":2.599,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -1312,7 +1312,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-13T21:25:18+10:00",
+    "TransactionDate":"2026-10-14T11:40:18+10:00",
     "Price":2.629,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1322,8 +1322,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-13T10:18:46+10:00",
-    "Price":2.449,
+    "TransactionDate":"2026-10-14T10:07:39+10:00",
+    "Price":2.455,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-13T21:25:18+10:00",
+    "TransactionDate":"2026-10-14T11:40:18+10:00",
     "Price":2.609,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1472,8 +1472,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-13T07:24:30+10:00",
-    "Price":2.455,
+    "TransactionDate":"2026-10-14T08:20:00+10:00",
+    "Price":2.495,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -1552,8 +1552,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-12T14:02:31+10:00",
-    "Price":2.679,
+    "TransactionDate":"2026-10-14T11:31:49+10:00",
+    "Price":2.689,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -1672,7 +1672,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-13T07:50:11+10:00",
+    "TransactionDate":"2026-10-14T09:50:08+10:00",
     "Price":2.699,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -1682,7 +1682,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-13T21:25:18+10:00",
+    "TransactionDate":"2026-10-14T11:40:18+10:00",
     "Price":2.719,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1692,7 +1692,7 @@
   {
     "Site_ID":61470699,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-13T17:06:44+10:00",
+    "TransactionDate":"2026-10-14T09:54:42+10:00",
     "Price":2.719,
     "Name":"BP Kuranda",
     "Address":"3 Rob Veivers Drive",
@@ -1722,7 +1722,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-13T21:25:18+10:00",
+    "TransactionDate":"2026-10-14T11:40:18+10:00",
     "Price":2.699,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1772,8 +1772,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-13T07:24:30+10:00",
-    "Price":2.555,
+    "TransactionDate":"2026-10-14T08:20:00+10:00",
+    "Price":2.595,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -1852,8 +1852,8 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":12,
-    "TransactionDate":"2026-10-12T14:02:31+10:00",
-    "Price":2.409,
+    "TransactionDate":"2026-10-14T11:31:49+10:00",
+    "Price":2.419,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
     "Postcode":"4870",
@@ -2012,8 +2012,8 @@
   {
     "Site_ID":61477987,
     "Fuel_ID":12,
-    "TransactionDate":"2026-10-13T07:24:30+10:00",
-    "Price":2.335,
+    "TransactionDate":"2026-10-14T08:20:00+10:00",
+    "Price":2.375,
     "Name":"Mobil Sheridan Street",
     "Address":"237-241 Sheridan Street",
     "Postcode":"4870",
@@ -2042,8 +2042,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-11T07:27:17+10:00",
-    "Price":2.929,
+    "TransactionDate":"2026-10-14T07:27:18+10:00",
+    "Price":2.904,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -2052,8 +2052,8 @@
   {
     "Site_ID":61402357,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-12T09:49:23+10:00",
-    "Price":2.729,
+    "TransactionDate":"2026-10-14T10:46:12+10:00",
+    "Price":2.719,
     "Name":"Ampol Cairns",
     "Address":"60 Draper Street",
     "Postcode":"4870",
@@ -2062,8 +2062,8 @@
   {
     "Site_ID":61402371,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-13T15:12:19+10:00",
-    "Price":2.878,
+    "TransactionDate":"2026-10-14T09:27:17+10:00",
+    "Price":2.889,
     "Name":"EG Ampol Earlville",
     "Address":"537 Mulgrave Rd",
     "Postcode":"4870",
@@ -2092,7 +2092,7 @@
   {
     "Site_ID":61402395,
     "Fuel_ID":14,
-    "TransactionDate":"2026-09-30T04:12:02+10:00",
+    "TransactionDate":"2026-10-14T11:31:49+10:00",
     "Price":2.869,
     "Name":"Caltex Portsmith",
     "Address":"104 Cook St, Portsmith QLD 4870, Australia",
@@ -2122,8 +2122,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-13T07:50:11+10:00",
-    "Price":2.799,
+    "TransactionDate":"2026-10-14T09:50:08+10:00",
+    "Price":2.859,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
