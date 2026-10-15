@@ -70,6 +70,16 @@
     "Fuel_Name":"Unleaded"
   },
   {
+    "Site_ID":61402371,
+    "Fuel_ID":2,
+    "TransactionDate":"2026-10-15T09:27:18+10:00",
+    "Price":2.399,
+    "Name":"EG Ampol Earlville",
+    "Address":"537 Mulgrave Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Unleaded"
+  },
+  {
     "Site_ID":61402393,
     "Fuel_ID":2,
     "TransactionDate":"2026-10-12T13:28:20+10:00",
@@ -172,7 +182,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-14T14:12:16+10:00",
+    "TransactionDate":"2026-10-14T22:21:25+10:00",
     "Price":2.259,
     "Name":"Shell Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -262,8 +272,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-08T06:27:53+10:00",
-    "Price":2.395,
+    "TransactionDate":"2026-10-15T05:44:22+10:00",
+    "Price":9.999,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -322,8 +332,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-14T19:10:19+10:00",
-    "Price":2.449,
+    "TransactionDate":"2026-10-15T11:10:19+10:00",
+    "Price":2.419,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -352,8 +362,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-12T15:12:17+10:00",
-    "Price":2.409,
+    "TransactionDate":"2026-10-15T10:02:18+10:00",
+    "Price":2.369,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -372,7 +382,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-14T19:10:19+10:00",
+    "TransactionDate":"2026-10-15T11:10:19+10:00",
     "Price":2.429,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -422,8 +432,8 @@
   {
     "Site_ID":61477726,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-09T09:10:47+10:00",
-    "Price":2.399,
+    "TransactionDate":"2026-10-15T08:57:11+10:00",
+    "Price":2.429,
     "Name":"White Rock General Store",
     "Address":"150 Progress Road",
     "Postcode":"4868",
@@ -702,8 +712,8 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-14T14:12:18+10:00",
-    "Price":2.969,
+    "TransactionDate":"2026-10-14T22:21:27+10:00",
+    "Price":2.699,
     "Name":"Shell Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
     "Postcode":"4869",
@@ -732,8 +742,8 @@
   {
     "Site_ID":61451567,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-12T14:00:51+10:00",
-    "Price":2.879,
+    "TransactionDate":"2026-10-14T20:50:19+10:00",
+    "Price":2.869,
     "Name":"Shell Reddy Express Cairns Sheridan St",
     "Address":"291-293 Sheridan St",
     "Postcode":"4870",
@@ -792,8 +802,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-08T06:27:53+10:00",
-    "Price":2.865,
+    "TransactionDate":"2026-10-15T05:44:22+10:00",
+    "Price":9.999,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -852,7 +862,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-14T19:10:19+10:00",
+    "TransactionDate":"2026-10-15T11:10:19+10:00",
     "Price":2.869,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,7 +902,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-14T19:10:19+10:00",
+    "TransactionDate":"2026-10-15T11:10:19+10:00",
     "Price":2.879,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1150,6 +1160,16 @@
     "Fuel_Name":"Premium Unleaded 95"
   },
   {
+    "Site_ID":61402371,
+    "Fuel_ID":5,
+    "TransactionDate":"2026-10-15T09:27:18+10:00",
+    "Price":2.569,
+    "Name":"EG Ampol Earlville",
+    "Address":"537 Mulgrave Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"Premium Unleaded 95"
+  },
+  {
     "Site_ID":61402555,
     "Fuel_ID":5,
     "TransactionDate":"2026-10-13T15:11:43+10:00",
@@ -1262,8 +1282,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-08T06:27:53+10:00",
-    "Price":2.495,
+    "TransactionDate":"2026-10-15T05:44:22+10:00",
+    "Price":9.999,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -1312,8 +1332,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-14T19:10:19+10:00",
-    "Price":2.629,
+    "TransactionDate":"2026-10-15T11:10:19+10:00",
+    "Price":2.599,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1332,7 +1352,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-14T19:10:19+10:00",
+    "TransactionDate":"2026-10-15T11:10:19+10:00",
     "Price":2.599,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1682,8 +1702,8 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-14T19:10:19+10:00",
-    "Price":2.719,
+    "TransactionDate":"2026-10-15T11:10:19+10:00",
+    "Price":2.689,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
     "Postcode":"4870",
@@ -1712,8 +1732,8 @@
   {
     "Site_ID":61477020,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-12T15:12:17+10:00",
-    "Price":2.679,
+    "TransactionDate":"2026-10-15T09:57:18+10:00",
+    "Price":2.639,
     "Name":"Ampol Foodary Manunda",
     "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
@@ -1722,7 +1742,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-14T19:10:19+10:00",
+    "TransactionDate":"2026-10-15T11:10:19+10:00",
     "Price":2.689,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1830,6 +1850,16 @@
     "Fuel_Name":"e10"
   },
   {
+    "Site_ID":61402371,
+    "Fuel_ID":12,
+    "TransactionDate":"2026-10-15T09:27:18+10:00",
+    "Price":2.379,
+    "Name":"EG Ampol Earlville",
+    "Address":"537 Mulgrave Rd",
+    "Postcode":"4870",
+    "Fuel_Name":"e10"
+  },
+  {
     "Site_ID":61402393,
     "Fuel_ID":12,
     "TransactionDate":"2026-10-12T13:28:20+10:00",
@@ -1912,7 +1942,7 @@
   {
     "Site_ID":61402891,
     "Fuel_ID":12,
-    "TransactionDate":"2026-10-14T14:12:17+10:00",
+    "TransactionDate":"2026-10-14T22:21:26+10:00",
     "Price":2.219,
     "Name":"Shell Express Edmonton",
     "Address":"9-11 Walker Rd (Cnr Hambledon Dr)",
@@ -2042,8 +2072,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-14T07:27:18+10:00",
-    "Price":2.904,
+    "TransactionDate":"2026-10-15T07:27:20+10:00",
+    "Price":2.894,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
