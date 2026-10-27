@@ -162,8 +162,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-25T08:10:11+10:00",
-    "Price":2.295,
+    "TransactionDate":"2026-10-27T10:00:15+10:00",
+    "Price":2.339,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -252,7 +252,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-26T05:57:55+10:00",
+    "TransactionDate":"2026-10-27T07:51:56+10:00",
     "Price":2.395,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -332,7 +332,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-24T18:45:08+10:00",
+    "TransactionDate":"2026-10-26T22:30:17+10:00",
     "Price":2.388,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -342,7 +342,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-26T19:55:18+10:00",
+    "TransactionDate":"2026-10-27T11:55:18+10:00",
     "Price":2.299,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -382,7 +382,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-26T11:01:26+10:00",
+    "TransactionDate":"2026-10-27T09:57:48+10:00",
     "Price":2.269,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -392,7 +392,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-26T19:55:18+10:00",
+    "TransactionDate":"2026-10-27T11:55:18+10:00",
     "Price":2.399,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -692,8 +692,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-25T08:10:11+10:00",
-    "Price":2.695,
+    "TransactionDate":"2026-10-27T10:00:15+10:00",
+    "Price":2.759,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -742,8 +742,8 @@
   {
     "Site_ID":61451566,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-26T09:45:20+10:00",
-    "Price":2.879,
+    "TransactionDate":"2026-10-27T11:50:22+10:00",
+    "Price":2.889,
     "Name":"Shell Reddy Express Reservoir (Qld)",
     "Address":"58 Pease St",
     "Postcode":"4870",
@@ -762,8 +762,8 @@
   {
     "Site_ID":61451572,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-26T09:30:28+10:00",
-    "Price":2.899,
+    "TransactionDate":"2026-10-27T11:50:22+10:00",
+    "Price":2.909,
     "Name":"Shell Reddy Express Smithfield (Qld)",
     "Address":"Lot 1 Captain Cook Hwy",
     "Postcode":"4878",
@@ -782,8 +782,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-26T05:57:55+10:00",
-    "Price":2.815,
+    "TransactionDate":"2026-10-27T07:51:56+10:00",
+    "Price":2.795,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -852,7 +852,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-24T18:45:08+10:00",
+    "TransactionDate":"2026-10-26T22:30:17+10:00",
     "Price":2.789,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-26T19:55:18+10:00",
+    "TransactionDate":"2026-10-27T11:55:18+10:00",
     "Price":2.699,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -892,8 +892,8 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-24T09:42:48+10:00",
-    "Price":2.655,
+    "TransactionDate":"2026-10-27T09:57:48+10:00",
+    "Price":2.675,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
     "Postcode":"4870",
@@ -902,7 +902,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-26T19:55:18+10:00",
+    "TransactionDate":"2026-10-27T11:55:18+10:00",
     "Price":2.809,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -912,8 +912,8 @@
   {
     "Site_ID":61477095,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-26T09:30:28+10:00",
-    "Price":2.909,
+    "TransactionDate":"2026-10-27T11:50:22+10:00",
+    "Price":2.919,
     "Name":"Shell Reddy Express Redlynch",
     "Address":"1A Chelsea Lane",
     "Postcode":"4878",
@@ -1212,8 +1212,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-25T08:10:11+10:00",
-    "Price":2.435,
+    "TransactionDate":"2026-10-27T10:00:15+10:00",
+    "Price":2.479,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1262,7 +1262,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-26T05:57:55+10:00",
+    "TransactionDate":"2026-10-27T07:51:56+10:00",
     "Price":2.495,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-24T18:45:08+10:00",
+    "TransactionDate":"2026-10-26T22:30:17+10:00",
     "Price":2.499,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -1342,7 +1342,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-26T19:55:18+10:00",
+    "TransactionDate":"2026-10-27T11:55:18+10:00",
     "Price":2.479,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1352,7 +1352,7 @@
   {
     "Site_ID":61477041,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-26T11:01:26+10:00",
+    "TransactionDate":"2026-10-27T09:57:48+10:00",
     "Price":2.409,
     "Name":"OOM Energy Cairns Central",
     "Address":"Cnr Martyn & Florence St",
@@ -1362,7 +1362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-26T19:55:18+10:00",
+    "TransactionDate":"2026-10-27T11:55:18+10:00",
     "Price":2.569,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1592,8 +1592,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-25T08:10:11+10:00",
-    "Price":2.525,
+    "TransactionDate":"2026-10-27T10:00:15+10:00",
+    "Price":2.569,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -1702,8 +1702,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-24T18:45:08+10:00",
-    "Price":2.599,
+    "TransactionDate":"2026-10-26T22:30:17+10:00",
+    "Price":2.619,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -1712,7 +1712,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-26T19:55:18+10:00",
+    "TransactionDate":"2026-10-27T11:55:18+10:00",
     "Price":2.569,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1752,7 +1752,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-26T19:55:18+10:00",
+    "TransactionDate":"2026-10-27T11:55:18+10:00",
     "Price":2.659,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1932,8 +1932,8 @@
   {
     "Site_ID":61402827,
     "Fuel_ID":12,
-    "TransactionDate":"2026-10-25T08:10:11+10:00",
-    "Price":2.275,
+    "TransactionDate":"2026-10-27T10:00:15+10:00",
+    "Price":2.319,
     "Name":"United Cairns North",
     "Address":"238 Sheridan Street",
     "Postcode":"4870",
@@ -2002,7 +2002,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-10-26T05:57:55+10:00",
+    "TransactionDate":"2026-10-27T07:51:56+10:00",
     "Price":2.375,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -2092,8 +2092,8 @@
   {
     "Site_ID":61402073,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-26T07:57:18+10:00",
-    "Price":2.849,
+    "TransactionDate":"2026-10-27T07:52:19+10:00",
+    "Price":2.839,
     "Name":"Ampol Foodary Cairns Sheridan St",
     "Address":"131 Sheridan St",
     "Postcode":"4870",
@@ -2112,8 +2112,8 @@
   {
     "Site_ID":61402371,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-26T09:17:21+10:00",
-    "Price":2.739,
+    "TransactionDate":"2026-10-27T07:17:20+10:00",
+    "Price":2.759,
     "Name":"EG Ampol Earlville",
     "Address":"537 Mulgrave Rd",
     "Postcode":"4870",
@@ -2152,8 +2152,8 @@
   {
     "Site_ID":61402458,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-26T09:17:21+10:00",
-    "Price":2.779,
+    "TransactionDate":"2026-10-27T06:52:18+10:00",
+    "Price":2.799,
     "Name":"EG Ampol Manunda",
     "Address":"1 Koch St",
     "Postcode":"4870",
@@ -2172,7 +2172,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-24T18:45:08+10:00",
+    "TransactionDate":"2026-10-26T22:30:17+10:00",
     "Price":2.799,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -2186,16 +2186,6 @@
     "Price":2.725,
     "Name":"Liberty Manoora",
     "Address":"31-35 Reservoir Rd",
-    "Postcode":"4870",
-    "Fuel_Name":"Premium Diesel"
-  },
-  {
-    "Site_ID":61477020,
-    "Fuel_ID":14,
-    "TransactionDate":"2026-10-25T15:47:18+10:00",
-    "Price":2.839,
-    "Name":"Ampol Foodary Manunda",
-    "Address":"1 Hoare St & Gatton Rd",
     "Postcode":"4870",
     "Fuel_Name":"Premium Diesel"
   },
