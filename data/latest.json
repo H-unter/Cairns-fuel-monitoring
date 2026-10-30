@@ -282,8 +282,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-15T05:44:22+10:00",
-    "Price":9.999,
+    "TransactionDate":"2026-10-30T16:01:14+10:00",
+    "Price":2.395,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -342,7 +342,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-30T12:25:18+10:00",
+    "TransactionDate":"2026-10-30T20:40:19+10:00",
     "Price":2.299,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -392,7 +392,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-30T12:25:18+10:00",
+    "TransactionDate":"2026-10-30T20:40:19+10:00",
     "Price":2.399,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -582,8 +582,8 @@
   {
     "Site_ID":61401973,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-20T11:55:21+10:00",
-    "Price":2.799,
+    "TransactionDate":"2026-10-30T16:25:09+10:00",
+    "Price":2.795,
     "Name":"United Gordonvale",
     "Address":"68 Riverstone Road",
     "Postcode":"4865",
@@ -712,8 +712,8 @@
   {
     "Site_ID":61402869,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-20T11:30:14+10:00",
-    "Price":2.799,
+    "TransactionDate":"2026-10-30T16:25:09+10:00",
+    "Price":2.795,
     "Name":"United Gordonvale Cairns Road",
     "Address":"105-115 Cairns Road",
     "Postcode":"4865",
@@ -812,8 +812,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-15T05:44:22+10:00",
-    "Price":9.999,
+    "TransactionDate":"2026-10-30T16:01:14+10:00",
+    "Price":2.795,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-30T12:25:18+10:00",
+    "TransactionDate":"2026-10-30T20:40:19+10:00",
     "Price":2.739,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -902,7 +902,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-30T12:25:18+10:00",
+    "TransactionDate":"2026-10-30T20:40:19+10:00",
     "Price":2.769,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1292,8 +1292,8 @@
   {
     "Site_ID":61470034,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-15T05:44:22+10:00",
-    "Price":9.999,
+    "TransactionDate":"2026-10-30T16:01:14+10:00",
+    "Price":2.495,
     "Name":"Mobil Gordonvale",
     "Address":"67 George St",
     "Postcode":"4865",
@@ -1342,7 +1342,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-30T12:25:18+10:00",
+    "TransactionDate":"2026-10-30T20:40:19+10:00",
     "Price":2.479,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1362,7 +1362,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-30T12:25:18+10:00",
+    "TransactionDate":"2026-10-30T20:40:19+10:00",
     "Price":2.569,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1712,7 +1712,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-30T12:25:18+10:00",
+    "TransactionDate":"2026-10-30T20:40:19+10:00",
     "Price":2.569,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1752,7 +1752,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-30T12:25:18+10:00",
+    "TransactionDate":"2026-10-30T20:40:19+10:00",
     "Price":2.659,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
