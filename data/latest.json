@@ -72,8 +72,8 @@
   {
     "Site_ID":61402371,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-29T16:22:18+10:00",
-    "Price":2.339,
+    "TransactionDate":"2026-10-31T09:22:18+10:00",
+    "Price":2.299,
     "Name":"EG Ampol Earlville",
     "Address":"537 Mulgrave Rd",
     "Postcode":"4870",
@@ -112,8 +112,8 @@
   {
     "Site_ID":61402458,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-30T09:27:18+10:00",
-    "Price":2.399,
+    "TransactionDate":"2026-10-31T08:37:19+10:00",
+    "Price":2.319,
     "Name":"EG Ampol Manunda",
     "Address":"1 Koch St",
     "Postcode":"4870",
@@ -252,7 +252,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-29T07:06:25+10:00",
+    "TransactionDate":"2026-10-31T06:25:31+10:00",
     "Price":2.395,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -332,7 +332,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-30T06:40:11+10:00",
+    "TransactionDate":"2026-10-31T08:30:14+10:00",
     "Price":2.388,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -342,7 +342,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-30T20:40:19+10:00",
+    "TransactionDate":"2026-10-31T12:10:18+10:00",
     "Price":2.299,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -392,8 +392,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-10-30T20:40:19+10:00",
-    "Price":2.399,
+    "TransactionDate":"2026-10-31T12:10:18+10:00",
+    "Price":2.379,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -782,8 +782,8 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-29T07:06:25+10:00",
-    "Price":2.775,
+    "TransactionDate":"2026-10-31T06:25:31+10:00",
+    "Price":2.765,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
     "Postcode":"4878",
@@ -852,8 +852,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-30T06:40:11+10:00",
-    "Price":2.799,
+    "TransactionDate":"2026-10-31T08:30:14+10:00",
+    "Price":2.819,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-30T20:40:19+10:00",
+    "TransactionDate":"2026-10-31T12:10:18+10:00",
     "Price":2.739,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -902,7 +902,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-10-30T20:40:19+10:00",
+    "TransactionDate":"2026-10-31T12:10:18+10:00",
     "Price":2.769,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1162,8 +1162,8 @@
   {
     "Site_ID":61402371,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-29T16:22:18+10:00",
-    "Price":2.509,
+    "TransactionDate":"2026-10-31T09:22:18+10:00",
+    "Price":2.469,
     "Name":"EG Ampol Earlville",
     "Address":"537 Mulgrave Rd",
     "Postcode":"4870",
@@ -1172,8 +1172,8 @@
   {
     "Site_ID":61402458,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-30T09:27:18+10:00",
-    "Price":2.569,
+    "TransactionDate":"2026-10-31T08:37:19+10:00",
+    "Price":2.489,
     "Name":"EG Ampol Manunda",
     "Address":"1 Koch St",
     "Postcode":"4870",
@@ -1262,7 +1262,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-29T07:06:25+10:00",
+    "TransactionDate":"2026-10-31T06:25:31+10:00",
     "Price":2.495,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -1332,8 +1332,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-30T06:40:11+10:00",
-    "Price":2.499,
+    "TransactionDate":"2026-10-31T08:30:14+10:00",
+    "Price":2.529,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
@@ -1342,7 +1342,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-30T20:40:19+10:00",
+    "TransactionDate":"2026-10-31T12:10:18+10:00",
     "Price":2.479,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1362,8 +1362,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-10-30T20:40:19+10:00",
-    "Price":2.569,
+    "TransactionDate":"2026-10-31T12:10:18+10:00",
+    "Price":2.549,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-30T06:40:11+10:00",
+    "TransactionDate":"2026-10-31T08:30:14+10:00",
     "Price":2.649,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
@@ -1712,7 +1712,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-30T20:40:19+10:00",
+    "TransactionDate":"2026-10-31T12:10:18+10:00",
     "Price":2.569,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1752,8 +1752,8 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-10-30T20:40:19+10:00",
-    "Price":2.659,
+    "TransactionDate":"2026-10-31T12:10:18+10:00",
+    "Price":2.639,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
     "Postcode":"4878",
@@ -1862,8 +1862,8 @@
   {
     "Site_ID":61402371,
     "Fuel_ID":12,
-    "TransactionDate":"2026-10-29T16:22:18+10:00",
-    "Price":2.319,
+    "TransactionDate":"2026-10-31T09:22:18+10:00",
+    "Price":2.279,
     "Name":"EG Ampol Earlville",
     "Address":"537 Mulgrave Rd",
     "Postcode":"4870",
@@ -1902,8 +1902,8 @@
   {
     "Site_ID":61402458,
     "Fuel_ID":12,
-    "TransactionDate":"2026-10-30T09:27:18+10:00",
-    "Price":2.379,
+    "TransactionDate":"2026-10-31T08:37:19+10:00",
+    "Price":2.299,
     "Name":"EG Ampol Manunda",
     "Address":"1 Koch St",
     "Postcode":"4870",
@@ -2002,7 +2002,7 @@
   {
     "Site_ID":61451722,
     "Fuel_ID":12,
-    "TransactionDate":"2026-10-29T07:06:25+10:00",
+    "TransactionDate":"2026-10-31T06:25:31+10:00",
     "Price":2.375,
     "Name":"Mobil Yorkey's Knob",
     "Address":"233 Yorkeys Knob Road",
@@ -2152,8 +2152,8 @@
   {
     "Site_ID":61402458,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-28T08:42:17+10:00",
-    "Price":2.819,
+    "TransactionDate":"2026-10-31T08:52:16+10:00",
+    "Price":2.769,
     "Name":"EG Ampol Manunda",
     "Address":"1 Koch St",
     "Postcode":"4870",
@@ -2172,8 +2172,8 @@
   {
     "Site_ID":61470507,
     "Fuel_ID":14,
-    "TransactionDate":"2026-10-30T06:40:11+10:00",
-    "Price":2.819,
+    "TransactionDate":"2026-10-31T08:30:14+10:00",
+    "Price":2.839,
     "Name":"NightOwl BP Manunda",
     "Address":"56-62 Alfred Street",
     "Postcode":"4870",
