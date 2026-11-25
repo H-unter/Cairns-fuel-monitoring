@@ -42,7 +42,7 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":2,
-    "TransactionDate":"2026-11-25T08:06:58+10:00",
+    "TransactionDate":"2026-11-26T04:13:35+10:00",
     "Price":1.999,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
@@ -152,8 +152,8 @@
   {
     "Site_ID":61402795,
     "Fuel_ID":2,
-    "TransactionDate":"2026-11-20T13:50:04+10:00",
-    "Price":2.109,
+    "TransactionDate":"2026-11-25T15:25:06+10:00",
+    "Price":2.089,
     "Name":"BP Mossman",
     "Address":"68 Pringle St",
     "Postcode":"4873",
@@ -342,7 +342,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":2,
-    "TransactionDate":"2026-11-25T15:10:18+10:00",
+    "TransactionDate":"2026-11-26T04:55:19+10:00",
     "Price":2.039,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -392,7 +392,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":2,
-    "TransactionDate":"2026-11-25T15:10:18+10:00",
+    "TransactionDate":"2026-11-26T04:55:19+10:00",
     "Price":2.059,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -442,8 +442,8 @@
   {
     "Site_ID":61477726,
     "Fuel_ID":2,
-    "TransactionDate":"2026-11-19T06:22:25+10:00",
-    "Price":2.099,
+    "TransactionDate":"2026-11-25T21:28:31+10:00",
+    "Price":2.059,
     "Name":"White Rock General Store",
     "Address":"150 Progress Road",
     "Postcode":"4868",
@@ -522,8 +522,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":2,
-    "TransactionDate":"2026-11-20T14:00:55+10:00",
-    "Price":2.149,
+    "TransactionDate":"2026-11-25T16:28:56+10:00",
+    "Price":2.129,
     "Name":"Raintrees Cafe and Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -622,7 +622,7 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":3,
-    "TransactionDate":"2026-11-23T13:02:53+10:00",
+    "TransactionDate":"2026-11-26T04:13:35+10:00",
     "Price":2.499,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
@@ -682,8 +682,8 @@
   {
     "Site_ID":61402795,
     "Fuel_ID":3,
-    "TransactionDate":"2026-11-20T13:50:04+10:00",
-    "Price":2.619,
+    "TransactionDate":"2026-11-25T15:25:06+10:00",
+    "Price":2.599,
     "Name":"BP Mossman",
     "Address":"68 Pringle St",
     "Postcode":"4873",
@@ -862,7 +862,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":3,
-    "TransactionDate":"2026-11-25T15:10:18+10:00",
+    "TransactionDate":"2026-11-26T04:55:19+10:00",
     "Price":2.529,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -902,7 +902,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":3,
-    "TransactionDate":"2026-11-25T15:10:18+10:00",
+    "TransactionDate":"2026-11-26T04:55:19+10:00",
     "Price":2.549,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -952,8 +952,8 @@
   {
     "Site_ID":61477726,
     "Fuel_ID":3,
-    "TransactionDate":"2026-11-19T06:22:25+10:00",
-    "Price":2.579,
+    "TransactionDate":"2026-11-25T21:28:31+10:00",
+    "Price":2.499,
     "Name":"White Rock General Store",
     "Address":"150 Progress Road",
     "Postcode":"4868",
@@ -1032,8 +1032,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":3,
-    "TransactionDate":"2026-11-20T14:00:55+10:00",
-    "Price":2.659,
+    "TransactionDate":"2026-11-25T16:28:56+10:00",
+    "Price":2.639,
     "Name":"Raintrees Cafe and Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -1202,8 +1202,8 @@
   {
     "Site_ID":61402795,
     "Fuel_ID":5,
-    "TransactionDate":"2026-11-20T13:50:04+10:00",
-    "Price":2.239,
+    "TransactionDate":"2026-11-25T15:25:06+10:00",
+    "Price":2.219,
     "Name":"BP Mossman",
     "Address":"68 Pringle St",
     "Postcode":"4873",
@@ -1332,7 +1332,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":5,
-    "TransactionDate":"2026-11-25T15:10:18+10:00",
+    "TransactionDate":"2026-11-26T04:55:19+10:00",
     "Price":2.219,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1352,7 +1352,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":5,
-    "TransactionDate":"2026-11-25T15:10:18+10:00",
+    "TransactionDate":"2026-11-26T04:55:19+10:00",
     "Price":2.229,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1472,8 +1472,8 @@
   {
     "Site_ID":61477822,
     "Fuel_ID":5,
-    "TransactionDate":"2026-11-20T14:00:55+10:00",
-    "Price":2.299,
+    "TransactionDate":"2026-11-25T16:28:56+10:00",
+    "Price":2.279,
     "Name":"Raintrees Cafe and Servo",
     "Address":"2 Foxton Avenue",
     "Postcode":"4873",
@@ -1542,7 +1542,7 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":8,
-    "TransactionDate":"2026-11-25T08:06:58+10:00",
+    "TransactionDate":"2026-11-26T04:13:35+10:00",
     "Price":2.299,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
@@ -1702,7 +1702,7 @@
   {
     "Site_ID":61470573,
     "Fuel_ID":8,
-    "TransactionDate":"2026-11-25T15:10:18+10:00",
+    "TransactionDate":"2026-11-26T04:55:19+10:00",
     "Price":2.309,
     "Name":"BP Earlville",
     "Address":"395 Mulgrave Rd & Mccoombe Rd",
@@ -1742,7 +1742,7 @@
   {
     "Site_ID":61477062,
     "Fuel_ID":8,
-    "TransactionDate":"2026-11-25T15:10:18+10:00",
+    "TransactionDate":"2026-11-26T04:55:19+10:00",
     "Price":2.319,
     "Name":"BP Smithfield Cairns",
     "Address":"Captain Cook Hwy",
@@ -1822,7 +1822,7 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":12,
-    "TransactionDate":"2026-11-25T08:06:58+10:00",
+    "TransactionDate":"2026-11-26T04:13:35+10:00",
     "Price":1.979,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
@@ -2072,8 +2072,8 @@
   {
     "Site_ID":61402067,
     "Fuel_ID":14,
-    "TransactionDate":"2026-11-23T13:02:53+10:00",
-    "Price":2.519,
+    "TransactionDate":"2026-11-26T04:13:35+10:00",
+    "Price":2.529,
     "Name":"Caltex Woree",
     "Address":"590 Mulgrave Rd",
     "Postcode":"4868",
